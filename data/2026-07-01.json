@@ -10,36 +10,36 @@
       "popularityScore": 70944
     },
     {
-      "id": "eurocopa-2012-2012",
-      "year": 2012,
-      "text": "la selección de fútbol de España gana la UEFA Euro 2012 celebrada en Polonia y Ucrania, siendo la primera selección de fútbol de la historia que logra conseguir dos títulos continentales consecutivos y la primera en hacer un triplete (Eurocopa, Mundial, Eurocopa).",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/UEFA_Euro_2012_logo.svg/langes-330px-UEFA_Euro_2012_logo.svg.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Eurocopa_2012",
-      "popularityScore": 14908
-    },
-    {
-      "id": "provincia-de-buenos-aires-1912",
-      "year": 1912,
-      "text": "en la provincia de Buenos Aires se funda la entidad deportiva Argentina Club Almirante Brown",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg/330px-Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Provincia_de_Buenos_Aires",
-      "popularityScore": 15339
-    },
-    {
-      "id": "andres-manuel-lopez-obrador-2018",
-      "year": 2018,
-      "text": "en México, Andrés Manuel López Obrador, candidato de la coalición Juntos Haremos Historia, es elegido presidente de México, con un histórico resultado del 53% de los votos contados, siendo la primera vez en la Historia de México en que un candidato de izquierda es elegido presidente de México.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/01.10.2024_-_Cerim%C3%B4nia_de_transmiss%C3%A3o_do_Poder_Executivo_Federal_%2854036093388%29_%28cropped%29.jpg/330px-01.10.2024_-_Cerim%C3%B4nia_de_transmiss%C3%A3o_do_Poder_Executivo_Federal_%2854036093388%29_%28cropped%29.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador",
-      "popularityScore": 30717
-    },
-    {
-      "id": "buenos-aires-1974",
-      "year": 1974,
-      "text": "en Buenos Aires, Argentina, muere el presidente Juan Domingo Perón y es sucedido por la vicepresidenta María Estela Martínez de Perón, su viuda. Quien se convirtió en la primera presidenta mujer en la historia latinoamericana.",
+      "id": "buenos-aires-1911",
+      "year": 1911,
+      "text": "en Buenos Aires (Argentina) se inaugura el ferrocarril Midland entre Puente Alsina y Carhué.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
       "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
       "popularityScore": 36964
+    },
+    {
+      "id": "londres-1972",
+      "year": 1972,
+      "text": "en la ciudad de Londres (Reino Unido) se lleva a cabo la primera marcha del orgullo gay.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
+    },
+    {
+      "id": "guerra-de-secesion-1863",
+      "year": 1863,
+      "text": "en los Estados Unidos, en el marco de la Guerra de Secesión, comienza la batalla de Gettysburg.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CivilWarUSAColl.png/330px-CivilWarUSAColl.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Secesi%C3%B3n",
+      "popularityScore": 21228
+    },
+    {
+      "id": "enrique-pena-nieto-2012",
+      "year": 2012,
+      "text": "en México, Enrique Peña Nieto ―candidato de la coalición Compromiso por México― es elegido presidente de México. Duró en su cargo hasta 2018.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Enrique_Pena_Nieto.jpg/330px-Enrique_Pena_Nieto.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto",
+      "popularityScore": 19551
     }
   ]
 }

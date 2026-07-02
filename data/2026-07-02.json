@@ -18,28 +18,28 @@
       "popularityScore": 14111
     },
     {
-      "id": "juan-pablo-ii-1986",
-      "year": 1986,
-      "text": "Segundo día de la visita del papa Juan Pablo II a Colombia. Visita a Chiquinquirá, Boyacá y se lleva a cabo la Eucaristía y coronación de la Virgen de Chiquinquirá y la Consagración de Colombia a la Virgen del Rosario.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/George_H_W_Bush_and_Pope_John_Paul_II_%28cropped%29.jpg/330px-George_H_W_Bush_and_Pope_John_Paul_II_%28cropped%29.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Pablo_II",
-      "popularityScore": 75608
+      "id": "la-habana-1886",
+      "year": 1886,
+      "text": "en La Habana (Cuba) concluyen las obras de la necrópolis Cristóbal Colón.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/HavanaMontage.png/330px-HavanaMontage.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/La_Habana",
+      "popularityScore": 6384
     },
     {
-      "id": "iglesia-catolica-1871",
-      "year": 1871,
-      "text": "en México, el sacerdote Manuel Aguas leyó el sermón en el que explicaba las razones personales que lo condujeron a separarse de la Iglesia católica y a unirse a la Iglesia de Jesús.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/330px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Iglesia_cat%C3%B3lica",
-      "popularityScore": 28364
+      "id": "guerra-de-vietnam-1976",
+      "year": 1976,
+      "text": "Tras vencer al invasor Estados Unidos en la guerra de Vietnam (1955-1975), las dos mitades en que Francia había dividido a Vietnam ―Vietnam del Norte y Vietnam del Sur― se unen para formar la República Socialista de Vietnam.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/330px-VietnamMural.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Vietnam",
+      "popularityScore": 27377
     },
     {
-      "id": "adolf-hitler-1934",
-      "year": 1934,
-      "text": "en Alemania, Adolf Hitler ordena el asesinato de sus opositores políticos (Noche de los Cuchillos Largos). Es asesinado el militar nazi Ernst Röhm.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/330px-Hitler_portrait_crop.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Adolf_Hitler",
-      "popularityScore": 92481
+      "id": "londres-1897",
+      "year": 1897,
+      "text": "en Londres (Reino Unido), el italiano Guglielmo Marconi (1874-1937) patenta la radio (que ya Nikola Tesla había patentado en esa misma ciudad).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
     }
   ]
 }

@@ -55,7 +55,25 @@ function esImagenGenerica(url) {
     // URL con escapes malformados: se evalúa tal cual
   }
   decodificada = decodificada.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
-  return PATRONES_IMAGEN_GENERICA.some((patron) => decodificada.includes(patron))
+  if (PATRONES_IMAGEN_GENERICA.some((patron) => decodificada.includes(patron))) return true
+  return contieneAnoPlausible(decodificada)
+}
+
+/**
+ * Detecta nombres de archivo que delatan la respuesta: una secuencia de
+ * exactamente 4 dígitos que sea un año plausible dentro del rango jugable
+ * (p. ej. "UEFA_Euro_2012_logo.svg"). Los tamaños de thumbnail ("330px-",
+ * "2000px-") se eliminan antes para no dar falsos positivos.
+ * @param {string} url ya decodificada y en minúsculas
+ */
+function contieneAnoPlausible(url) {
+  const sinTamanos = url.replace(/\d+px-/g, '')
+  const anoActual = new Date().getFullYear()
+  for (const [, digitos] of sinTamanos.matchAll(/(?<!\d)(\d{4})(?!\d)/g)) {
+    const ano = Number(digitos)
+    if (ano >= ANO_MINIMO && ano <= anoActual) return true
+  }
+  return false
 }
 
 /** @param {string} url */
