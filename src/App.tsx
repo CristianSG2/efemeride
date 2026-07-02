@@ -5,10 +5,10 @@ import { formatearFechaLarga, hoyISO } from './lib/fechas'
 import { PantallaJuego } from './components/PantallaJuego'
 import { Archivo } from './components/Archivo'
 
-type Vista = { tipo: 'juego'; fecha: string | null } | { tipo: 'archivo' }
+export type Vista = { tipo: 'juego'; fecha: string | null } | { tipo: 'archivo' }
 
 /** Rutas hash: #/archivo, #/dia/YYYY-MM-DD, y raíz = el día de hoy. */
-function vistaDesdeHash(): Vista {
+export function vistaDesdeHash(): Vista {
   const hash = window.location.hash
   if (hash === '#/archivo') return { tipo: 'archivo' }
   const dia = hash.match(/^#\/dia\/(\d{4}-\d{2}-\d{2})$/)
