@@ -50,7 +50,9 @@ export function TarjetaEvento({ evento, estado, numero, total, onIntento, onCont
           onError={() => setSrc((actual) => (actual === evento.imageUrl ? actual : evento.imageUrl))}
           alt="Fotografía relacionada con el evento"
         />
-        {!estado.resuelto && <figcaption className={styles.pregunta}>¿En qué año ocurrió?</figcaption>}
+        {!estado.resuelto && (
+          <figcaption className={styles.pregunta}>{evento.textoPista}</figcaption>
+        )}
       </figure>
 
       {estado.intentos.length > 0 && (

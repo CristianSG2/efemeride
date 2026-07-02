@@ -60,12 +60,13 @@
 }
 
 .pregunta {
-  padding: 0.55rem 0;
+  padding: 0.6rem 0.4rem 0.7rem;
   text-align: center;
   font-family: var(--fuente-display);
   font-style: italic;
   font-size: 0.95rem;
-  color: var(--tinta-suave);
+  line-height: 1.5;
+  color: var(--tinta);
 }
 
 .pistas {
