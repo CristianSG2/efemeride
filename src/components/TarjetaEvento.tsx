@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import type { EstadoEvento, EventoDiario } from '../types'
 import { ANO_MINIMO, MAX_INTENTOS, anoMaximo, compararIntento } from '../lib/puntuacion'
+import { ampliarThumbnail } from '../lib/datos'
 import { SelectorAno } from './SelectorAno'
 import { RevelacionEvento } from './RevelacionEvento'
 import styles from './TarjetaEvento.module.css'
@@ -40,7 +41,11 @@ export function TarjetaEvento({ evento, estado, numero, total, onIntento, onCont
       </header>
 
       <figure className={styles.marco}>
-        <img className={styles.foto} src={evento.imageUrl} alt="Fotografía relacionada con el evento" />
+        <img
+          className={styles.foto}
+          src={ampliarThumbnail(evento.imageUrl)}
+          alt="Fotografía relacionada con el evento"
+        />
         {!estado.resuelto && <figcaption className={styles.pregunta}>¿En qué año ocurrió?</figcaption>}
       </figure>
 
