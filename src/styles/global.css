@@ -82,3 +82,40 @@ a {
   letter-spacing: 0.22em;
   color: var(--tinta-suave);
 }
+
+.navegacion {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  gap: 1.5rem;
+  margin: -0.75rem 0 1.25rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+}
+
+.navegacion a {
+  text-decoration: none;
+}
+
+.navegacion a:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.navegacion-fecha {
+  color: var(--tinta-suave);
+}
+
+.sin-pack {
+  max-width: 34rem;
+  margin: 2rem auto;
+  text-align: center;
+  font-style: italic;
+  color: var(--tinta-suave);
+}
+
+main {
+  padding-bottom: 3rem;
+}

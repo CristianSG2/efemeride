@@ -1,0 +1,80 @@
+.archivo {
+  max-width: 34rem;
+  margin: 0 auto;
+  padding: 1.75rem 1.5rem;
+  background: var(--papel-elevado);
+  border: 1px solid var(--linea);
+  border-radius: 10px;
+  box-shadow:
+    0 1px 2px rgba(60, 45, 20, 0.08),
+    0 12px 32px -18px rgba(60, 45, 20, 0.35);
+  text-align: center;
+}
+
+.eyebrow {
+  margin: 0;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  color: var(--tinta-suave);
+}
+
+.titulo {
+  margin: 0.2rem 0 0.4rem;
+  font-size: 1.5rem;
+}
+
+.nota {
+  margin: 0 0 1.2rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--tinta-suave);
+}
+
+.vacio {
+  font-style: italic;
+  color: var(--tinta-suave);
+}
+
+.lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lista li + li {
+  border-top: 1px dotted var(--linea);
+}
+
+.dia {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.85rem 0.4rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  color: var(--tinta);
+  transition: background 0.15s;
+}
+
+.dia:hover {
+  background: var(--acento-tenue);
+}
+
+.fecha {
+  font-family: var(--fuente-display);
+  font-weight: 600;
+}
+
+.estado {
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--acento);
+}

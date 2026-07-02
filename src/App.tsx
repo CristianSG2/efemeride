@@ -1,43 +1,46 @@
 import { useEffect, useState } from 'react'
-import type { EstadoEvento, EventoDiario } from './types'
+import type { PackDiario } from './types'
 import { cargarPack } from './lib/datos'
-import { calcularScore, MAX_INTENTOS } from './lib/puntuacion'
-import { TarjetaEvento } from './components/TarjetaEvento'
+import { formatearFechaLarga, hoyISO } from './lib/fechas'
+import { PantallaJuego } from './components/PantallaJuego'
+import { Archivo } from './components/Archivo'
 
-/**
- * Demo temporal de TarjetaEvento con un evento real del pack del 2 de julio.
- * Se sustituirá por la pantalla de juego completa.
- */
-function estadoDemo(anoReal: number): EstadoEvento {
-  const preset = new URLSearchParams(window.location.search).get('demo')
-  if (preset === 'pistas') {
-    return { intentos: [1950, 1880], resuelto: false, score: null }
-  }
-  if (preset === 'revelado') {
-    return { intentos: [1950, 1880, 1899], resuelto: true, score: calcularScore(anoReal, 1899) }
-  }
-  return { intentos: [], resuelto: false, score: null }
+type Vista = { tipo: 'juego'; fecha: string | null } | { tipo: 'archivo' }
+
+/** Rutas hash: #/archivo, #/dia/YYYY-MM-DD, y raíz = el día de hoy. */
+function vistaDesdeHash(): Vista {
+  const hash = window.location.hash
+  if (hash === '#/archivo') return { tipo: 'archivo' }
+  const dia = hash.match(/^#\/dia\/(\d{4}-\d{2}-\d{2})$/)
+  if (dia) return { tipo: 'juego', fecha: dia[1] }
+  return { tipo: 'juego', fecha: null }
 }
 
 export default function App() {
-  const [evento, setEvento] = useState<EventoDiario | null>(null)
-  const [estado, setEstado] = useState<EstadoEvento>({ intentos: [], resuelto: false, score: null })
+  const [vista, setVista] = useState<Vista>(vistaDesdeHash)
+  const [pack, setPack] = useState<PackDiario | null>(null)
+  const [cargando, setCargando] = useState(true)
 
   useEffect(() => {
-    cargarPack('2026-07-02').then((pack) => {
-      if (!pack) return
-      const elegido = pack.events.find((e) => e.year === 1897) ?? pack.events[0]
-      setEvento(elegido)
-      setEstado(estadoDemo(elegido.year))
-    })
+    const alCambiar = () => setVista(vistaDesdeHash())
+    window.addEventListener('hashchange', alCambiar)
+    return () => window.removeEventListener('hashchange', alCambiar)
   }, [])
 
-  const intentar = (ano: number) => {
-    if (!evento || estado.resuelto) return
-    const intentos = [...estado.intentos, ano]
-    const resuelto = ano === evento.year || intentos.length >= MAX_INTENTOS
-    setEstado({ intentos, resuelto, score: resuelto ? calcularScore(evento.year, ano) : null })
-  }
+  const hoy = hoyISO()
+  const fecha = vista.tipo === 'juego' ? (vista.fecha ?? hoy) : null
+
+  useEffect(() => {
+    if (!fecha) return
+    setCargando(true)
+    setPack(null)
+    cargarPack(fecha).then((cargado) => {
+      setPack(cargado)
+      setCargando(false)
+    })
+  }, [fecha])
+
+  const esHoy = fecha === hoy
 
   return (
     <main>
@@ -45,8 +48,31 @@ export default function App() {
         <h1>Efeméride Diaria</h1>
         <p>¿En qué año ocurrió?</p>
       </header>
-      {evento && (
-        <TarjetaEvento evento={evento} estado={estado} numero={5} total={5} onIntento={intentar} />
+
+      <nav className="navegacion">
+        {vista.tipo === 'archivo' ? (
+          <a href="#/">← Volver a hoy</a>
+        ) : esHoy ? (
+          <a href="#/archivo">Archivo</a>
+        ) : (
+          <>
+            <a href="#/archivo">← Archivo</a>
+            <span className="navegacion-fecha">{fecha && formatearFechaLarga(fecha)}</span>
+            <a href="#/">Hoy</a>
+          </>
+        )}
+      </nav>
+
+      {vista.tipo === 'archivo' ? (
+        <Archivo onElegir={(elegida) => (window.location.hash = `#/dia/${elegida}`)} />
+      ) : cargando ? null : pack ? (
+        <PantallaJuego key={pack.date} pack={pack} esHoy={esHoy} />
+      ) : (
+        <p className="sin-pack">
+          {esHoy
+            ? 'El pack de hoy todavía no está disponible. Vuelve en un rato.'
+            : 'No hay pack para este día.'}
+        </p>
       )}
     </main>
   )
