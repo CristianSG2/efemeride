@@ -2,12 +2,20 @@
   "date": "2026-07-02",
   "events": [
     {
-      "id": "buenos-aires-1916",
-      "year": 1916,
-      "text": "en Buenos Aires (Argentina) se juega el primer partido de fútbol por la futura Copa América la selección de fútbol de Uruguay vence a la de Chile por 4 a 0.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
-      "popularityScore": 36964
+      "id": "bogota-2015",
+      "year": 2015,
+      "text": "en Bogotá (Colombia), explotan dos bombas. Se culpa al grupo guerrillero ELN (Ejército de Liberación Nacional).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 27562
+    },
+    {
+      "id": "felipe-calderon-2006",
+      "year": 2006,
+      "text": "en México se celebran las elecciones presidenciales y los dos candidatos punteros se declaran ganadores. La elección sería impugnada en los tribunales, siendo electo presidente de la República Felipe Calderón Hinojosa, candidato del Partido Acción Nacional (PAN).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Presidente_Felipe_Calderon_%28cropped%29.jpg/330px-Presidente_Felipe_Calderon_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Felipe_Calder%C3%B3n",
+      "popularityScore": 14111
     },
     {
       "id": "juan-pablo-ii-1986",
@@ -18,28 +26,20 @@
       "popularityScore": 75608
     },
     {
-      "id": "guerra-de-vietnam-1976",
-      "year": 1976,
-      "text": "Tras vencer al invasor Estados Unidos en la guerra de Vietnam (1955-1975), las dos mitades en que Francia había dividido a Vietnam ―Vietnam del Norte y Vietnam del Sur― se unen para formar la República Socialista de Vietnam.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/330px-VietnamMural.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Vietnam",
-      "popularityScore": 27377
+      "id": "iglesia-catolica-1871",
+      "year": 1871,
+      "text": "en México, el sacerdote Manuel Aguas leyó el sermón en el que explicaba las razones personales que lo condujeron a separarse de la Iglesia católica y a unirse a la Iglesia de Jesús.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/330px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Iglesia_cat%C3%B3lica",
+      "popularityScore": 28364
     },
     {
-      "id": "club-atletico-boca-juniors-2003",
-      "year": 2003,
-      "text": "Boca Juniors se consagra campeón de la Copa Libertadores ante el Santos Futebol Clube de Brasil.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/CABJ70.png/330px-CABJ70.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Boca_Juniors",
-      "popularityScore": 34000
-    },
-    {
-      "id": "washington-d-c-1964",
-      "year": 1964,
-      "text": "en Washington D. C. (Estados Unidos), el presidente Lyndon B. Johnson firma un decreto que termina con el apartheid estadounidense. Estados Unidos es uno de los últimos países del mundo en acabar con ese flagelo social.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/330px-12-07-13-washington-by-RalfR-08.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Washington_D._C.",
-      "popularityScore": 18123
+      "id": "adolf-hitler-1934",
+      "year": 1934,
+      "text": "en Alemania, Adolf Hitler ordena el asesinato de sus opositores políticos (Noche de los Cuchillos Largos). Es asesinado el militar nazi Ernst Röhm.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/330px-Hitler_portrait_crop.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Adolf_Hitler",
+      "popularityScore": 92481
     }
   ]
 }

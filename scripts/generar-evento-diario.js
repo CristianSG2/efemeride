@@ -28,6 +28,36 @@ const UMBRALES_POPULARIDAD = [5000, 1000, 100, 0]
 
 const USER_AGENT = 'EfemerideDiaria/1.0 (juego web; https://github.com/CristianSG2/efemeride)'
 
+// Imágenes genéricas que no representan al evento (la página relacionada suele
+// ser el artículo de un país): banderas, escudos, mapas, sellos y emblemas.
+const PATRONES_IMAGEN_GENERICA = [
+  'flag_of',
+  'bandera_de',
+  'coat_of_arms',
+  'escudo_de',
+  'escudo_nacional',
+  'seal_of',
+  'emblem_of',
+  'emblema_de',
+  'locator_map',
+  'location_map',
+  'orthographic_projection',
+  'in_its_region',
+  'mapa_de_localizacion',
+]
+
+/** @param {string} url */
+function esImagenGenerica(url) {
+  let decodificada = url
+  try {
+    decodificada = decodeURIComponent(url)
+  } catch {
+    // URL con escapes malformados: se evalúa tal cual
+  }
+  decodificada = decodificada.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
+  return PATRONES_IMAGEN_GENERICA.some((patron) => decodificada.includes(patron))
+}
+
 /** @param {string} url */
 async function fetchJson(url) {
   const res = await fetch(url, { headers: { 'user-agent': USER_AGENT, accept: 'application/json' } })
@@ -109,10 +139,14 @@ function aCandidato(evento, anoActual) {
   if (typeof evento.year !== 'number' || evento.year < ANO_MINIMO || evento.year > anoActual) {
     return null
   }
-  const pagina = (evento.pages ?? []).find((p) => p.thumbnail?.source)
-  if (!pagina) return null
-  const wikipediaUrl = pagina.content_urls?.desktop?.page
-  if (!wikipediaUrl || !evento.text) return null
+  // Se recorren todas las páginas relacionadas: si la imagen de la primera es
+  // genérica (bandera, escudo, mapa...), se prueba con las siguientes. Solo se
+  // descarta el evento si ninguna página tiene una imagen que pase el filtro.
+  const pagina = (evento.pages ?? []).find(
+    (p) => p.thumbnail?.source && !esImagenGenerica(p.thumbnail.source) && p.content_urls?.desktop?.page,
+  )
+  if (!pagina || !evento.text) return null
+  const wikipediaUrl = pagina.content_urls.desktop.page
   return {
     id: `${slugificar(pagina.title)}-${evento.year}`,
     year: evento.year,

@@ -2,44 +2,44 @@
   "date": "2026-07-01",
   "events": [
     {
-      "id": "espana-2015",
-      "year": 2015,
-      "text": "en España, entra en vigor la nueva Ley de Seguridad Ciudadana.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/langes-330px-Bandera_de_Espa%C3%B1a.svg.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Espa%C3%B1a",
-      "popularityScore": 184871
+      "id": "ciudad-de-mexico-2019",
+      "year": 2019,
+      "text": "en la Ciudad de México, comienza los trabajos de mantenimento mayor al Tren Ligero de la Ciudad de México en el tramo Estadio Azteca-Tasqueña, siendo la primera vez desde su inauguración en 1986, que se realiza un mantenimiento de estas proporciones.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 70944
     },
     {
-      "id": "primera-guerra-mundial-1916",
-      "year": 1916,
-      "text": "en el marco de la Primera Guerra Mundial, comienza la batalla del Somme.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PrimeraGuerraMundial-collague.jpg/330px-PrimeraGuerraMundial-collague.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
-      "popularityScore": 74692
+      "id": "eurocopa-2012-2012",
+      "year": 2012,
+      "text": "la selección de fútbol de España gana la UEFA Euro 2012 celebrada en Polonia y Ucrania, siendo la primera selección de fútbol de la historia que logra conseguir dos títulos continentales consecutivos y la primera en hacer un triplete (Eurocopa, Mundial, Eurocopa).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/UEFA_Euro_2012_logo.svg/langes-330px-UEFA_Euro_2012_logo.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Eurocopa_2012",
+      "popularityScore": 14908
     },
     {
-      "id": "chile-1853",
-      "year": 1853,
-      "text": "en Chile se vende el primer sello postal.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-330px-Flag_of_Chile.svg.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Chile",
-      "popularityScore": 57736
+      "id": "provincia-de-buenos-aires-1912",
+      "year": 1912,
+      "text": "en la provincia de Buenos Aires se funda la entidad deportiva Argentina Club Almirante Brown",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg/330px-Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Provincia_de_Buenos_Aires",
+      "popularityScore": 15339
     },
     {
-      "id": "argentina-1982",
-      "year": 1982,
-      "text": "en Argentina ―en el marco de la sangrienta dictadura cívico-militar (1976-1983)― el general Reynaldo Bignone asume el poder tras la presidencia interina de facto del general Alfredo Oscar Saint-Jean.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/langes-330px-Flag_of_Argentina.svg.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Argentina",
-      "popularityScore": 135774
+      "id": "andres-manuel-lopez-obrador-2018",
+      "year": 2018,
+      "text": "en México, Andrés Manuel López Obrador, candidato de la coalición Juntos Haremos Historia, es elegido presidente de México, con un histórico resultado del 53% de los votos contados, siendo la primera vez en la Historia de México en que un candidato de izquierda es elegido presidente de México.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/01.10.2024_-_Cerim%C3%B4nia_de_transmiss%C3%A3o_do_Poder_Executivo_Federal_%2854036093388%29_%28cropped%29.jpg/330px-01.10.2024_-_Cerim%C3%B4nia_de_transmiss%C3%A3o_do_Poder_Executivo_Federal_%2854036093388%29_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador",
+      "popularityScore": 30717
     },
     {
-      "id": "reino-unido-1997",
-      "year": 1997,
-      "text": "el Reino Unido traspasa el control de Hong Kong a China, después de 155 años de colonia.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langes-330px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Reino_Unido",
-      "popularityScore": 60901
+      "id": "buenos-aires-1974",
+      "year": 1974,
+      "text": "en Buenos Aires, Argentina, muere el presidente Juan Domingo Perón y es sucedido por la vicepresidenta María Estela Martínez de Perón, su viuda. Quien se convirtió en la primera presidenta mujer en la historia latinoamericana.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36964
     }
   ]
 }
