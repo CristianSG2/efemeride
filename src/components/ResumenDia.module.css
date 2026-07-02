@@ -1,0 +1,166 @@
+.resumen {
+  max-width: 34rem;
+  margin: 0 auto;
+  padding: 1.75rem 1.5rem;
+  background: var(--papel-elevado);
+  border: 1px solid var(--linea);
+  border-radius: 10px;
+  box-shadow:
+    0 1px 2px rgba(60, 45, 20, 0.08),
+    0 12px 32px -18px rgba(60, 45, 20, 0.35);
+  text-align: center;
+}
+
+.eyebrow {
+  margin: 0;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  color: var(--tinta-suave);
+}
+
+.fecha {
+  font-size: 1.35rem;
+  font-weight: 600;
+  font-style: italic;
+  margin: 0.2rem 0 0.9rem;
+}
+
+.score {
+  margin: 0;
+  font-family: var(--fuente-display);
+  font-variation-settings: 'opsz' 144;
+  font-weight: 900;
+  font-size: 4.6rem;
+  line-height: 1;
+  color: var(--tinta);
+  font-variant-numeric: tabular-nums;
+}
+
+.scoreMax {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: var(--tinta-suave);
+}
+
+.nuevoRecord {
+  display: inline-block;
+  margin: 0.7rem 0 0;
+  padding: 0.3rem 1rem;
+  border-radius: 999px;
+  background: var(--acento);
+  color: var(--papel-elevado);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.estadisticas {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  margin: 1.2rem 0 0;
+  padding: 0.9rem 0;
+  border-top: 1px solid var(--linea);
+  border-bottom: 1px solid var(--linea);
+}
+
+.estadisticas dt {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--tinta-suave);
+}
+
+.estadisticas dd {
+  margin: 0.15rem 0 0;
+  font-family: var(--fuente-display);
+  font-weight: 700;
+  font-size: 1.35rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.notaArchivo {
+  margin: 1.1rem 0 0;
+  padding: 0.7rem 0;
+  border-top: 1px solid var(--linea);
+  border-bottom: 1px solid var(--linea);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--tinta-suave);
+}
+
+.eventos {
+  list-style: none;
+  margin: 1.1rem 0 1.4rem;
+  padding: 0;
+  text-align: left;
+}
+
+.evento {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.55rem 0.2rem;
+}
+
+.evento + .evento {
+  border-top: 1px dotted var(--linea);
+}
+
+.emoji {
+  flex: none;
+  font-size: 1rem;
+}
+
+.ano {
+  flex: none;
+  font-family: var(--fuente-display);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.textoEvento {
+  flex: 1;
+  min-width: 0;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  color: var(--tinta-suave);
+  text-decoration: none;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.textoEvento:hover {
+  color: var(--acento);
+}
+
+.puntos {
+  flex: none;
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--acierto);
+  font-variant-numeric: tabular-nums;
+}
+
+.compartir {
+  padding: 0.7rem 2.2rem;
+  border: none;
+  border-radius: 8px;
+  background: var(--acento);
+  color: var(--papel-elevado);
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.compartir:hover {
+  background: var(--acento-oscuro);
+}
