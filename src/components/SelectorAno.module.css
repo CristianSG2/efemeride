@@ -1,0 +1,83 @@
+.selector {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.fila {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.cifra {
+  font-family: var(--fuente-display);
+  font-variation-settings: 'opsz' 144;
+  font-weight: 700;
+  font-size: 3.4rem;
+  line-height: 1.1;
+  width: 5ch;
+  text-align: center;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid var(--linea-fuerte);
+  color: var(--tinta);
+  font-variant-numeric: tabular-nums;
+  -moz-appearance: textfield;
+  appearance: textfield;
+  border-radius: 0;
+}
+
+.cifra::-webkit-outer-spin-button,
+.cifra::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.cifra:focus {
+  outline: none;
+  border-bottom-color: var(--acento);
+}
+
+.paso {
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+  border: 1px solid var(--linea-fuerte);
+  background: var(--papel-elevado);
+  color: var(--tinta);
+  font-size: 1.3rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.paso:hover:not(:disabled) {
+  background: var(--acento-tenue);
+}
+
+.paso:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.slider {
+  width: 100%;
+  margin: 0.5rem 0 0;
+  accent-color: var(--acento);
+  cursor: pointer;
+}
+
+.slider:disabled {
+  cursor: default;
+}
+
+.extremos {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  color: var(--tinta-suave);
+  font-variant-numeric: tabular-nums;
+}

@@ -1,0 +1,69 @@
+.revelacion {
+  text-align: center;
+  padding: 1.1rem 0.5rem 0.4rem;
+  border-top: 3px double var(--linea-fuerte);
+  animation: aparecer 0.35s ease-out;
+}
+
+@keyframes aparecer {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.etiqueta {
+  margin: 0;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  color: var(--tinta-suave);
+}
+
+.ano {
+  margin: 0.1rem 0;
+  font-family: var(--fuente-display);
+  font-variation-settings: 'opsz' 144;
+  font-weight: 900;
+  font-size: 4.2rem;
+  line-height: 1;
+  color: var(--acento);
+  font-variant-numeric: tabular-nums;
+}
+
+.score {
+  display: inline-block;
+  margin: 0.2rem 0 0.8rem;
+  padding: 0.25rem 0.9rem;
+  border-radius: 999px;
+  background: var(--acierto-fondo);
+  color: var(--acierto);
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.score[data-cero] {
+  background: var(--acento-tenue);
+  color: var(--acento-oscuro);
+}
+
+.texto {
+  margin: 0 auto 0.9rem;
+  max-width: 44ch;
+  font-family: var(--fuente-display);
+  font-size: 1.02rem;
+  line-height: 1.55;
+  color: var(--tinta);
+}
+
+.enlace {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}

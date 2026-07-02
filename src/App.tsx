@@ -1,122 +1,53 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import { useEffect, useState } from 'react'
+import type { EstadoEvento, EventoDiario } from './types'
+import { cargarPack } from './lib/datos'
+import { calcularScore, MAX_INTENTOS } from './lib/puntuacion'
+import { TarjetaEvento } from './components/TarjetaEvento'
 
-function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
-
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+/**
+ * Demo temporal de TarjetaEvento con un evento real del pack del 2 de julio.
+ * Se sustituirá por la pantalla de juego completa.
+ */
+function estadoDemo(anoReal: number): EstadoEvento {
+  const preset = new URLSearchParams(window.location.search).get('demo')
+  if (preset === 'pistas') {
+    return { intentos: [1950, 1880], resuelto: false, score: null }
+  }
+  if (preset === 'revelado') {
+    return { intentos: [1950, 1880, 1899], resuelto: true, score: calcularScore(anoReal, 1899) }
+  }
+  return { intentos: [], resuelto: false, score: null }
 }
 
-export default App
+export default function App() {
+  const [evento, setEvento] = useState<EventoDiario | null>(null)
+  const [estado, setEstado] = useState<EstadoEvento>({ intentos: [], resuelto: false, score: null })
+
+  useEffect(() => {
+    cargarPack('2026-07-02').then((pack) => {
+      if (!pack) return
+      const elegido = pack.events.find((e) => e.year === 1897) ?? pack.events[0]
+      setEvento(elegido)
+      setEstado(estadoDemo(elegido.year))
+    })
+  }, [])
+
+  const intentar = (ano: number) => {
+    if (!evento || estado.resuelto) return
+    const intentos = [...estado.intentos, ano]
+    const resuelto = ano === evento.year || intentos.length >= MAX_INTENTOS
+    setEstado({ intentos, resuelto, score: resuelto ? calcularScore(evento.year, ano) : null })
+  }
+
+  return (
+    <main>
+      <header className="mancheta">
+        <h1>Efeméride Diaria</h1>
+        <p>¿En qué año ocurrió?</p>
+      </header>
+      {evento && (
+        <TarjetaEvento evento={evento} estado={estado} numero={5} total={5} onIntento={intentar} />
+      )}
+    </main>
+  )
+}

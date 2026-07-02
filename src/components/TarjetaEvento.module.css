@@ -1,0 +1,154 @@
+.tarjeta {
+  max-width: 34rem;
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem 1.5rem;
+  background: var(--papel-elevado);
+  border: 1px solid var(--linea);
+  border-radius: 10px;
+  box-shadow:
+    0 1px 2px rgba(60, 45, 20, 0.08),
+    0 12px 32px -18px rgba(60, 45, 20, 0.35);
+}
+
+.cabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.9rem;
+}
+
+.numero {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--tinta-suave);
+}
+
+.intentos {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.punto,
+.puntoUsado {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  border: 1.5px solid var(--linea-fuerte);
+}
+
+.puntoUsado {
+  background: var(--acento);
+  border-color: var(--acento);
+}
+
+.marco {
+  margin: 0 0 1rem;
+  padding: 0.6rem 0.6rem 0;
+  background: #fff;
+  border: 1px solid var(--linea);
+  box-shadow: inset 0 0 0 1px rgba(60, 45, 20, 0.04);
+}
+
+.foto {
+  display: block;
+  width: 100%;
+  max-height: 21rem;
+  object-fit: cover;
+  filter: sepia(0.08) contrast(1.02);
+}
+
+.pregunta {
+  padding: 0.55rem 0;
+  text-align: center;
+  font-family: var(--fuente-display);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--tinta-suave);
+}
+
+.pistas {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 0 0 1rem;
+  padding: 0;
+}
+
+.pista {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.3rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  animation: entrar 0.25s ease-out;
+}
+
+@keyframes entrar {
+  from {
+    opacity: 0;
+    transform: scale(0.92);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.pista[data-pista='mas-antiguo'] {
+  background: var(--antiguo-fondo);
+  color: var(--antiguo);
+}
+
+.pista[data-pista='mas-reciente'] {
+  background: var(--reciente-fondo);
+  color: var(--reciente);
+}
+
+.pista[data-pista='acierto'] {
+  background: var(--acierto-fondo);
+  color: var(--acierto);
+}
+
+.pistaAno {
+  font-family: var(--fuente-display);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.controles {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.probar,
+.continuar {
+  align-self: center;
+  padding: 0.7rem 2.2rem;
+  border: none;
+  border-radius: 8px;
+  background: var(--acento);
+  color: var(--papel-elevado);
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.probar:hover,
+.continuar:hover {
+  background: var(--acento-oscuro);
+}
+
+.continuar {
+  display: block;
+  margin: 0.75rem auto 0;
+}
