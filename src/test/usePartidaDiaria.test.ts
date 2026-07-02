@@ -13,7 +13,8 @@ function packDe(fecha: string): PackDiario {
     events: ANOS.map((year, i) => ({
       id: `evento-${i}`,
       year,
-      text: `Evento de prueba ${i}`,
+      texto: `Evento de prueba ${i}`,
+      textoPista: `Evento de prueba ${i}`,
       imageUrl: 'https://example.test/foto.jpg',
       wikipediaUrl: 'https://es.wikipedia.org/wiki/Prueba',
       popularityScore: 1000,

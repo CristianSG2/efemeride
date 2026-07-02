@@ -16,7 +16,7 @@ export function RevelacionEvento({ evento, estado }: Props) {
       <p className={styles.score} data-cero={estado.score === 0 || undefined}>
         +{estado.score ?? 0} puntos
       </p>
-      <p className={styles.texto}>{evento.text}</p>
+      <p className={styles.texto}>{evento.texto}</p>
       <a className={styles.enlace} href={evento.wikipediaUrl} target="_blank" rel="noopener noreferrer">
         Leer en Wikipedia ↗
       </a>

@@ -2,7 +2,10 @@
 export interface EventoDiario {
   id: string
   year: number
-  text: string
+  /** Texto original del evento; solo se muestra en la revelación final. */
+  texto: string
+  /** Texto con los años en rango enmascarados; pista visible desde el primer intento. */
+  textoPista: string
   imageUrl: string
   wikipediaUrl: string
   popularityScore: number

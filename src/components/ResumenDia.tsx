@@ -74,7 +74,7 @@ export function ResumenDia({ pack, estado, scoreTotal, esNuevoRecord, record, ra
               target="_blank"
               rel="noopener noreferrer"
             >
-              {evento.text}
+              {evento.texto}
             </a>
             <span className={styles.puntos}>+{estado.eventos[i].score ?? 0}</span>
           </li>
