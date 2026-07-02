@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-01",
+  "events": [
+    {
+      "id": "espana-2015",
+      "year": 2015,
+      "text": "en España, entra en vigor la nueva Ley de Seguridad Ciudadana.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/langes-330px-Bandera_de_Espa%C3%B1a.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Espa%C3%B1a",
+      "popularityScore": 184871
+    },
+    {
+      "id": "primera-guerra-mundial-1916",
+      "year": 1916,
+      "text": "en el marco de la Primera Guerra Mundial, comienza la batalla del Somme.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PrimeraGuerraMundial-collague.jpg/330px-PrimeraGuerraMundial-collague.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
+      "popularityScore": 74692
+    },
+    {
+      "id": "chile-1853",
+      "year": 1853,
+      "text": "en Chile se vende el primer sello postal.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-330px-Flag_of_Chile.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Chile",
+      "popularityScore": 57736
+    },
+    {
+      "id": "argentina-1982",
+      "year": 1982,
+      "text": "en Argentina ―en el marco de la sangrienta dictadura cívico-militar (1976-1983)― el general Reynaldo Bignone asume el poder tras la presidencia interina de facto del general Alfredo Oscar Saint-Jean.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/langes-330px-Flag_of_Argentina.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Argentina",
+      "popularityScore": 135774
+    },
+    {
+      "id": "reino-unido-1997",
+      "year": 1997,
+      "text": "el Reino Unido traspasa el control de Hong Kong a China, después de 155 años de colonia.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langes-330px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Reino_Unido",
+      "popularityScore": 60901
+    }
+  ]
+}

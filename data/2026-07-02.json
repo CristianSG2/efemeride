@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-02",
+  "events": [
+    {
+      "id": "buenos-aires-1916",
+      "year": 1916,
+      "text": "en Buenos Aires (Argentina) se juega el primer partido de fútbol por la futura Copa América la selección de fútbol de Uruguay vence a la de Chile por 4 a 0.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36964
+    },
+    {
+      "id": "juan-pablo-ii-1986",
+      "year": 1986,
+      "text": "Segundo día de la visita del papa Juan Pablo II a Colombia. Visita a Chiquinquirá, Boyacá y se lleva a cabo la Eucaristía y coronación de la Virgen de Chiquinquirá y la Consagración de Colombia a la Virgen del Rosario.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/George_H_W_Bush_and_Pope_John_Paul_II_%28cropped%29.jpg/330px-George_H_W_Bush_and_Pope_John_Paul_II_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Pablo_II",
+      "popularityScore": 75608
+    },
+    {
+      "id": "guerra-de-vietnam-1976",
+      "year": 1976,
+      "text": "Tras vencer al invasor Estados Unidos en la guerra de Vietnam (1955-1975), las dos mitades en que Francia había dividido a Vietnam ―Vietnam del Norte y Vietnam del Sur― se unen para formar la República Socialista de Vietnam.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/330px-VietnamMural.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Vietnam",
+      "popularityScore": 27377
+    },
+    {
+      "id": "club-atletico-boca-juniors-2003",
+      "year": 2003,
+      "text": "Boca Juniors se consagra campeón de la Copa Libertadores ante el Santos Futebol Clube de Brasil.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/CABJ70.png/330px-CABJ70.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Boca_Juniors",
+      "popularityScore": 34000
+    },
+    {
+      "id": "washington-d-c-1964",
+      "year": 1964,
+      "text": "en Washington D. C. (Estados Unidos), el presidente Lyndon B. Johnson firma un decreto que termina con el apartheid estadounidense. Estados Unidos es uno de los últimos países del mundo en acabar con ese flagelo social.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/330px-12-07-13-washington-by-RalfR-08.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Washington_D._C.",
+      "popularityScore": 18123
+    }
+  ]
+}
