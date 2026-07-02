@@ -1,0 +1,16 @@
+.marcador {
+  max-width: 34rem;
+  margin: 0 auto 0.75rem;
+  text-align: center;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--tinta-suave);
+}
+
+.marcador strong {
+  font-family: var(--fuente-display);
+  font-size: 1rem;
+  color: var(--tinta);
+  font-variant-numeric: tabular-nums;
+}
