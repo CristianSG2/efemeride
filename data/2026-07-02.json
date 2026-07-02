@@ -4,42 +4,47 @@
     {
       "id": "bogota-2015",
       "year": 2015,
-      "text": "en Bogotá (Colombia), explotan dos bombas. Se culpa al grupo guerrillero ELN (Ejército de Liberación Nacional).",
+      "texto": "en Bogotá (Colombia), explotan dos bombas. Se culpa al grupo guerrillero ELN (Ejército de Liberación Nacional).",
+      "textoPista": "en Bogotá (Colombia), explotan dos bombas. Se culpa al grupo guerrillero ELN (Ejército de Liberación Nacional).",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg",
       "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
       "popularityScore": 27562
     },
     {
-      "id": "felipe-calderon-2006",
-      "year": 2006,
-      "text": "en México se celebran las elecciones presidenciales y los dos candidatos punteros se declaran ganadores. La elección sería impugnada en los tribunales, siendo electo presidente de la República Felipe Calderón Hinojosa, candidato del Partido Acción Nacional (PAN).",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Presidente_Felipe_Calderon_%28cropped%29.jpg/330px-Presidente_Felipe_Calderon_%28cropped%29.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Felipe_Calder%C3%B3n",
-      "popularityScore": 14111
+      "id": "iglesia-catolica-1871",
+      "year": 1871,
+      "texto": "en México, el sacerdote Manuel Aguas leyó el sermón en el que explicaba las razones personales que lo condujeron a separarse de la Iglesia católica y a unirse a la Iglesia de Jesús.",
+      "textoPista": "en México, el sacerdote Manuel Aguas leyó el sermón en el que explicaba las razones personales que lo condujeron a separarse de la Iglesia católica y a unirse a la Iglesia de Jesús.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/330px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Iglesia_cat%C3%B3lica",
+      "popularityScore": 28364
+    },
+    {
+      "id": "juan-pablo-ii-1986",
+      "year": 1986,
+      "texto": "Segundo día de la visita del papa Juan Pablo II a Colombia. Visita a Chiquinquirá, Boyacá y se lleva a cabo la Eucaristía y coronación de la Virgen de Chiquinquirá y la Consagración de Colombia a la Virgen del Rosario.",
+      "textoPista": "Segundo día de la visita del papa Juan Pablo II a Colombia. Visita a Chiquinquirá, Boyacá y se lleva a cabo la Eucaristía y coronación de la Virgen de Chiquinquirá y la Consagración de Colombia a la Virgen del Rosario.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/George_H_W_Bush_and_Pope_John_Paul_II_%28cropped%29.jpg/330px-George_H_W_Bush_and_Pope_John_Paul_II_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Pablo_II",
+      "popularityScore": 75608
     },
     {
       "id": "la-habana-1886",
       "year": 1886,
-      "text": "en La Habana (Cuba) concluyen las obras de la necrópolis Cristóbal Colón.",
+      "texto": "en La Habana (Cuba) concluyen las obras de la necrópolis Cristóbal Colón.",
+      "textoPista": "en La Habana (Cuba) concluyen las obras de la necrópolis Cristóbal Colón.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/HavanaMontage.png/330px-HavanaMontage.png",
       "wikipediaUrl": "https://es.wikipedia.org/wiki/La_Habana",
       "popularityScore": 6384
     },
     {
-      "id": "guerra-de-vietnam-1976",
-      "year": 1976,
-      "text": "Tras vencer al invasor Estados Unidos en la guerra de Vietnam (1955-1975), las dos mitades en que Francia había dividido a Vietnam ―Vietnam del Norte y Vietnam del Sur― se unen para formar la República Socialista de Vietnam.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/330px-VietnamMural.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Vietnam",
-      "popularityScore": 27377
-    },
-    {
-      "id": "londres-1897",
-      "year": 1897,
-      "text": "en Londres (Reino Unido), el italiano Guglielmo Marconi (1874-1937) patenta la radio (que ya Nikola Tesla había patentado en esa misma ciudad).",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
-      "popularityScore": 20405
+      "id": "oceano-pacifico-1937",
+      "year": 1937,
+      "texto": "en medio del océano Pacífico, la aviadora estadounidense Amelia Earhart y su piloto navegador Fred Noonan envían un último mensaje durante su intento de realizar el primer viaje alrededor del mundo a lo largo del ecuador.",
+      "textoPista": "en medio del océano Pacífico, la aviadora estadounidense Amelia Earhart y su piloto navegador Fred Noonan envían un último mensaje durante su intento de realizar el primer viaje alrededor del mundo a lo largo del ecuador.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pacific_Ocean-ES.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Oc%C3%A9ano_Pac%C3%ADfico",
+      "popularityScore": 11639
     }
   ]
 }

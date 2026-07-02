@@ -13,7 +13,7 @@
 
 import { readFile, writeFile, readdir } from 'node:fs/promises'
 import path from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { fileURLToPath, pathToFileURL } from 'node:url'
 
 const DATA_DIR = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'data')
 const USED_EVENTS_PATH = path.join(DATA_DIR, 'used-events.json')
@@ -148,6 +148,21 @@ async function enLotes(elementos, tamano, tarea) {
 }
 
 /**
+ * Enmascara con "▪▪▪▪" toda secuencia de exactamente 4 dígitos que sea un año
+ * plausible dentro del rango jugable (1850–año actual). Se aplica a todos los
+ * años en rango, no solo al del evento: fechas como "(1874-1937)" acotan la
+ * respuesta igualmente. Números fuera de rango o de otra longitud no se tocan.
+ * @param {string} texto
+ * @param {number} [anoActual]
+ */
+export function enmascararAnos(texto, anoActual = new Date().getFullYear()) {
+  return texto.replace(/(?<!\d)\d{4}(?!\d)/g, (digitos) => {
+    const ano = Number(digitos)
+    return ano >= ANO_MINIMO && ano <= anoActual ? '▪▪▪▪' : digitos
+  })
+}
+
+/**
  * Convierte un evento crudo de la API en candidato del juego, o null si no
  * cumple los requisitos innegociables (foto y año en rango).
  * @param {any} evento
@@ -168,7 +183,8 @@ function aCandidato(evento, anoActual) {
   return {
     id: `${slugificar(pagina.title)}-${evento.year}`,
     year: evento.year,
-    text: evento.text,
+    texto: evento.text,
+    textoPista: enmascararAnos(evento.text, anoActual),
     imageUrl: pagina.thumbnail.source,
     wikipediaUrl,
     tituloPagina: pagina.title,
@@ -284,11 +300,17 @@ async function main() {
   console.log(`  Índice actualizado: ${fechas.length} fecha(s) disponibles`)
 
   for (const evento of seleccionados) {
-    console.log(`  · ${evento.year} — ${evento.text.slice(0, 80)}${evento.text.length > 80 ? '…' : ''} (${evento.popularityScore} vistas)`)
+    console.log(`  · ${evento.year} — ${evento.texto.slice(0, 80)}${evento.texto.length > 80 ? '…' : ''} (${evento.popularityScore} vistas)`)
   }
 }
 
-main().catch((error) => {
-  console.error('Error generando el pack diario:', error)
-  process.exit(1)
-})
+// Solo se ejecuta como CLI; al importarlo (p. ej. desde los tests de
+// enmascararAnos) no lanza el job.
+const esEjecucionDirecta =
+  process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href
+if (esEjecucionDirecta) {
+  main().catch((error) => {
+    console.error('Error generando el pack diario:', error)
+    process.exit(1)
+  })
+}

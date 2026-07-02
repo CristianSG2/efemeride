@@ -2,44 +2,49 @@
   "date": "2026-07-01",
   "events": [
     {
-      "id": "ciudad-de-mexico-2019",
-      "year": 2019,
-      "text": "en la Ciudad de México, comienza los trabajos de mantenimento mayor al Tren Ligero de la Ciudad de México en el tramo Estadio Azteca-Tasqueña, siendo la primera vez desde su inauguración en 1986, que se realiza un mantenimiento de estas proporciones.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
-      "popularityScore": 70944
-    },
-    {
-      "id": "buenos-aires-1911",
-      "year": 1911,
-      "text": "en Buenos Aires (Argentina) se inaugura el ferrocarril Midland entre Puente Alsina y Carhué.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
-      "popularityScore": 36964
-    },
-    {
       "id": "londres-1972",
       "year": 1972,
-      "text": "en la ciudad de Londres (Reino Unido) se lleva a cabo la primera marcha del orgullo gay.",
+      "texto": "en la ciudad de Londres (Reino Unido) se lleva a cabo la primera marcha del orgullo gay.",
+      "textoPista": "en la ciudad de Londres (Reino Unido) se lleva a cabo la primera marcha del orgullo gay.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
       "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
       "popularityScore": 20405
     },
     {
-      "id": "guerra-de-secesion-1863",
-      "year": 1863,
-      "text": "en los Estados Unidos, en el marco de la Guerra de Secesión, comienza la batalla de Gettysburg.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CivilWarUSAColl.png/330px-CivilWarUSAColl.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Secesi%C3%B3n",
-      "popularityScore": 21228
+      "id": "buenos-aires-1974",
+      "year": 1974,
+      "texto": "en Buenos Aires, Argentina, muere el presidente Juan Domingo Perón y es sucedido por la vicepresidenta María Estela Martínez de Perón, su viuda. Quien se convirtió en la primera presidenta mujer en la historia latinoamericana.",
+      "textoPista": "en Buenos Aires, Argentina, muere el presidente Juan Domingo Perón y es sucedido por la vicepresidenta María Estela Martínez de Perón, su viuda. Quien se convirtió en la primera presidenta mujer en la historia latinoamericana.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36964
     },
     {
-      "id": "enrique-pena-nieto-2012",
-      "year": 2012,
-      "text": "en México, Enrique Peña Nieto ―candidato de la coalición Compromiso por México― es elegido presidente de México. Duró en su cargo hasta 2018.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Enrique_Pena_Nieto.jpg/330px-Enrique_Pena_Nieto.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto",
-      "popularityScore": 19551
+      "id": "bogota-2022",
+      "year": 2022,
+      "texto": "en Bogotá (Colombia) fin de la emisora Oxígeno by Los 40 e inicio de Los 40 Urban (Colombia)",
+      "textoPista": "en Bogotá (Colombia) fin de la emisora Oxígeno by Los 40 e inicio de Los 40 Urban (Colombia)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 27562
+    },
+    {
+      "id": "francisco-franco-1976",
+      "year": 1976,
+      "texto": "en España dimite Carlos Arias Navarro, último presidente del Gobierno nombrado por el dictador Francisco Franco.",
+      "textoPista": "en España dimite Carlos Arias Navarro, último presidente del Gobierno nombrado por el dictador Francisco Franco.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg/330px-RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Francisco_Franco",
+      "popularityScore": 43683
+    },
+    {
+      "id": "primera-guerra-mundial-1916",
+      "year": 1916,
+      "texto": "en el marco de la Primera Guerra Mundial, comienza la batalla del Somme.",
+      "textoPista": "en el marco de la Primera Guerra Mundial, comienza la batalla del Somme.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PrimeraGuerraMundial-collague.jpg/330px-PrimeraGuerraMundial-collague.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
+      "popularityScore": 74692
     }
   ]
 }
