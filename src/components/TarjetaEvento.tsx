@@ -24,6 +24,9 @@ const ANO_INICIAL = Math.round((ANO_MINIMO + new Date().getFullYear()) / 2)
  */
 export function TarjetaEvento({ evento, estado, numero, total, onIntento, onContinuar, textoContinuar }: Props) {
   const [ano, setAno] = useState(ANO_INICIAL)
+  // Wikimedia rechaza thumbnails más anchos que la imagen original (HTTP 400):
+  // si la versión ampliada falla, se recurre al thumbnail original del pack.
+  const [src, setSrc] = useState(() => ampliarThumbnail(evento.imageUrl))
   const max = anoMaximo()
   const intentosRestantes = MAX_INTENTOS - estado.intentos.length
 
@@ -43,7 +46,8 @@ export function TarjetaEvento({ evento, estado, numero, total, onIntento, onCont
       <figure className={styles.marco}>
         <img
           className={styles.foto}
-          src={ampliarThumbnail(evento.imageUrl)}
+          src={src}
+          onError={() => setSrc((actual) => (actual === evento.imageUrl ? actual : evento.imageUrl))}
           alt="Fotografía relacionada con el evento"
         />
         {!estado.resuelto && <figcaption className={styles.pregunta}>¿En qué año ocurrió?</figcaption>}
