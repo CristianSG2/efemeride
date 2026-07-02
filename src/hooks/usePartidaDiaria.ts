@@ -59,6 +59,10 @@ export function usePartidaDiaria(pack: PackDiario | null, esHoy: boolean) {
     leerJSON(CLAVE_PROGRESO, PROGRESO_INICIAL),
   )
 
+  // Keyado por fecha (no por identidad del objeto pack): una partida se
+  // recarga solo al cambiar de día, aunque el llamante recree el pack en cada
+  // render. Con la identidad como dependencia, un pack nuevo por render
+  // provocaría efecto -> setEstado -> re-render en bucle.
   useEffect(() => {
     if (!pack) {
       setEstado(null)
@@ -66,7 +70,8 @@ export function usePartidaDiaria(pack: PackDiario | null, esHoy: boolean) {
     }
     const guardada = leerJSON<EstadoPartida | null>(clavePartida(pack.date), null)
     setEstado(guardada && guardada.eventos.length === pack.events.length ? guardada : partidaNueva(pack))
-  }, [pack])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pack?.date])
 
   const intentar = useCallback(
     (ano: number) => {
