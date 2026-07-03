@@ -11,7 +11,7 @@
  *   node scripts/generar-evento-diario.js 2026-07-01  # fecha concreta
  */
 
-import { readFile, writeFile, readdir } from 'node:fs/promises'
+import { access, readFile, writeFile, readdir } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
 
@@ -219,6 +219,16 @@ function seleccionarEventos(candidatos) {
   return barajar(top).slice(0, EVENTOS_POR_DIA)
 }
 
+/** @param {string} ruta */
+async function existeArchivo(ruta) {
+  try {
+    await access(ruta)
+    return true
+  } catch {
+    return false
+  }
+}
+
 /** Lee un JSON si existe; si no, devuelve el valor por defecto. */
 async function leerJsonOpcional(ruta, porDefecto) {
   try {
@@ -230,7 +240,9 @@ async function leerJsonOpcional(ruta, porDefecto) {
 }
 
 async function main() {
-  const argumento = process.argv[2]
+  const args = process.argv.slice(2)
+  const forzar = args.includes('--forzar')
+  const argumento = args.find((arg) => !arg.startsWith('--'))
   let fecha
   if (argumento) {
     if (!/^\d{4}-\d{2}-\d{2}$/.test(argumento)) {
@@ -244,6 +256,16 @@ async function main() {
   }
 
   const fechaISO = formatearFecha(fecha)
+  const rutaPack = path.join(DATA_DIR, `${fechaISO}.json`)
+
+  // Idempotencia: si el pack del día ya existe (p. ej. una re-ejecución del
+  // workflow), no se regenera ni se tocan used-events.json / index.json.
+  // Salida 0: para el cron esto es éxito, no fallo.
+  if (!forzar && (await existeArchivo(rutaPack))) {
+    console.log(`El pack de ${fechaISO} ya existe; no se regenera (usa --forzar para sobreescribirlo).`)
+    return
+  }
+
   const mm = String(fecha.getMonth() + 1).padStart(2, '0')
   const dd = String(fecha.getDate()).padStart(2, '0')
   const anoActual = new Date().getFullYear()
@@ -284,7 +306,6 @@ async function main() {
     date: fechaISO,
     events: seleccionados.map(({ tituloPagina, ...evento }) => evento),
   }
-  const rutaPack = path.join(DATA_DIR, `${fechaISO}.json`)
   await writeFile(rutaPack, JSON.stringify(pack, null, 2) + '\n')
   console.log(`  Escrito ${rutaPack}`)
 

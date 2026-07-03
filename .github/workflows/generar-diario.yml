@@ -27,7 +27,11 @@ jobs:
         id: fecha
         run: echo "hoy=$(TZ=Europe/Madrid date +%F)" >> "$GITHUB_OUTPUT"
 
-      - name: Generar el pack del día
+      # El generador es idempotente: si el pack del día ya existe informa
+      # "ya existe; no se regenera" y sale con éxito sin tocar nada (el log
+      # de este step muestra qué pasó). Para regenerar a propósito un día,
+      # ejecutar en local: npm run generar -- FECHA --forzar
+      - name: Generar el pack del día (o informar de que ya existe)
         run: npm run generar -- "${{ steps.fecha.outputs.hoy }}"
 
       - name: Commitear y publicar el pack
