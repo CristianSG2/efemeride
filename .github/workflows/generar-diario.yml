@@ -1,0 +1,44 @@
+name: Generar pack diario
+
+on:
+  schedule:
+    # 23:00 UTC = 00:00 en España en horario de invierno (CET). En verano
+    # (CEST) se desplaza a la 01:00, desfase aceptable para este proyecto.
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # El runner corre en UTC: a las 23:00 UTC la fecha UTC aún es "ayer"
+      # respecto a España. Se calcula la fecha española explícitamente y se
+      # pasa como argumento, en vez de dejar que el script use su default.
+      - name: Calcular la fecha de hoy en España
+        id: fecha
+        run: echo "hoy=$(TZ=Europe/Madrid date +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Generar el pack del día
+        run: npm run generar -- "${{ steps.fecha.outputs.hoy }}"
+
+      - name: Commitear y publicar el pack
+        run: |
+          FECHA="${{ steps.fecha.outputs.hoy }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Sin cambios que commitear para ${FECHA}"
+          else
+            git commit -m "chore: pack diario del ${FECHA}"
+            git push
+          fi
