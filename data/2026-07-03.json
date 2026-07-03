@@ -2,49 +2,49 @@
   "date": "2026-07-03",
   "events": [
     {
-      "id": "partido-socialista-obrero-espanol-2004",
-      "year": 2004,
-      "texto": "en España: el secretario general del PSOE, José Luis Rodríguez Zapatero, es reelegido con el 95 % de los delegados en el congreso federal de su partido.",
-      "textoPista": "en España: el secretario general del PSOE, José Luis Rodríguez Zapatero, es reelegido con el 95 % de los delegados en el congreso federal de su partido.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_PSOE_41_Congreso.svg/langes-330px-Logo_PSOE_41_Congreso.svg.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol",
-      "popularityScore": 18256
-    },
-    {
-      "id": "guerra-de-secesion-1863",
-      "year": 1863,
-      "texto": "en el marco de la Guerra de Secesión, se libra el último día de la batalla de Gettysburg, que culmina con la carga de Pickett.",
-      "textoPista": "en el marco de la Guerra de Secesión, se libra el último día de la batalla de Gettysburg, que culmina con la carga de Pickett.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CivilWarUSAColl.png/330px-CivilWarUSAColl.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Secesi%C3%B3n",
-      "popularityScore": 21228
-    },
-    {
-      "id": "marte-planeta-1998",
-      "year": 1998,
-      "texto": "lanzamiento de la sonda japonesa Nozomi a Marte, pero meses más tarde no logrará entrar en órbita marciana.",
-      "textoPista": "lanzamiento de la sonda japonesa Nozomi a Marte, pero meses más tarde no logrará entrar en órbita marciana.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/330px-OSIRIS_Mars_true_color.jpg",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Marte_(planeta)",
-      "popularityScore": 13211
-    },
-    {
-      "id": "back-to-the-future-1985",
-      "year": 1985,
-      "texto": "en Estados Unidos se estrena la película Back to the Future, uno de los filmes más exitosos en la historia del cine.",
-      "textoPista": "en Estados Unidos se estrena la película Back to the Future, uno de los filmes más exitosos en la historia del cine.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Back-to-the-future-logo.svg/langes-330px-Back-to-the-future-logo.svg.png",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/Back_to_the_Future",
-      "popularityScore": 9230
-    },
-    {
-      "id": "segunda-guerra-mundial-1941",
-      "year": 1941,
-      "texto": "en el marco de la Segunda Guerra Mundial, acaba la batalla de Białystok-Minsk que acaba con la destrucción de dos ejércitos soviéticos completos por la blitzkrieg alemana.",
-      "textoPista": "en el marco de la Segunda Guerra Mundial, acaba la batalla de Białystok-Minsk que acaba con la destrucción de dos ejércitos soviéticos completos por la blitzkrieg alemana.",
+      "id": "segunda-guerra-mundial-1944",
+      "year": 1944,
+      "texto": "en Bielorrusia ―en el marco de la Segunda Guerra Mundial― la ciudad de Minsk es liberada del control nazi por las fuerzas soviéticas en la Operación Bagration.",
+      "textoPista": "en Bielorrusia ―en el marco de la Segunda Guerra Mundial― la ciudad de Minsk es liberada del control nazi por las fuerzas soviéticas en la Operación Bagration.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WW2Montage.PNG/330px-WW2Montage.PNG",
       "wikipediaUrl": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial",
       "popularityScore": 78460
+    },
+    {
+      "id": "george-w-bush-1988",
+      "year": 1988,
+      "texto": "el crucero estadounidense Vincennes dispara misiles contra un avión civil iraní Airbus (Vuelo 655 de Iran Air). Mueren los 290  ocupantes. El vicepresidente George W. Bush condecorará al responsable del crucero, y afirmará: «No me importa lo que digan los hechos: nunca me disculparé por Estados Unidos. [...] La vida continúa».",
+      "textoPista": "el crucero estadounidense Vincennes dispara misiles contra un avión civil iraní Airbus (Vuelo 655 de Iran Air). Mueren los 290  ocupantes. El vicepresidente George W. Bush condecorará al responsable del crucero, y afirmará: «No me importa lo que digan los hechos: nunca me disculparé por Estados Unidos. [...] La vida continúa».",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/330px-George-W-Bush.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/George_W._Bush",
+      "popularityScore": 16297
+    },
+    {
+      "id": "charles-de-gaulle-1962",
+      "year": 1962,
+      "texto": "el presidente De Gaulle anuncia que Francia reconoce la independencia de Argelia, con lo que finaliza oficialmente la Guerra de independencia.",
+      "textoPista": "el presidente De Gaulle anuncia que Francia reconoce la independencia de Argelia, con lo que finaliza oficialmente la Guerra de independencia.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/De_Gaulle-OWI_%28cropped%29-%28d%29.jpg/330px-De_Gaulle-OWI_%28cropped%29-%28d%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Charles_de_Gaulle",
+      "popularityScore": 11263
+    },
+    {
+      "id": "el-cairo-2013",
+      "year": 2013,
+      "texto": "en El Cairo (Egipto), las fuerzas armadas derrocan al presidente Mohamed Morsi después de cuatro días de protestas populares. Adly Mansour (presidente de la Corte Suprema) es declarado presidente.",
+      "textoPista": "en El Cairo (Egipto), las fuerzas armadas derrocan al presidente Mohamed Morsi después de cuatro días de protestas populares. Adly Mansour (presidente de la Corte Suprema) es declarado presidente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cairo_Montage.png/330px-Cairo_Montage.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/El_Cairo",
+      "popularityScore": 6386
+    },
+    {
+      "id": "the-doors-1971",
+      "year": 1971,
+      "texto": "en París, Francia es encontrado muerto el vocalista y líder de la banda de rock norteamericana The Doors, Jim Morrison a la edad de 27 años.",
+      "textoPista": "en París, Francia es encontrado muerto el vocalista y líder de la banda de rock norteamericana The Doors, Jim Morrison a la edad de 27 años.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Doors_electra_publicity_photo.JPG/330px-Doors_electra_publicity_photo.JPG",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/The_Doors",
+      "popularityScore": 7161
     }
   ]
 }
