@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-03",
+  "events": [
+    {
+      "id": "partido-socialista-obrero-espanol-2004",
+      "year": 2004,
+      "texto": "en España: el secretario general del PSOE, José Luis Rodríguez Zapatero, es reelegido con el 95 % de los delegados en el congreso federal de su partido.",
+      "textoPista": "en España: el secretario general del PSOE, José Luis Rodríguez Zapatero, es reelegido con el 95 % de los delegados en el congreso federal de su partido.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_PSOE_41_Congreso.svg/langes-330px-Logo_PSOE_41_Congreso.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol",
+      "popularityScore": 18256
+    },
+    {
+      "id": "guerra-de-secesion-1863",
+      "year": 1863,
+      "texto": "en el marco de la Guerra de Secesión, se libra el último día de la batalla de Gettysburg, que culmina con la carga de Pickett.",
+      "textoPista": "en el marco de la Guerra de Secesión, se libra el último día de la batalla de Gettysburg, que culmina con la carga de Pickett.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CivilWarUSAColl.png/330px-CivilWarUSAColl.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Secesi%C3%B3n",
+      "popularityScore": 21228
+    },
+    {
+      "id": "marte-planeta-1998",
+      "year": 1998,
+      "texto": "lanzamiento de la sonda japonesa Nozomi a Marte, pero meses más tarde no logrará entrar en órbita marciana.",
+      "textoPista": "lanzamiento de la sonda japonesa Nozomi a Marte, pero meses más tarde no logrará entrar en órbita marciana.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/330px-OSIRIS_Mars_true_color.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Marte_(planeta)",
+      "popularityScore": 13211
+    },
+    {
+      "id": "back-to-the-future-1985",
+      "year": 1985,
+      "texto": "en Estados Unidos se estrena la película Back to the Future, uno de los filmes más exitosos en la historia del cine.",
+      "textoPista": "en Estados Unidos se estrena la película Back to the Future, uno de los filmes más exitosos en la historia del cine.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Back-to-the-future-logo.svg/langes-330px-Back-to-the-future-logo.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Back_to_the_Future",
+      "popularityScore": 9230
+    },
+    {
+      "id": "segunda-guerra-mundial-1941",
+      "year": 1941,
+      "texto": "en el marco de la Segunda Guerra Mundial, acaba la batalla de Białystok-Minsk que acaba con la destrucción de dos ejércitos soviéticos completos por la blitzkrieg alemana.",
+      "textoPista": "en el marco de la Segunda Guerra Mundial, acaba la batalla de Białystok-Minsk que acaba con la destrucción de dos ejércitos soviéticos completos por la blitzkrieg alemana.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WW2Montage.PNG/330px-WW2Montage.PNG",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial",
+      "popularityScore": 78460
+    }
+  ]
+}
