@@ -1,53 +1,81 @@
+<div align="center">
+
+<img src="public/favicon.svg" width="80" alt="Logo de Efeméride Diaria" />
+
 # Efeméride Diaria
 
-Juego web diario al estilo Wordle/Framed: cada día hay **5 eventos históricos reales** (con foto) y tienes que adivinar **en qué año ocurrieron**. Tres intentos por evento; tras cada fallo solo se te dice si el año real es *más antiguo* o *más reciente* que tu intento.
+**Adivina el año de 5 eventos históricos reales — un reto nuevo cada día**
 
-Los datos salen de la API pública de Wikipedia en español, no hay backend: un job diario genera un JSON estático por fecha y el frontend (React 18 + TypeScript + Vite) lo consume. El estado del jugador (partidas, racha, récord) vive en `localStorage`.
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vite.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-22-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-cron%20diario-2088FF?logo=githubactions&logoColor=white)](.github/workflows/generar-diario.yml)
 
-## Reglas del juego
+[**🌐 Demo en vivo**](https://efemeride.cristiansg.dev) · [**Repositorio en GitHub**](https://github.com/CristianSG2/efemeride)
 
-- Pack diario de 5 eventos, siempre con foto visible desde el principio.
-- Hasta 3 intentos por evento, con pista de dirección tras cada fallo.
-- Score por evento sobre el último intento usado: `max(0, round(100 · (1 − distancia_en_años / 30)))` — máximo 100 por evento, 500 por día.
-- Al resolver un evento (acierto o tercer fallo) se revelan el año real, el texto del evento y el enlace a Wikipedia.
-- Al completar el pack: score total, comparación con tu récord, racha de días consecutivos y botón de compartir con un grid de emojis estilo Wordle (⬛ intentos fallidos previos, 🎯/🟩/🟨/🟧/🟥 según cercanía del intento final; nunca revela los años).
-- **Modo archivo**: puedes jugar días anteriores (`#/archivo`), sin que afecten a tu racha ni a tu récord. Solo cuenta como "día real" la fecha de hoy, llegues por la ruta que llegues.
+</div>
 
-## Cómo funciona el job diario
+![Pantalla de juego de Efeméride Diaria](docs/screenshots/efemeride.png)
 
-`scripts/generar-evento-diario.js` (Node puro, ESM, sin dependencias) genera el pack de una fecha:
+## ✨ Funcionalidades
 
-1. Consulta `https://es.wikipedia.org/api/rest_v1/feed/onthisday/events/{mm}/{dd}`.
-2. Filtra candidatos con dos reglas **innegociables**: debe existir una foto válida en alguna de sus páginas relacionadas, y el año debe estar entre 1850 y el año actual (calculado dinámicamente).
-   - Se descartan imágenes genéricas o que delaten la respuesta: banderas, escudos, mapas de localización, y cualquier nombre de archivo que contenga un año plausible dentro del rango (p. ej. `UEFA_Euro_2012_logo.svg`). Si la primera página relacionada tiene una imagen genérica, se prueba con las siguientes antes de descartar el evento.
-3. Consulta las pageviews del último mes completo de cada candidato (`wikimedia.org/api/rest_v1/metrics/pageviews/...`) y ordena por popularidad.
-4. Excluye los eventos ya usados en fechas anteriores (registro persistente en `data/used-events.json`).
-5. Selecciona 5 al azar dentro del top 15 por popularidad, aplicando el umbral de vistas más exigente que aún deje 5 candidatos (escalera 5000 → 1000 → 100 → 0: la popularidad se relaja sola si hace falta; la foto y el rango de años, nunca).
-6. Escribe `data/YYYY-MM-DD.json`, actualiza `data/used-events.json` y regenera `data/index.json` (el índice de fechas que alimenta el modo archivo).
+- 📅 Pack diario de **5 eventos históricos reales**, siempre con foto
+- 🎯 Hasta **3 intentos por evento**, con pista de *más antiguo / más reciente* tras cada fallo
+- 🖼️ Foto y texto del evento con los **años enmascarados** (`▪▪▪▪`) para evitar spoilers
+- 💯 Puntuación por cercanía: `max(0, round(100 · (1 − distancia_en_años / 30)))` — hasta 100 por evento, 500 por día
+- 🔥 Racha de días consecutivos y récord personal, persistidos en `localStorage` (sin backend ni cuentas)
+- 🗓️ **Modo archivo**: juega los packs de días anteriores sin afectar a tu racha ni a tu récord
+- 📲 Compartir resultado con un **grid de emojis** estilo Wordle (⬛ 🎯 🟩 🟨 🟧 🟥) que nunca revela los años
 
-El plan es que un workflow de GitHub Actions con cron ejecute `npm run generar` cada día y commitee el JSON resultante (el workflow todavía no está configurado).
+## 📸 Capturas de pantalla
 
-### Formato del pack diario
+<table>
+  <tr>
+    <td align="center"><b>Revelación</b></td>
+    <td align="center"><b>Resumen del día</b></td>
+    <td align="center"><b>Modo archivo</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/Revelacion.png" alt="Evento resuelto con año, texto completo y enlace a Wikipedia" /></td>
+    <td><img src="docs/screenshots/ResumenDia.png" alt="Resumen del día con puntuación, racha y botón de compartir" /></td>
+    <td><img src="docs/screenshots/Archivo.png" alt="Listado de fechas anteriores del modo archivo" /></td>
+  </tr>
+</table>
 
-```json
-{
-  "date": "2026-07-02",
-  "events": [
-    {
-      "id": "guerra-de-vietnam-1976",
-      "year": 1976,
-      "text": "resumen del evento en español",
-      "imageUrl": "https://upload.wikimedia.org/...",
-      "wikipediaUrl": "https://es.wikipedia.org/wiki/...",
-      "popularityScore": 27377
-    }
-  ]
-}
-```
+## 🛠️ Stack tecnológico
 
-El frontend pide los thumbnails a 800px de ancho (Wikimedia los genera al vuelo) y, si el original es más pequeño y la petición falla, recurre a la URL original del JSON.
+### Frontend
 
-## Correr en local
+| Tecnología | Propósito |
+|------------|-----------|
+| React 18 + TypeScript | Interfaz de usuario |
+| Vite | Herramienta de build y servidor de desarrollo |
+| CSS Modules | Estilos por componente |
+| Vitest + Testing Library | Tests |
+
+### Job diario
+
+| Tecnología | Propósito |
+|------------|-----------|
+| Node.js puro (ESM, sin dependencias) | Generación del pack diario contra la API de Wikipedia |
+| GitHub Actions (cron) | Ejecución automática cada noche y commit del JSON resultante |
+
+## ⚙️ Cómo funciona el job diario
+
+No hay backend: `scripts/generar-evento-diario.js` genera un JSON estático por fecha (`data/YYYY-MM-DD.json`) y el frontend lo consume.
+
+1. Consulta la API pública de Wikipedia en español: [*on this day*](https://es.wikipedia.org/api/rest_v1/) para los eventos del día y *pageviews* para ordenar los candidatos por popularidad.
+2. Aplica dos filtros **innegociables**: cada evento debe tener una foto válida y su año debe estar entre **1850 y el año actual**.
+3. Descarta imágenes genéricas o que delaten la respuesta: banderas, escudos, mapas de localización y cualquier archivo cuyo nombre contenga un año plausible (p. ej. `UEFA_Euro_2012_logo.svg`). Los años del texto se enmascaran con `▪▪▪▪` en el momento de generar el pack.
+4. Excluye eventos ya usados en fechas anteriores (`data/used-events.json`) y selecciona 5 al azar dentro del top 15 por popularidad.
+5. Es **idempotente**: si el pack del día ya existe, informa y sale con éxito sin tocar nada. Para regenerarlo a propósito: `npm run generar -- FECHA --forzar`.
+
+El [workflow de GitHub Actions](.github/workflows/generar-diario.yml) lo ejecuta cada noche con la fecha calculada en `Europe/Madrid` y commitea el pack resultante.
+
+## 🚀 Puesta en marcha
+
+Requisitos previos: **Node 18+**.
 
 ```bash
 npm install
@@ -60,25 +88,32 @@ npm run generar 2026-07-01
 npm run dev
 ```
 
-El juego lee los packs de `/data/*.json`; en dev y en build se sirven gracias al symlink `public/data → ../data`, así el job escribe en un único sitio. Si tu plataforma de deploy no sigue symlinks al copiar `public/`, haz que el job escriba directamente en `public/data/`.
+Aplicación disponible en `http://localhost:5173`. El juego lee los packs de `/data/*.json`, servidos en dev y en build gracias al symlink `public/data → ../data`. Si tu plataforma de deploy no sigue symlinks al copiar `public/`, haz que el job escriba directamente en `public/data/`.
 
-### Tests
+## 🧪 Ejecutar los tests
 
 ```bash
-npm test        # suite completa (Vitest + React Testing Library)
-npm run test:watch
+npm test            # suite completa (Vitest + Testing Library)
+npm run test:watch  # modo watch
 ```
 
-Cubren el cálculo de score (límites y redondeo), la lógica de "más antiguo/más reciente" y el hook `usePartidaDiaria` (persistencia en localStorage, racha, récord, recarga a mitad de pack y el caso de llegar a hoy por la ruta de archivo).
+Cubren el cálculo de la puntuación, el enmascarado de años, la lógica de *más antiguo / más reciente* y el hook `usePartidaDiaria` (persistencia en `localStorage`, racha, récord y recarga a mitad de pack).
 
-## Estructura
+## 📁 Estructura del proyecto
 
 ```
-scripts/generar-evento-diario.js   Job diario (npm run generar [YYYY-MM-DD])
-data/                              Packs por fecha + used-events.json + index.json
-src/lib/                           Lógica pura: puntuación, pistas, compartir, fechas, datos
-src/hooks/usePartidaDiaria.ts      Estado de partida + localStorage (racha, récord)
-src/components/                    TarjetaEvento, SelectorAno, RevelacionEvento,
-                                   PantallaJuego, ResumenDia, Archivo
-src/test/                          Suite de Vitest
+efemeride/
+├── .github/workflows/
+│   └── generar-diario.yml         # Cron nocturno: genera y commitea el pack
+├── scripts/
+│   └── generar-evento-diario.js   # Job diario (npm run generar [YYYY-MM-DD])
+├── data/                          # Packs por fecha + used-events.json + index.json
+├── public/
+│   └── data -> ../data            # Symlink para servir los packs
+└── src/
+    ├── lib/                       # Lógica pura: puntuación, compartir, fechas, datos
+    ├── hooks/                     # usePartidaDiaria (estado + localStorage)
+    ├── components/                # TarjetaEvento, SelectorAno, RevelacionEvento,
+    │                              # PantallaJuego, ResumenDia, Archivo
+    └── test/                      # Suite de Vitest
 ```
