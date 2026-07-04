@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-04",
+  "events": [
+    {
+      "id": "ciudad-de-panama-2009",
+      "year": 2009,
+      "texto": "en la ciudad de Panamá sucede un terremoto de magnitud 7,3 en la escala sismológica de Richter.",
+      "textoPista": "en la ciudad de Panamá sucede un terremoto de magnitud 7,3 en la escala sismológica de Richter.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Panamacity.png/330px-Panamacity.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_Panam%C3%A1",
+      "popularityScore": 6595
+    },
+    {
+      "id": "estatua-de-la-libertad-1886",
+      "year": 1886,
+      "texto": "el Gobierno de Francia ofrece la Estatua de la Libertad al pueblo de Estados Unidos.",
+      "textoPista": "el Gobierno de Francia ofrece la Estatua de la Libertad al pueblo de Estados Unidos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Statue_of_Liberty_7.jpg/330px-Statue_of_Liberty_7.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Estatua_de_la_Libertad",
+      "popularityScore": 15167
+    },
+    {
+      "id": "los-angeles-1996",
+      "year": 1996,
+      "texto": "en Los Ángeles (Estados Unidos), el informático indio Sabir Bhatia (27) lanza el sitio web Hotmail.com, el primer correo electrónico gratuito. Un año y medio después (el 31 de diciembre de 1997) lo venderá a la empresa Microsoft por 400 millones de dólares estadounidenses.",
+      "textoPista": "en Los Ángeles (Estados Unidos), el informático indio Sabir Bhatia (27) lanza el sitio web Hotmail.com, el primer correo electrónico gratuito. Un año y medio después (el 31 de diciembre de ▪▪▪▪) lo venderá a la empresa Microsoft por 400 millones de dólares estadounidenses.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
+      "popularityScore": 24694
+    },
+    {
+      "id": "buenos-aires-1976",
+      "year": 1976,
+      "texto": "en Buenos Aires (Argentina), la dictadura de Videla asesina a tres sacerdotes y dos seminaristas palotinos.",
+      "textoPista": "en Buenos Aires (Argentina), la dictadura de Videla asesina a tres sacerdotes y dos seminaristas palotinos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36964
+    },
+    {
+      "id": "lewis-carroll-1862",
+      "year": 1862,
+      "texto": "Lewis Carroll le cuenta a Alice Liddell un cuento que más tarde se convertirá en Las aventuras de Alicia en el País de las Maravillas.",
+      "textoPista": "Lewis Carroll le cuenta a Alice Liddell un cuento que más tarde se convertirá en Las aventuras de Alicia en el País de las Maravillas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/LewisCarrollSelfPhoto.jpg/330px-LewisCarrollSelfPhoto.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lewis_Carroll",
+      "popularityScore": 6031
+    }
+  ]
+}
