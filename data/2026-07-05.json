@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-05",
+  "events": [
+    {
+      "id": "pueblo-judio-1950",
+      "year": 1950,
+      "texto": "se reconoce a todos los judíos el derecho a vivir en Israel (Ley del Retorno), mientras que se impide a las personas palestinas refugiadas su derecho al retorno reconocido por la Resolución 194 de la Asamblea General de las Naciones Unidas.",
+      "textoPista": "se reconoce a todos los judíos el derecho a vivir en Israel (Ley del Retorno), mientras que se impide a las personas palestinas refugiadas su derecho al retorno reconocido por la Resolución 194 de la Asamblea General de las Naciones Unidas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jews_motage2.jpg/330px-Jews_motage2.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pueblo_jud%C3%ADo",
+      "popularityScore": 12907
+    },
+    {
+      "id": "fondo-monetario-internacional-2015",
+      "year": 2015,
+      "texto": "en Grecia se celebra el referéndum griego de 2015, cuyo resultado es un rotundo rechazo a las condiciones impuestas por la Unión Europea, el Fondo Monetario Internacional y el Banco Central Europeo.",
+      "textoPista": "en Grecia se celebra el referéndum griego de ▪▪▪▪, cuyo resultado es un rotundo rechazo a las condiciones impuestas por la Unión Europea, el Fondo Monetario Internacional y el Banco Central Europeo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/langes-330px-IMF-Seal_ENG_RGB.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Fondo_Monetario_Internacional",
+      "popularityScore": 5747
+    },
+    {
+      "id": "valle-del-cauca-2007",
+      "year": 2007,
+      "texto": "en Colombia se realiza una marcha por la liberación de los secuestrados y la entrega de los cuerpos de los once diputados de la asamblea del Valle del Cauca.",
+      "textoPista": "en Colombia se realiza una marcha por la liberación de los secuestrados y la entrega de los cuerpos de los once diputados de la asamblea del Valle del Cauca.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Casa_del_Virrey_%286%29._Cartago%2C_Valle%2C_Colombia.JPG/330px-Casa_del_Virrey_%286%29._Cartago%2C_Valle%2C_Colombia.JPG",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Valle_del_Cauca",
+      "popularityScore": 6722
+    },
+    {
+      "id": "paises-bajos-1922",
+      "year": 1922,
+      "texto": "en los Países Bajos se realizan las primeras elecciones en las que pueden votar las mujeres.",
+      "textoPista": "en los Países Bajos se realizan las primeras elecciones en las que pueden votar las mujeres.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Netherlands_in_European_Union.svg/langes-330px-Netherlands_in_European_Union.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos",
+      "popularityScore": 223064
+    },
+    {
+      "id": "partido-comunista-de-china-1937",
+      "year": 1937,
+      "texto": "el KMT y el PCCH realizan un acuerdo para combatir a los japoneses.",
+      "textoPista": "el KMT y el PCCH realizan un acuerdo para combatir a los japoneses.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Danghui.svg/langes-330px-Danghui.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Partido_Comunista_de_China",
+      "popularityScore": 5561
+    }
+  ]
+}
