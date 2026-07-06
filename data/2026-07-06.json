@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-06",
+  "events": [
+    {
+      "id": "carlos-salinas-de-gortari-1988",
+      "year": 1988,
+      "texto": "en México, Carlos Salinas de Gortari es elegido presidente.",
+      "textoPista": "en México, Carlos Salinas de Gortari es elegido presidente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carlos_Salinas.jpg/330px-Carlos_Salinas.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Carlos_Salinas_de_Gortari",
+      "popularityScore": 18409
+    },
+    {
+      "id": "louis-pasteur-1885",
+      "year": 1885,
+      "texto": "Louis Pasteur vacuna contra la rabia con éxito al niño Joseph Meister.",
+      "textoPista": "Louis Pasteur vacuna contra la rabia con éxito al niño Joseph Meister.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Louis_Pasteur.jpg/330px-Louis_Pasteur.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Louis_Pasteur",
+      "popularityScore": 9233
+    },
+    {
+      "id": "moscu-1918",
+      "year": 1918,
+      "texto": "el alzamiento de los social-revolucionarios de izquierda inicia en Moscú con el asesinato del embajador alemán Wilhelm Von Mirbach por parte de miembros de la Checa",
+      "textoPista": "el alzamiento de los social-revolucionarios de izquierda inicia en Moscú con el asesinato del embajador alemán Wilhelm Von Mirbach por parte de miembros de la Checa",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/330px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mosc%C3%BA",
+      "popularityScore": 9453
+    },
+    {
+      "id": "guerra-de-irak-2016",
+      "year": 2016,
+      "texto": "se publica el «informe Chilcot», con los resultados de la investigación sobre la inadecuada participación del Reino Unido en la Guerra de Irak iniciada en 2003.",
+      "textoPista": "se publica el «informe Chilcot», con los resultados de la investigación sobre la inadecuada participación del Reino Unido en la Guerra de Irak iniciada en ▪▪▪▪.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Iraq_War_montage.png/330px-Iraq_War_montage.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Irak",
+      "popularityScore": 8692
+    },
+    {
+      "id": "guerra-de-la-triple-alianza-1867",
+      "year": 1867,
+      "texto": "Globos de observación militar. Primera ascensión en América del Sur de un globo cautivo de observación militar. Ocurre durante la Guerra de la Triple Alianza, a cargo del ingeniero polaco Robert A. Chodasiewicz, incorporado al Ejército Argentino como sargento mayor. Lo acompaña el capitán paraguayo Ignacio Céspedes.",
+      "textoPista": "Globos de observación militar. Primera ascensión en América del Sur de un globo cautivo de observación militar. Ocurre durante la Guerra de la Triple Alianza, a cargo del ingeniero polaco Robert A. Chodasiewicz, incorporado al Ejército Argentino como sargento mayor. Lo acompaña el capitán paraguayo Ignacio Céspedes.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Escenas_de_la_Guerra_de_la_Triple_Alianza.png/330px-Escenas_de_la_Guerra_de_la_Triple_Alianza.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_la_Triple_Alianza",
+      "popularityScore": 22940
+    }
+  ]
+}
