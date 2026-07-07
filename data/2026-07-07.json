@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-07",
+  "events": [
+    {
+      "id": "lisboa-2007",
+      "year": 2007,
+      "texto": "en Lisboa (Portugal) se eligen por votación las Siete Maravillas del Mundo Moderno; en las votaciones participaron más de 100 millones de votantes, por teléfono o por Internet.",
+      "textoPista": "en Lisboa (Portugal) se eligen por votación las Siete Maravillas del Mundo Moderno; en las votaciones participaron más de 100 millones de votantes, por teléfono o por Internet.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/330px-Lisbon_%2836831596786%29_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lisboa",
+      "popularityScore": 9777
+    },
+    {
+      "id": "andy-murray-2013",
+      "year": 2013,
+      "texto": "el tenista británico Andy Murray se convierte en el primer tenista del Reino Unido en más de medio siglo en ganar el torneo de Wimbledon desde que lo hiciera Fred Perry 77 años antes.",
+      "textoPista": "el tenista británico Andy Murray se convierte en el primer tenista del Reino Unido en más de medio siglo en ganar el torneo de Wimbledon desde que lo hiciera Fred Perry 77 años antes.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Murray_A._REN21_%281%29_%2851602037818%29.jpg/330px-Murray_A._REN21_%281%29_%2851602037818%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Andy_Murray",
+      "popularityScore": 11127
+    },
+    {
+      "id": "caracas-2021",
+      "year": 2021,
+      "texto": "En Venezuela, Caracas, inician los Enfrentamientos en la Cota 905 entre las fuerzas policiales contra la Megabanda criminal de 'el Koki' (Carlos Luis Revete), 'el Vampi' (Carlos Calderón Martínez) y 'el Galvis' (Garbis Ochoa Ruíz).",
+      "textoPista": "En Venezuela, Caracas, inician los Enfrentamientos en la Cota 905 entre las fuerzas policiales contra la Megabanda criminal de 'el Koki' (Carlos Luis Revete), 'el Vampi' (Carlos Calderón Martínez) y 'el Galvis' (Garbis Ochoa Ruíz).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_Caracas.jpg/330px-Collage_Caracas.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Caracas",
+      "popularityScore": 30268
+    },
+    {
+      "id": "parana-argentina-1859",
+      "year": 1859,
+      "texto": "frente a la villa de Paraná (en ese momento capital de la Confederación Argentina) sucede la sublevación del General Pinto, vapor insignia del unitario Estado de Buenos Aires, en guerra contra el resto del país, provocando el levantamiento del bloqueo de la villa y cambiando el rumbo de la Guerra Civil Argentina.",
+      "textoPista": "frente a la villa de Paraná (en ese momento capital de la Confederación Argentina) sucede la sublevación del General Pinto, vapor insignia del unitario Estado de Buenos Aires, en guerra contra el resto del país, provocando el levantamiento del bloqueo de la villa y cambiando el rumbo de la Guerra Civil Argentina.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Catedral_de_Paran%C3%A1%2C_Entre_R%C3%ADos%2C_Argentina..JPG/330px-Catedral_de_Paran%C3%A1%2C_Entre_R%C3%ADos%2C_Argentina..JPG",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Paran%C3%A1_(Argentina)",
+      "popularityScore": 8155
+    },
+    {
+      "id": "imperio-britanico-1978",
+      "year": 1978,
+      "texto": "las islas Salomón se independizan del antiguo Imperio británico.",
+      "textoPista": "las islas Salomón se independizan del antiguo Imperio británico.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/The_British_Empire_5.png/330px-The_British_Empire_5.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Imperio_brit%C3%A1nico",
+      "popularityScore": 7682
+    }
+  ]
+}
