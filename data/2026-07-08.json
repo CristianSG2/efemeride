@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-08",
+  "events": [
+    {
+      "id": "spice-girls-1996",
+      "year": 1996,
+      "texto": "en Reino Unido, el grupo británico Spice Girls lanza su primer sencillo, Wannabe.",
+      "textoPista": "en Reino Unido, el grupo británico Spice Girls lanza su primer sencillo, Wannabe.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/SpiceGirlWembley150619-3_%2848999823333%29.jpg/330px-SpiceGirlWembley150619-3_%2848999823333%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Spice_Girls",
+      "popularityScore": 7072
+    },
+    {
+      "id": "ovni-1947",
+      "year": 1947,
+      "texto": "se transmiten rumores de que un ovni (objeto volador no identificado) se estrelló cerca de la base militar en Roswell (estado de Nuevo México) en lo que se conoció como el incidente ovni de Roswell.",
+      "textoPista": "se transmiten rumores de que un ovni (objeto volador no identificado) se estrelló cerca de la base militar en Roswell (estado de Nuevo México) en lo que se conoció como el incidente ovni de Roswell.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm/330px--Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ovni",
+      "popularityScore": 5014
+    },
+    {
+      "id": "nueva-york-2014",
+      "year": 2014,
+      "texto": "en Nueva York (Estados Unidos), la irlandesa Mairead Maguire y el argentino Adolfo Pérez Esquivel, ambos premios nobel de la paz, junto con un centenar de catedráticos de Estados Unidos y Canadá, ante la negativa de la organización estadounidense de derechos humanos Human Rights Watch, solicitan por segunda vez ―la primera fue el 12 de mayo de 2014― que expulse de su junta directiva a Javier Solana (ex secretario general de la OTAN) y a todas las personas involucradas con la CIA (Agencia Central de Inteligencia) o con el Gobierno de Estados Unidos. Esta segunda carta directamente no fue respondida.",
+      "textoPista": "en Nueva York (Estados Unidos), la irlandesa Mairead Maguire y el argentino Adolfo Pérez Esquivel, ambos premios nobel de la paz, junto con un centenar de catedráticos de Estados Unidos y Canadá, ante la negativa de la organización estadounidense de derechos humanos Human Rights Watch, solicitan por segunda vez ―la primera fue el 12 de mayo de ▪▪▪▪― que expulse de su junta directiva a Javier Solana (ex secretario general de la OTAN) y a todas las personas involucradas con la CIA (Agencia Central de Inteligencia) o con el Gobierno de Estados Unidos. Esta segunda carta directamente no fue respondida.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 37378
+    },
+    {
+      "id": "copa-mundial-de-futbol-de-1990-1990",
+      "year": 1990,
+      "texto": "en la Copa Mundial de Fútbol de 1990, la selección de Argentina cae ante la selección de Alemania Federal en la final del mundial.",
+      "textoPista": "en la Copa Mundial de Fútbol de ▪▪▪▪, la selección de Argentina cae ante la selección de Alemania Federal en la final del mundial.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/L%27Olimpico_-_panoramio.jpg/330px-L%27Olimpico_-_panoramio.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_1990",
+      "popularityScore": 109042
+    },
+    {
+      "id": "kim-jong-il-1994",
+      "year": 1994,
+      "texto": "en Corea del Norte, Kim Jong‑il (53) se convierte en líder supremo tras la muerte de su padre, Kim il‑Sung.",
+      "textoPista": "en Corea del Norte, Kim Jong‑il (53) se convierte en líder supremo tras la muerte de su padre, Kim il‑Sung.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kim_Jong_il_Portrait-2.jpg/330px-Kim_Jong_il_Portrait-2.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Kim_Jong-il",
+      "popularityScore": 10290
+    }
+  ]
+}
