@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-09",
+  "events": [
+    {
+      "id": "melilla-1909",
+      "year": 1909,
+      "texto": "Obreros españoles que trabajaban en la construcción de un ferrocarril cerca de Melilla, son atacados por cabilas de la zona, dando inicio a la guerra de Melilla. El gobierno de Maura da orden de movilizar a los reservistas, medida muy mal acogida por las clases populares y que posteriormente desencadenaría los eventos de la Semana Trágica.",
+      "textoPista": "Obreros españoles que trabajaban en la construcción de un ferrocarril cerca de Melilla, son atacados por cabilas de la zona, dando inicio a la guerra de Melilla. El gobierno de Maura da orden de movilizar a los reservistas, medida muy mal acogida por las clases populares y que posteriormente desencadenaría los eventos de la Semana Trágica.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Frente_de_la_Marina%2C_Melilla_la_Vieja_%282%29.jpg/330px-Frente_de_la_Marina%2C_Melilla_la_Vieja_%282%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Melilla",
+      "popularityScore": 13713
+    },
+    {
+      "id": "oceania-1944",
+      "year": 1944,
+      "texto": "en Oceanía fuerzas estadounidenses toman la isla de Saipán (Marianas del Norte).",
+      "textoPista": "en Oceanía fuerzas estadounidenses toman la isla de Saipán (Marianas del Norte).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Oceania_on_the_globe_%28red%29_%28Polynesia_centered%29.svg/langes-330px-Oceania_on_the_globe_%28red%29_%28Polynesia_centered%29.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ocean%C3%ADa",
+      "popularityScore": 20498
+    },
+    {
+      "id": "londres-1877",
+      "year": 1877,
+      "texto": "en Londres se realiza el primer torneo de tenis de Wimbledon.",
+      "textoPista": "en Londres se realiza el primer torneo de tenis de Wimbledon.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
+    },
+    {
+      "id": "terremoto-1997",
+      "year": 1997,
+      "texto": "en Venezuela, 81 personas mueren por un terremoto (escala 7,0) con epicentro ante las costas del país.",
+      "textoPista": "en Venezuela, 81 personas mueren por un terremoto (escala 7,0) con epicentro ante las costas del país.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Haiti_earthquake_damage.jpg/330px-Haiti_earthquake_damage.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Terremoto",
+      "popularityScore": 36630
+    },
+    {
+      "id": "augusto-pinochet-1977",
+      "year": 1977,
+      "texto": "Con motivo del Día Nacional de la Juventud el dictador chileno Augusto Pinochet realiza el discurso de Chacarillas, en el que anuncia las bases para una nueva institucionalidad.",
+      "textoPista": "Con motivo del Día Nacional de la Juventud el dictador chileno Augusto Pinochet realiza el discurso de Chacarillas, en el que anuncia las bases para una nueva institucionalidad.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Augusto_Pinochet_foto_oficial_%283x4_cropped%29.jpg/330px-Augusto_Pinochet_foto_oficial_%283x4_cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Augusto_Pinochet",
+      "popularityScore": 25905
+    }
+  ]
+}
