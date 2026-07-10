@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-10",
+  "events": [
+    {
+      "id": "aqui-no-hay-quien-viva-serie-de-television-espanola-2005",
+      "year": 2005,
+      "texto": "en México, se estrena a través del Canal de las Estrellas, la serie de comedia Vecinos, basada en la serie española Aquí no hay quien viva. Fue creada y producida en un inicio por el actor y comediante Eugenio Derbez.",
+      "textoPista": "en México, se estrena a través del Canal de las Estrellas, la serie de comedia Vecinos, basada en la serie española Aquí no hay quien viva. Fue creada y producida en un inicio por el actor y comediante Eugenio Derbez.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ANHQV.svg/langes-330px-ANHQV.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Aqu%C3%AD_no_hay_quien_viva_(serie_de_televisi%C3%B3n_espa%C3%B1ola)",
+      "popularityScore": 10654
+    },
+    {
+      "id": "washington-d-c-1850",
+      "year": 1850,
+      "texto": "en Washington D. C. (Estados Unidos), Millard Fillmore es nombrado el 13.º presidente de los Estados Unidos.",
+      "textoPista": "en Washington D. C. (Estados Unidos), Millard Fillmore es nombrado el 13.º presidente de los Estados Unidos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/330px-12-07-13-washington-by-RalfR-08.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Washington_D._C.",
+      "popularityScore": 18123
+    },
+    {
+      "id": "francisco-franco-1962",
+      "year": 1962,
+      "texto": "en España se forma el noveno Gobierno de España durante la dictadura franquista, presidido por Francisco Franco, con la entrada de ministros tecnócratas miembros del Opus Dei, quienes comenzarán una política económica conducente a la puesta en práctica del Plan de Desarrollo.",
+      "textoPista": "en España se forma el noveno Gobierno de España durante la dictadura franquista, presidido por Francisco Franco, con la entrada de ministros tecnócratas miembros del Opus Dei, quienes comenzarán una política económica conducente a la puesta en práctica del Plan de Desarrollo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg/330px-RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Francisco_Franco",
+      "popularityScore": 43683
+    },
+    {
+      "id": "cristiano-ronaldo-2016",
+      "year": 2016,
+      "texto": "la Selección de Portugal conquistó la Eurocopa 2016, siendo este el 1° título de su historia y la primera consagración de Cristiano Ronaldo con los colores de su nación.",
+      "textoPista": "la Selección de Portugal conquistó la Eurocopa ▪▪▪▪, siendo este el 1° título de su historia y la primera consagración de Cristiano Ronaldo con los colores de su nación.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/330px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "popularityScore": 456378
+    },
+    {
+      "id": "puebla-de-zaragoza-2019",
+      "year": 2019,
+      "texto": "en Puebla (México), tras 81 años de historia del vehículo, la empresa Volkswagen fabrica el último ejemplar en el mundo del Volkswagen Escarabajo, conocido como el \"Vocho\".",
+      "textoPista": "en Puebla (México), tras 81 años de historia del vehículo, la empresa Volkswagen fabrica el último ejemplar en el mundo del Volkswagen Escarabajo, conocido como el \"Vocho\".",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Government_Building_In_Puebla.jpg/330px-Government_Building_In_Puebla.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puebla_de_Zaragoza",
+      "popularityScore": 8506
+    }
+  ]
+}
