@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-11",
+  "events": [
+    {
+      "id": "theresa-may-2016",
+      "year": 2016,
+      "texto": "en Reino Unido, Theresa May es elegida líder del Partido Conservador.",
+      "textoPista": "en Reino Unido, Theresa May es elegida líder del Partido Conservador.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg/330px-Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Theresa_May",
+      "popularityScore": 5197
+    },
+    {
+      "id": "turin-1899",
+      "year": 1899,
+      "texto": "en Turín (Italia) se funda la empresa automotriz Fiat.",
+      "textoPista": "en Turín (Italia) se funda la empresa automotriz Fiat.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Turin_Montage.png/330px-Turin_Montage.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tur%C3%ADn",
+      "popularityScore": 6378
+    },
+    {
+      "id": "mar-caribe-1997",
+      "year": 1997,
+      "texto": "en el mar Caribe, al sudeste de la isla de Cuba, mueren 44 personas al caer un avión Antonov AN-24 de Cubana de Aviación.",
+      "textoPista": "en el mar Caribe, al sudeste de la isla de Cuba, mueren 44 personas al caer un avión Antonov AN-24 de Cubana de Aviación.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Amerikanisches_Mittelmeer_NASA_World_Wind_Globe.jpg/330px-Amerikanisches_Mittelmeer_NASA_World_Wind_Globe.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mar_Caribe",
+      "popularityScore": 7254
+    },
+    {
+      "id": "tijuana-1889",
+      "year": 1889,
+      "texto": "en México se funda la ciudad de Tijuana.",
+      "textoPista": "en México se funda la ciudad de Tijuana.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Panoramica_Paseo_Del_Rio.jpg/330px-Panoramica_Paseo_Del_Rio.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tijuana",
+      "popularityScore": 9379
+    },
+    {
+      "id": "andres-iniesta-2010",
+      "year": 2010,
+      "texto": "La selección española de fútbol se proclama campeona del Mundial de fútbol de Sudáfrica, venciendo 0-1 a la selección de  Países Bajos con un gol anotado en el 116' por Andrés Iniesta.",
+      "textoPista": "La selección española de fútbol se proclama campeona del Mundial de fútbol de Sudáfrica, venciendo 0-1 a la selección de  Países Bajos con un gol anotado en el 116' por Andrés Iniesta.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Andr%C3%A9s_Iniesta_%28cropped%29.jpg/330px-Andr%C3%A9s_Iniesta_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Iniesta",
+      "popularityScore": 27782
+    }
+  ]
+}
