@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-12",
+  "events": [
+    {
+      "id": "hezbola-2006",
+      "year": 2006,
+      "texto": "incursión de Hezbolá en territorio israelí, capturando a los soldados Ehud Goldwasser y Eldad Regev y matando a otros ocho soldados israelíes, dando paso a la Segunda guerra de Líbano.",
+      "textoPista": "incursión de Hezbolá en territorio israelí, capturando a los soldados Ehud Goldwasser y Eldad Regev y matando a otros ocho soldados israelíes, dando paso a la Segunda guerra de Líbano.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hezbollah_guys.jpg/330px-Hezbollah_guys.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Hezbol%C3%A1",
+      "popularityScore": 12905
+    },
+    {
+      "id": "copa-mundial-de-futbol-1998",
+      "year": 1998,
+      "texto": "la selección de fútbol de Francia se proclama campeona del Mundial de Fútbol por primera vez en su propio país venciendo 3-0 a la selección brasileña de fútbol con un doblete de Zinedine Zidane, su máxima figura, y un gol de Emmanuel Petit.",
+      "textoPista": "la selección de fútbol de Francia se proclama campeona del Mundial de Fútbol por primera vez en su propio país venciendo 3-0 a la selección brasileña de fútbol con un doblete de Zinedine Zidane, su máxima figura, y un gol de Emmanuel Petit.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg/330px-FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol",
+      "popularityScore": 1100203
+    },
+    {
+      "id": "mont-blanc-1892",
+      "year": 1892,
+      "texto": "en el Mont Blanc (Francia) se destapa un lago subterráneo formado por el glaciar Tête-Rousse y arrasa con la aldea Saint Gervais les Bains. Mueren 175 personas.",
+      "textoPista": "en el Mont Blanc (Francia) se destapa un lago subterráneo formado por el glaciar Tête-Rousse y arrasa con la aldea Saint Gervais les Bains. Mueren 175 personas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mont_Blanc_depuis_Valmorel.jpg/330px-Mont_Blanc_depuis_Valmorel.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mont_Blanc",
+      "popularityScore": 6678
+    },
+    {
+      "id": "buenos-aires-1904",
+      "year": 1904,
+      "texto": "en la ciudad de Buenos Aires se funda el barrio de La Paternal.",
+      "textoPista": "en la ciudad de Buenos Aires se funda el barrio de La Paternal.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36964
+    },
+    {
+      "id": "rms-titanic-1986",
+      "year": 1986,
+      "texto": "científicos llegan al lugar del naufragio del transatlántico Titanic para explorarlo.",
+      "textoPista": "científicos llegan al lugar del naufragio del transatlántico Titanic para explorarlo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/330px-RMS_Titanic_3.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/RMS_Titanic",
+      "popularityScore": 12904
+    }
+  ]
+}
