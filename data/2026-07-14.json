@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-14",
+  "events": [
+    {
+      "id": "londres-1999",
+      "year": 1999,
+      "texto": "en Londres, se firma un acuerdo entre Argentina y Reino Unido que permite el acceso de argentinos a las islas Malvinas.",
+      "textoPista": "en Londres, se firma un acuerdo entre Argentina y Reino Unido que permite el acceso de argentinos a las islas Malvinas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
+    },
+    {
+      "id": "santiago-de-chile-1892",
+      "year": 1892,
+      "texto": "en Santiago (Chile), el presidente Jorge Montt y el ministro de Instrucción Pública, Joaquín Rodríguez Rosas, dictan el decreto supremo n.º 1554, que creó el Liceo de Aplicación.",
+      "textoPista": "en Santiago (Chile), el presidente Jorge Montt y el ministro de Instrucción Pública, Joaquín Rodríguez Rosas, dictan el decreto supremo n.º 1554, que creó el Liceo de Aplicación.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 17756
+    },
+    {
+      "id": "nintendo-1983",
+      "year": 1983,
+      "texto": "Nintendo estrena el videojuego de Arcade, Mario Bros.",
+      "textoPista": "Nintendo estrena el videojuego de Arcade, Mario Bros.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nintendo_Headquarters_-_panoramio.jpg/330px-Nintendo_Headquarters_-_panoramio.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nintendo",
+      "popularityScore": 6697
+    },
+    {
+      "id": "guerra-del-futbol-1969",
+      "year": 1969,
+      "texto": "inicia la Guerra del Fútbol entre Honduras y El Salvador.",
+      "textoPista": "inicia la Guerra del Fútbol entre Honduras y El Salvador.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Honduras_and_El_Salvador_map.png/330px-Honduras_and_El_Salvador_map.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_del_F%C3%BAtbol",
+      "popularityScore": 7278
+    },
+    {
+      "id": "niza-2016",
+      "year": 2016,
+      "texto": "en la ciudad de Niza (Francia), un terrorista al volante de un camión arrolla a una multitud de personas que estaban celebrando la Fiesta Nacional de Francia. 84 muertos y 50 heridos críticos (Atentado en Niza).",
+      "textoPista": "en la ciudad de Niza (Francia), un terrorista al volante de un camión arrolla a una multitud de personas que estaban celebrando la Fiesta Nacional de Francia. 84 muertos y 50 heridos críticos (Atentado en Niza).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nizza-C%C3%B4te_d%27Azur.jpg/330px-Nizza-C%C3%B4te_d%27Azur.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Niza",
+      "popularityScore": 5622
+    }
+  ]
+}
