@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-13",
+  "events": [
+    {
+      "id": "londres-1985",
+      "year": 1985,
+      "texto": "En Londres, Filadelfia, Sídney y Moscú se celebraron dos conciertos benéficos, el objetivo era recaudar fondos para la hambruna en Etiopía.",
+      "textoPista": "En Londres, Filadelfia, Sídney y Moscú se celebraron dos conciertos benéficos, el objetivo era recaudar fondos para la hambruna en Etiopía.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
+    },
+    {
+      "id": "virginia-2014",
+      "year": 2014,
+      "texto": "se lanza la cápsula \"Cygnus\" desde las costas de Virginia (Estados Unidos) con unos 1300 kilos de suministros, en su mayoría alimentos, con destino a la Estación Espacial Internacional alcanzándola en 3 días.",
+      "textoPista": "se lanza la cápsula \"Cygnus\" desde las costas de Virginia (Estados Unidos) con unos 1300 kilos de suministros, en su mayoría alimentos, con destino a la Estación Espacial Internacional alcanzándola en 3 días.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Virginia_in_United_States.svg/langes-330px-Virginia_in_United_States.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Virginia",
+      "popularityScore": 5803
+    },
+    {
+      "id": "george-h-w-bush-1985",
+      "year": 1985,
+      "texto": "en Estados Unidos, el vicepresidente George H. W. Bush se convierte en el 25.º presidente accidental, cuando el presidente Ronald Reagan es ingresado de urgencia por unos pólipos en el colon.",
+      "textoPista": "en Estados Unidos, el vicepresidente George H. W. Bush se convierte en el 25.º presidente accidental, cuando el presidente Ronald Reagan es ingresado de urgencia por unos pólipos en el colon.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/330px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/George_H._W._Bush",
+      "popularityScore": 13025
+    },
+    {
+      "id": "chelsea-football-club-2025",
+      "year": 2025,
+      "texto": "En Estados Unidos el Chelsea Football Club  gana el mundial de clubes 2025, venciendo al Paris Saint-Germain Football Club 3 a 0 en el MetLife Stadium ubicado en la ciudad de East Rutherford,.",
+      "textoPista": "En Estados Unidos el Chelsea Football Club  gana el mundial de clubes ▪▪▪▪, venciendo al Paris Saint-Germain Football Club 3 a 0 en el MetLife Stadium ubicado en la ciudad de East Rutherford,.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChelseaFC.png/330px-ChelseaFC.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Chelsea_Football_Club",
+      "popularityScore": 24314
+    },
+    {
+      "id": "ollanta-humala-2017",
+      "year": 2017,
+      "texto": "en Perú, el expresidente Ollanta Humala y su esposa Nadine Heredia, son condenados a 18 meses de prisión efectiva por el caso Odebrecht.",
+      "textoPista": "en Perú, el expresidente Ollanta Humala y su esposa Nadine Heredia, son condenados a 18 meses de prisión efectiva por el caso Odebrecht.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ollanta_Humala_Tasso.jpg/330px-Ollanta_Humala_Tasso.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ollanta_Humala",
+      "popularityScore": 17865
+    }
+  ]
+}
