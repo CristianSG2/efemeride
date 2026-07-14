@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-15",
+  "events": [
+    {
+      "id": "pandemia-de-covid-19-2021",
+      "year": 2021,
+      "texto": "En España se rinde tributo a las víctimas de la pandemia de COVID-19 y se reconoce el trabajo del personal sanitario en un Homenaje de Estado centrado en la esperanza.",
+      "textoPista": "En España se rinde tributo a las víctimas de la pandemia de COVID-19 y se reconoce el trabajo del personal sanitario en un Homenaje de Estado centrado en la esperanza.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/COVID-19_Outbreak_World_Map_per_Capita.svg/langes-330px-COVID-19_Outbreak_World_Map_per_Capita.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19",
+      "popularityScore": 17616
+    },
+    {
+      "id": "club-atletico-penarol-1978",
+      "year": 1978,
+      "texto": "récord en el fútbol uruguayo, el futbolista Fernando Morena convierte 7 goles en el partido por campeonato uruguayo Peñarol 7 vs Huracán Buceo 0.",
+      "textoPista": "récord en el fútbol uruguayo, el futbolista Fernando Morena convierte 7 goles en el partido por campeonato uruguayo Peñarol 7 vs Huracán Buceo 0.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Escudo-club-atletico-penarol.png/330px-Escudo-club-atletico-penarol.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Pe%C3%B1arol",
+      "popularityScore": 10109
+    },
+    {
+      "id": "pokemon-2006",
+      "year": 2006,
+      "texto": "se estrena en Japón la novena película del anime de Pokémon: Pokémon Ranger y el Templo del Mar.",
+      "textoPista": "se estrena en Japón la novena película del anime de Pokémon: Pokémon Ranger y el Templo del Mar.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/langes-330px-International_Pok%C3%A9mon_logo.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pok%C3%A9mon",
+      "popularityScore": 11319
+    },
+    {
+      "id": "comunidad-valenciana-1982",
+      "year": 1982,
+      "texto": "en España se firma el Estatuto de Autonomía de la Comunidad Valenciana.",
+      "textoPista": "en España se firma el Estatuto de Autonomía de la Comunidad Valenciana.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Comunidad_Valenciana_in_Spain_%28including_Canarias%29.svg/langes-330px-Comunidad_Valenciana_in_Spain_%28including_Canarias%29.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Comunidad_Valenciana",
+      "popularityScore": 11444
+    },
+    {
+      "id": "buenos-aires-1977",
+      "year": 1977,
+      "texto": "en Buenos Aires (Argentina), la dictadura de Videla secuestra al físico nuclear Daniel Lázaro Rus junto con sus colegas Gerardo Strejilevich y Nélida Barroca en la puerta de la CNEA (Comisión Nacional de Energía Atómica). Serán «desaparecidos», torturados y asesinados.",
+      "textoPista": "en Buenos Aires (Argentina), la dictadura de Videla secuestra al físico nuclear Daniel Lázaro Rus junto con sus colegas Gerardo Strejilevich y Nélida Barroca en la puerta de la CNEA (Comisión Nacional de Energía Atómica). Serán «desaparecidos», torturados y asesinados.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36964
+    }
+  ]
+}
