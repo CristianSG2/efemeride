@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-16",
+  "events": [
+    {
+      "id": "jupiter-planeta-1994",
+      "year": 1994,
+      "texto": "en el planeta Júpiter impactan fragmentos del cometa  Shoemaker-Levy 9.",
+      "textoPista": "en el planeta Júpiter impactan fragmentos del cometa  Shoemaker-Levy 9.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jupiter_in_true_color.jpg/330px-Jupiter_in_true_color.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/J%C3%BApiter_(planeta)",
+      "popularityScore": 16478
+    },
+    {
+      "id": "the-catcher-in-the-rye-1951",
+      "year": 1951,
+      "texto": "se publica por primera vez El guardián entre el centeno de J. D. Salinger.",
+      "textoPista": "se publica por primera vez El guardián entre el centeno de J. D. Salinger.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Catcher-in-the-rye-red-cover.jpg/330px-Catcher-in-the-rye-red-cover.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/The_Catcher_in_the_Rye",
+      "popularityScore": 7101
+    },
+    {
+      "id": "cataluna-2018",
+      "year": 2018,
+      "texto": "en Cataluña se crea el partido Crida Nacional, liderado por Carles Puigdemont.",
+      "textoPista": "en Cataluña se crea el partido Crida Nacional, liderado por Carles Puigdemont.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cataluna_in_Spain_%28including_Canarias%29.svg/langes-330px-Cataluna_in_Spain_%28including_Canarias%29.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Catalu%C3%B1a",
+      "popularityScore": 20494
+    },
+    {
+      "id": "haile-selassie-1931",
+      "year": 1931,
+      "texto": "en Etiopía, el emperador Haile Selassie I firma la primera constitución de ese país.",
+      "textoPista": "en Etiopía, el emperador Haile Selassie I firma la primera constitución de ese país.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haile_Selassie_in_full_dress_%283x4_cropped%29.jpg/330px-Haile_Selassie_in_full_dress_%283x4_cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Haile_Selassie",
+      "popularityScore": 5391
+    },
+    {
+      "id": "balduino-de-belgica-1951",
+      "year": 1951,
+      "texto": "en Bélgica, el rey Leopoldo III abdica en favor de su hijo Balduino.",
+      "textoPista": "en Bélgica, el rey Leopoldo III abdica en favor de su hijo Balduino.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/King_Baudouin_of_Belgium_%282%29.jpg/330px-King_Baudouin_of_Belgium_%282%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Balduino_de_B%C3%A9lgica",
+      "popularityScore": 5914
+    }
+  ]
+}
