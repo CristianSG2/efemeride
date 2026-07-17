@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-17",
+  "events": [
+    {
+      "id": "apolo-1975",
+      "year": 1975,
+      "texto": "un Apolo estadounidense se acopla a una cápsula soviética Soyuz convirtiéndose en la primera unión de naves espaciales de las dos naciones. Se puso fin a la carrera espacial.",
+      "textoPista": "un Apolo estadounidense se acopla a una cápsula soviética Soyuz convirtiéndose en la primera unión de naves espaciales de las dos naciones. Se puso fin a la carrera espacial.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Apollo_of_the_Belvedere.jpg/330px-Apollo_of_the_Belvedere.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Apolo",
+      "popularityScore": 11105
+    },
+    {
+      "id": "vicente-del-bosque-2008",
+      "year": 2008,
+      "texto": "en España, asume como director técnico de dicha selección Vicente del Bosque, quien en Sudáfrica 2010 saldrá campeón mundial.",
+      "textoPista": "en España, asume como director técnico de dicha selección Vicente del Bosque, quien en Sudáfrica ▪▪▪▪ saldrá campeón mundial.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Vicente_del_Bosque_-_Teamchef_Spain_%2801%29.jpg/330px-Vicente_del_Bosque_-_Teamchef_Spain_%2801%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Vicente_del_Bosque",
+      "popularityScore": 26012
+    },
+    {
+      "id": "ejercito-de-los-estados-unidos-1945",
+      "year": 1945,
+      "texto": "en Japón ―en el marco de la Segunda Guerra Mundial (1939-1945)―, el ejército estadounidense realiza el bombardeo aéreo más grande a la ciudad de Numazu, en Japón.",
+      "textoPista": "en Japón ―en el marco de la Segunda Guerra Mundial (▪▪▪▪-▪▪▪▪)―, el ejército estadounidense realiza el bombardeo aéreo más grande a la ciudad de Numazu, en Japón.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mark_of_the_United_States_Army.svg/langes-330px-Mark_of_the_United_States_Army.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ej%C3%A9rcito_de_los_Estados_Unidos",
+      "popularityScore": 5940
+    },
+    {
+      "id": "guerra-civil-espanola-1936",
+      "year": 1936,
+      "texto": "en España se inicia una sublevación militar dirigida contra el gobierno de la Segunda República. Al fracasar comienza la guerra civil española.",
+      "textoPista": "en España se inicia una sublevación militar dirigida contra el gobierno de la Segunda República. Al fracasar comienza la guerra civil española.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Collage_guerra_civile_spagnola.png/330px-Collage_guerra_civile_spagnola.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_civil_espa%C3%B1ola",
+      "popularityScore": 34839
+    },
+    {
+      "id": "terremoto-2006",
+      "year": 2006,
+      "texto": "otro terremoto de 7.9 grados sacude la isla de Java, Indonesia, provoca un tsunami que mata a más de 1000 personas",
+      "textoPista": "otro terremoto de 7.9 grados sacude la isla de Java, Indonesia, provoca un tsunami que mata a más de 1000 personas",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Haiti_earthquake_damage.jpg/330px-Haiti_earthquake_damage.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Terremoto",
+      "popularityScore": 36630
+    }
+  ]
+}
