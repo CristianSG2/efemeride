@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-18",
+  "events": [
+    {
+      "id": "buenos-aires-1994",
+      "year": 1994,
+      "texto": "en Buenos Aires (Argentina), un atentado terrorista a la AMIA (Asociación Mutual Israelita Argentina) deja 85 muertos y más de 300 heridos.",
+      "textoPista": "en Buenos Aires (Argentina), un atentado terrorista a la AMIA (Asociación Mutual Israelita Argentina) deja 85 muertos y más de 300 heridos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36964
+    },
+    {
+      "id": "zaire-1994",
+      "year": 1994,
+      "texto": "en Ruanda, el Frente Patriótico Ruandés (FPR) toma el control de Gisenyi y el noroeste del país, obligando al gobierno interino a huir a en Zaire poniendo fin al genocidio.",
+      "textoPista": "en Ruanda, el Frente Patriótico Ruandés (FPR) toma el control de Gisenyi y el noroeste del país, obligando al gobierno interino a huir a en Zaire poniendo fin al genocidio.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Identiteitskaart._Carte_d%27identit%C3%A9_pour_citoyen_%28R%C3%A9publique_du_Za%C3%AFre%29%2C_asset_G2SWWCZTMJhdZVLSUXa69wAe.jpg/330px-Identiteitskaart._Carte_d%27identit%C3%A9_pour_citoyen_%28R%C3%A9publique_du_Za%C3%AFre%29%2C_asset_G2SWWCZTMJhdZVLSUXa69wAe.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Zaire",
+      "popularityScore": 30520
+    },
+    {
+      "id": "rodrigo-diaz-de-vivar-1921",
+      "year": 1921,
+      "texto": "en Burgos (España), con motivo del séptimo centenario de la Catedral de Burgos, se trasladan al templo los restos de El Cid y su esposa doña Jimena, así como las reliquias de san Fernando (el rey Fernando III de Castilla).",
+      "textoPista": "en Burgos (España), con motivo del séptimo centenario de la Catedral de Burgos, se trasladan al templo los restos de El Cid y su esposa doña Jimena, así como las reliquias de san Fernando (el rey Fernando III de Castilla).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Detalle_de_la_estatua_el_Cid_%28Parque_de_Balboa%29.jpg/330px-Detalle_de_la_estatua_el_Cid_%28Parque_de_Balboa%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rodrigo_D%C3%ADaz_de_Vivar",
+      "popularityScore": 18056
+    },
+    {
+      "id": "londres-1965",
+      "year": 1965,
+      "texto": "en Londres (Reino Unido), Edward Heath es elegido nuevo líder del Partido Conservador.",
+      "textoPista": "en Londres (Reino Unido), Edward Heath es elegido nuevo líder del Partido Conservador.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
+    },
+    {
+      "id": "berlin-1925",
+      "year": 1925,
+      "texto": "en Berlín se publica la primera edición del libro Mein Kampf (Mi lucha), de Adolf Hitler.",
+      "textoPista": "en Berlín se publica la primera edición del libro Mein Kampf (Mi lucha), de Adolf Hitler.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg/330px-Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Berl%C3%ADn",
+      "popularityScore": 10231
+    }
+  ]
+}
