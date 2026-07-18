@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-19",
+  "events": [
+    {
+      "id": "irlanda-del-norte-1997",
+      "year": 1997,
+      "texto": "en Irlanda del Norte, el Ejército Republicano Irlandés decreta el alto al fuego incondicional para impulsar el proceso de paz.",
+      "textoPista": "en Irlanda del Norte, el Ejército Republicano Irlandés decreta el alto al fuego incondicional para impulsar el proceso de paz.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Northern_Ireland_-_panoramio.jpg/330px-Northern_Ireland_-_panoramio.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Irlanda_del_Norte",
+      "popularityScore": 15180
+    },
+    {
+      "id": "francisco-franco-1951",
+      "year": 1951,
+      "texto": "en España, se constituye el sexto gobierno de Franco con dos novedades principales: la creación del nuevo Ministerio de Información y Turismo y el desdoblamiento de Comercio e Industria.",
+      "textoPista": "en España, se constituye el sexto gobierno de Franco con dos novedades principales: la creación del nuevo Ministerio de Información y Turismo y el desdoblamiento de Comercio e Industria.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg/330px-RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Francisco_Franco",
+      "popularityScore": 43683
+    },
+    {
+      "id": "milan-1875",
+      "year": 1875,
+      "texto": "en Milán (Italia) se estrena la ópera La falce de Alfredo Catalani.",
+      "textoPista": "en Milán (Italia) se estrena la ópera La falce de Alfredo Catalani.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Milan.Proper.Wikipedia.Image.png/330px-Milan.Proper.Wikipedia.Image.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mil%C3%A1n",
+      "popularityScore": 10790
+    },
+    {
+      "id": "ohio-1863",
+      "year": 1863,
+      "texto": "en el estado de Ohio (Estados Unidos), en el marco de la guerra de Secesión, la campaña hacia el norte del general confederado John Hunt Morgan es obstaculizada en Buffington Island cuando la mayor parte de sus hombres son capturados mientras tratan de escapar a través del río Ohio.",
+      "textoPista": "en el estado de Ohio (Estados Unidos), en el marco de la guerra de Secesión, la campaña hacia el norte del general confederado John Hunt Morgan es obstaculizada en Buffington Island cuando la mayor parte de sus hombres son capturados mientras tratan de escapar a través del río Ohio.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ohio_in_United_States.svg/langes-330px-Ohio_in_United_States.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ohio",
+      "popularityScore": 8117
+    },
+    {
+      "id": "berlin-1940",
+      "year": 1940,
+      "texto": "en la Ópera Kroll de Berlín (Alemania nazi) ―en el marco de la Segunda Guerra Mundial―,  Adolf Hitler promocionó a doce generales al rango de Generalfeldmarschall (mariscal de campo). Fue la primera ocasión en la Segunda Guerra Mundial en la que Hitler nombró mariscales de campo debido a sus logros militares y la única en que lo hizo en una ceremonia formal.",
+      "textoPista": "en la Ópera Kroll de Berlín (Alemania nazi) ―en el marco de la Segunda Guerra Mundial―,  Adolf Hitler promocionó a doce generales al rango de Generalfeldmarschall (mariscal de campo). Fue la primera ocasión en la Segunda Guerra Mundial en la que Hitler nombró mariscales de campo debido a sus logros militares y la única en que lo hizo en una ceremonia formal.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg/330px-Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Berl%C3%ADn",
+      "popularityScore": 10231
+    }
+  ]
+}
