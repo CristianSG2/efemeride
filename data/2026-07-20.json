@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-20",
+  "events": [
+    {
+      "id": "pamplona-1923",
+      "year": 1923,
+      "texto": "en España empieza la prueba de regularidad Pamplona-Lérida-Huesca-Pamplona-San Sebastián de motociclismo.",
+      "textoPista": "en España empieza la prueba de regularidad Pamplona-Lérida-Huesca-Pamplona-San Sebastián de motociclismo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bandera_Pamplona.svg/langes-330px-Bandera_Pamplona.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pamplona",
+      "popularityScore": 11418
+    },
+    {
+      "id": "seattle-1934",
+      "year": 1934,
+      "texto": "en la ciudad de Seattle ―en el marco de la huelga de los muelles de la Costa Oeste― la policía dispara gas lacrimógeno y apalea a 2000 estibadores en huelga. El gobernador del estado de Oregón llama a la Guardia Nacional para reprimir una huelga en los muelles de Portland (Oregón).",
+      "textoPista": "en la ciudad de Seattle ―en el marco de la huelga de los muelles de la Costa Oeste― la policía dispara gas lacrimógeno y apalea a ▪▪▪▪ estibadores en huelga. El gobernador del estado de Oregón llama a la Guardia Nacional para reprimir una huelga en los muelles de Portland (Oregón).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SeattleMontage.png/330px-SeattleMontage.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Seattle",
+      "popularityScore": 12988
+    },
+    {
+      "id": "aruba-1985",
+      "year": 1985,
+      "texto": "en Aruba (mar Caribe) el Gobierno aprueba una ley para separarse de las Antillas Neerlandesas.",
+      "textoPista": "en Aruba (mar Caribe) el Gobierno aprueba una ley para separarse de las Antillas Neerlandesas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aruba_World_Wind.jpg/330px-Aruba_World_Wind.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Aruba",
+      "popularityScore": 43584
+    },
+    {
+      "id": "madeira-1975",
+      "year": 1975,
+      "texto": "en la isla Madeira ―957 km al suroeste de Lisboa (Portugal)― inicia sus actividades el grupo terrorista de extrema derecha FLAMA (Frente de Liberación del Archipiélago de Madeira), creado como reacción a la hipótesis de que el Portugal continental abandonaría el capitalismo y se volvería comunista. Se mantendrá activo durante tres años.",
+      "textoPista": "en la isla Madeira ―957 km al suroeste de Lisboa (Portugal)― inicia sus actividades el grupo terrorista de extrema derecha FLAMA (Frente de Liberación del Archipiélago de Madeira), creado como reacción a la hipótesis de que el Portugal continental abandonaría el capitalismo y se volvería comunista. Se mantendrá activo durante tres años.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Regiao_Autonoma_da_Madeira_in_Portugal_%28complete%29.svg/langes-330px-Regiao_Autonoma_da_Madeira_in_Portugal_%28complete%29.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Madeira",
+      "popularityScore": 17647
+    },
+    {
+      "id": "filadelfia-1950",
+      "year": 1950,
+      "texto": "en Filadelfia (Estados Unidos) ―en el marco de la Guerra Fría―, Harry Gold (39) se declara culpable de espiar para la Unión Soviética al pasar secretos del científico atómico Klaus Fuchs (38).",
+      "textoPista": "en Filadelfia (Estados Unidos) ―en el marco de la Guerra Fría―, Harry Gold (39) se declara culpable de espiar para la Unión Soviética al pasar secretos del científico atómico Klaus Fuchs (38).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Philadelphia_Montage_by_Jleon_0310.jpg/330px-Philadelphia_Montage_by_Jleon_0310.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Filadelfia",
+      "popularityScore": 14191
+    }
+  ]
+}
