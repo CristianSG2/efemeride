@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-22",
+  "events": [
+    {
+      "id": "washington-d-c-1964",
+      "year": 1964,
+      "texto": "en Washington se reúne la OEA para discutir  sanciones absurdas hacia  Cuba utilizando como excusa su ayuda a los movimientos nacionalistas en Venezuela. Por 15 votos contra 4 deciden la suspensión de relaciones diplomáticas y comerciales con la isla.",
+      "textoPista": "en Washington se reúne la OEA para discutir  sanciones absurdas hacia  Cuba utilizando como excusa su ayuda a los movimientos nacionalistas en Venezuela. Por 15 votos contra 4 deciden la suspensión de relaciones diplomáticas y comerciales con la isla.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/330px-12-07-13-washington-by-RalfR-08.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Washington_D._C.",
+      "popularityScore": 18123
+    },
+    {
+      "id": "londres-1919",
+      "year": 1919,
+      "texto": "en Londres se estrena El sombrero de tres picos, de Manuel de Falla, con decorados de Pablo Picasso.",
+      "textoPista": "en Londres se estrena El sombrero de tres picos, de Manuel de Falla, con decorados de Pablo Picasso.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
+    },
+    {
+      "id": "nicolas-ii-de-rusia-1906",
+      "year": 1906,
+      "texto": "el zar Nicolás II disuelve la Duma rusa por su escasa docilidad y por la oposición de la nobleza.",
+      "textoPista": "el zar Nicolás II disuelve la Duma rusa por su escasa docilidad y por la oposición de la nobleza.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mikola_II_%28cropped%29-2.jpg/330px-Mikola_II_%28cropped%29-2.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_II_de_Rusia",
+      "popularityScore": 15917
+    },
+    {
+      "id": "winston-churchill-1912",
+      "year": 1912,
+      "texto": "en Inglaterra, Winston Churchill, primer lord del almirantazgo, solicita un aumento del presupuesto de la marina británica para hacer frente al rearme alemán.",
+      "textoPista": "en Inglaterra, Winston Churchill, primer lord del almirantazgo, solicita un aumento del presupuesto de la marina británica para hacer frente al rearme alemán.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/330px-Sir_Winston_Churchill_-_19086236948.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Winston_Churchill",
+      "popularityScore": 24666
+    },
+    {
+      "id": "georgia-estados-unidos-1864",
+      "year": 1864,
+      "texto": "en Georgia (Estados Unidos) ―en el marco de la guerra de Secesión― se libra la batalla de Atlanta.",
+      "textoPista": "en Georgia (Estados Unidos) ―en el marco de la guerra de Secesión― se libra la batalla de Atlanta.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Georgia_in_United_States.svg/langes-330px-Georgia_in_United_States.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Georgia_(Estados_Unidos)",
+      "popularityScore": 12155
+    }
+  ]
+}
