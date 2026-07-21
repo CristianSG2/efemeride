@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-21",
+  "events": [
+    {
+      "id": "comunismo-1962",
+      "year": 1962,
+      "texto": "en Bilbao (País Vasco), la policía franquista española encarcela a varios comunistas llegados a España procedentes de Praga (Checoslovaquia).",
+      "textoPista": "en Bilbao (País Vasco), la policía franquista española encarcela a varios comunistas llegados a España procedentes de Praga (Checoslovaquia).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hammer_and_sickle_red_on_transparent.svg/langes-330px-Hammer_and_sickle_red_on_transparent.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Comunismo",
+      "popularityScore": 16162
+    },
+    {
+      "id": "segunda-guerra-mundial-1940",
+      "year": 1940,
+      "texto": "Alemania inicia los planes de ataque contra la Unión Soviética durante la Segunda Guerra Mundial.",
+      "textoPista": "Alemania inicia los planes de ataque contra la Unión Soviética durante la Segunda Guerra Mundial.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WW2Montage.PNG/330px-WW2Montage.PNG",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial",
+      "popularityScore": 78460
+    },
+    {
+      "id": "euskadi-ta-askatasuna-1978",
+      "year": 1978,
+      "texto": "en Madrid (España), la banda terrorista ETA asesina al general Juan Sánchez Ramos-Izquierdo y a su ayudante.",
+      "textoPista": "en Madrid (España), la banda terrorista ETA asesina al general Juan Sánchez Ramos-Izquierdo y a su ayudante.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ETA_Symbol.svg/langes-330px-ETA_Symbol.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Euskadi_Ta_Askatasuna",
+      "popularityScore": 21151
+    },
+    {
+      "id": "rey-de-espana-1981",
+      "year": 1981,
+      "texto": "los reyes de España deciden no asistir a la boda del príncipe Carlos de Inglaterra y lady Diana Spencer, tras el anuncio de que la pareja iniciaría en Gibraltar su viaje de novios.",
+      "textoPista": "los reyes de España deciden no asistir a la boda del príncipe Carlos de Inglaterra y lady Diana Spencer, tras el anuncio de que la pareja iniciaría en Gibraltar su viaje de novios.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Daiga_Mieri%C5%86a_tiekas_ar_Sp%C4%81nijas_karali_-_53814974005_%28cropped%29.jpg/330px-Daiga_Mieri%C5%86a_tiekas_ar_Sp%C4%81nijas_karali_-_53814974005_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rey_de_Espa%C3%B1a",
+      "popularityScore": 13326
+    },
+    {
+      "id": "buenos-aires-1961",
+      "year": 1961,
+      "texto": "en Buenos Aires (Argentina), empieza a emitir el Canal 11 (posterior Telefe).",
+      "textoPista": "en Buenos Aires (Argentina), empieza a emitir el Canal 11 (posterior Telefe).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36964
+    }
+  ]
+}
