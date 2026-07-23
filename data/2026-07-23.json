@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-23",
+  "events": [
+    {
+      "id": "google-2008",
+      "year": 2008,
+      "texto": "Google abre al público la versión beta en inglés de Knol, espacio que alberga artículos de autores o unidades de conocimiento.",
+      "textoPista": "Google abre al público la versión beta en inglés de Knol, espacio que alberga artículos de autores o unidades de conocimiento.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Google",
+      "popularityScore": 92685
+    },
+    {
+      "id": "adolf-hitler-1942",
+      "year": 1942,
+      "texto": "Adolf Hitler aprueba la Operación Edelweiss.",
+      "textoPista": "Adolf Hitler aprueba la Operación Edelweiss.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/330px-Hitler_portrait_crop.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Adolf_Hitler",
+      "popularityScore": 92481
+    },
+    {
+      "id": "segunda-guerra-mundial-1942",
+      "year": 1942,
+      "texto": "en Rostov del Don, en el extremo noreste del mar de Azov (Unión Soviética), a 1077 km al sur de Moscú ―en el ámbito de la Segunda Guerra Mundial (1939-1945)― las tropas nazis alemanas reconquistan la ciudad.",
+      "textoPista": "en Rostov del Don, en el extremo noreste del mar de Azov (Unión Soviética), a 1077 km al sur de Moscú ―en el ámbito de la Segunda Guerra Mundial (▪▪▪▪-▪▪▪▪)― las tropas nazis alemanas reconquistan la ciudad.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WW2Montage.PNG/330px-WW2Montage.PNG",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial",
+      "popularityScore": 78460
+    },
+    {
+      "id": "juan-carlos-i-de-espana-1983",
+      "year": 1983,
+      "texto": "el rey Juan Carlos I de España firma en Venezuela la Declaración de Caracas con motivo del bicentenario del nacimiento de Simón Bolívar.",
+      "textoPista": "el rey Juan Carlos I de España firma en Venezuela la Declaración de Caracas con motivo del bicentenario del nacimiento de Simón Bolívar.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ministru_prezidents_Valdis_Dombrovskis_ofici%C4%81l%C4%81s_pusdien%C4%81s_tiekas_ar_Sp%C4%81nijas_karali_Huanu_Karlosu_I_un_karalieni_Sofiju_%283506936051%29_%28cropped%29.jpg/330px-Ministru_prezidents_Valdis_Dombrovskis_ofici%C4%81l%C4%81s_pusdien%C4%81s_tiekas_ar_Sp%C4%81nijas_karali_Huanu_Karlosu_I_un_karalieni_Sofiju_%283506936051%29_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Carlos_I_de_Espa%C3%B1a",
+      "popularityScore": 32940
+    },
+    {
+      "id": "partido-socialista-obrero-espanol-1986",
+      "year": 1986,
+      "texto": "Felipe González es investido presidente del Gobierno de España con el apoyo de los 184 diputados socialistas.",
+      "textoPista": "Felipe González es investido presidente del Gobierno de España con el apoyo de los 184 diputados socialistas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_PSOE_41_Congreso.svg/langes-330px-Logo_PSOE_41_Congreso.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol",
+      "popularityScore": 18256
+    }
+  ]
+}
