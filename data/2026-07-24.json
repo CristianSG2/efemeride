@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-24",
+  "events": [
+    {
+      "id": "congreso-de-los-diputados-1979",
+      "year": 1979,
+      "texto": "el Congreso español aprueba el establecimiento del Tribunal Constitucional.",
+      "textoPista": "el Congreso español aprueba el establecimiento del Tribunal Constitucional.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Solemne_apertura_de_la_XIV_Legislatura_04.jpg/330px-Solemne_apertura_de_la_XIV_Legislatura_04.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Congreso_de_los_Diputados",
+      "popularityScore": 13899
+    },
+    {
+      "id": "sigmund-freud-1895",
+      "year": 1895,
+      "texto": "el psicoanalista austriaco Sigmund Freud lleva a cabo la primera interpretación «completa» de uno de sus sueños: el «sueño de la inyección a Irma».",
+      "textoPista": "el psicoanalista austriaco Sigmund Freud lleva a cabo la primera interpretación «completa» de uno de sus sueños: el «sueño de la inyección a Irma».",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/330px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Sigmund_Freud",
+      "popularityScore": 24748
+    },
+    {
+      "id": "milan-1976",
+      "year": 1976,
+      "texto": "en la localidad italiana de Seveso (cerca de Milán) se escapa una nube de gas letal cargada de dioxinas, procedente del complejo químico de ICMESA. Los 15 000 habitantes de la localidad tuvieron que ser evacuados con graves lesiones cutáneas.",
+      "textoPista": "en la localidad italiana de Seveso (cerca de Milán) se escapa una nube de gas letal cargada de dioxinas, procedente del complejo químico de ICMESA. Los 15 000 habitantes de la localidad tuvieron que ser evacuados con graves lesiones cutáneas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Milan.Proper.Wikipedia.Image.png/330px-Milan.Proper.Wikipedia.Image.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mil%C3%A1n",
+      "popularityScore": 10790
+    },
+    {
+      "id": "segunda-guerra-mundial-1943",
+      "year": 1943,
+      "texto": "los aliados de la Segunda Guerra Mundial inician una campaña de bombardeos aéreos contra Hamburgo, que durarán seis días.",
+      "textoPista": "los aliados de la Segunda Guerra Mundial inician una campaña de bombardeos aéreos contra Hamburgo, que durarán seis días.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WW2Montage.PNG/330px-WW2Montage.PNG",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial",
+      "popularityScore": 78460
+    },
+    {
+      "id": "escandalo-watergate-1974",
+      "year": 1974,
+      "texto": "en el Escándalo Watergate, la Corte Suprema de los Estados Unidos ordena al presidente Richard Nixon entregar las cintas con grabaciones de sus conversaciones que mantenía en su poder y se negaba a entregar al investigador del caso.",
+      "textoPista": "en el Escándalo Watergate, la Corte Suprema de los Estados Unidos ordena al presidente Richard Nixon entregar las cintas con grabaciones de sus conversaciones que mantenía en su poder y se negaba a entregar al investigador del caso.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WatergateFromAir.JPG/330px-WatergateFromAir.JPG",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Esc%C3%A1ndalo_Watergate",
+      "popularityScore": 12281
+    }
+  ]
+}
