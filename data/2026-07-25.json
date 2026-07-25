@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-25",
+  "events": [
+    {
+      "id": "quito-1948",
+      "year": 1948,
+      "texto": "en Ecuador se inaugura la conferencia de Quito, en la que Colombia, Ecuador, Panamá y Venezuela estudian la manera de constituir una sola unidad política y económica.",
+      "textoPista": "en Ecuador se inaugura la conferencia de Quito, en la que Colombia, Ecuador, Panamá y Venezuela estudian la manera de constituir una sola unidad política y económica.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Quito_montage.png/330px-Quito_montage.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Quito",
+      "popularityScore": 12358
+    },
+    {
+      "id": "nicolas-ii-de-rusia-1905",
+      "year": 1905,
+      "texto": "en Björkök, Guillermo II de Alemania y Nicolás II de Rusia firman un tratado.",
+      "textoPista": "en Björkök, Guillermo II de Alemania y Nicolás II de Rusia firman un tratado.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mikola_II_%28cropped%29-2.jpg/330px-Mikola_II_%28cropped%29-2.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_II_de_Rusia",
+      "popularityScore": 15917
+    },
+    {
+      "id": "londres-1946",
+      "year": 1946,
+      "texto": "se celebra la conferencia de Londres, un intento frustrado de los británicos de reunir a David Ben Gurión y a Hadj Amin para solucionar pacíficamente la convivencia entre judíos y palestinos.",
+      "textoPista": "se celebra la conferencia de Londres, un intento frustrado de los británicos de reunir a David Ben Gurión y a Hadj Amin para solucionar pacíficamente la convivencia entre judíos y palestinos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
+    },
+    {
+      "id": "puerto-rico-1952",
+      "year": 1952,
+      "texto": "se promulga la Constitución de Puerto Rico como Estado Libre Asociado de los Estados Unidos.",
+      "textoPista": "se promulga la Constitución de Puerto Rico como Estado Libre Asociado de los Estados Unidos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg/langes-330px-Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puerto_Rico",
+      "popularityScore": 41833
+    },
+    {
+      "id": "pueblo-kurdo-2009",
+      "year": 2009,
+      "texto": "en la Región Autónoma del Kurdistán (en Irak) se celebran elecciones regionales. En los comicios se eligen el presidente de la Región Autónoma kurda (por voto directo) y el Parlamento regional; las elecciones son otro hito importante en el proceso de normalización y pacificación de Irak, y son importantes para definir las relaciones entre la comunidad kurda y el resto del país.",
+      "textoPista": "en la Región Autónoma del Kurdistán (en Irak) se celebran elecciones regionales. En los comicios se eligen el presidente de la Región Autónoma kurda (por voto directo) y el Parlamento regional; las elecciones son otro hito importante en el proceso de normalización y pacificación de Irak, y son importantes para definir las relaciones entre la comunidad kurda y el resto del país.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mountain_child.jpg/330px-Mountain_child.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pueblo_kurdo",
+      "popularityScore": 12685
+    }
+  ]
+}
