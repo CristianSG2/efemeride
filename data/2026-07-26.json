@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-26",
+  "events": [
+    {
+      "id": "atentados-del-11-de-marzo-de-2004-2005",
+      "year": 2005,
+      "texto": "en las proximidades de la frontera de Francia con Bélgica, la policía francesa detiene a dos hombres presuntamente relacionados con los atentados del 11 de marzo de 2004 en Madrid.",
+      "textoPista": "en las proximidades de la frontera de Francia con Bélgica, la policía francesa detiene a dos hombres presuntamente relacionados con los atentados del 11 de marzo de ▪▪▪▪ en Madrid.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Atentado_11M.jpg/330px-Atentado_11M.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Atentados_del_11_de_marzo_de_2004",
+      "popularityScore": 18957
+    },
+    {
+      "id": "caracas-1881",
+      "year": 1881,
+      "texto": "en Caracas (Venezuela), el diario La Opinión Nacional publica una carta dirigida por José Martí a Fausto Teodoro de Aldrey.",
+      "textoPista": "en Caracas (Venezuela), el diario La Opinión Nacional publica una carta dirigida por José Martí a Fausto Teodoro de Aldrey.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_Caracas.jpg/330px-Collage_Caracas.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Caracas",
+      "popularityScore": 30268
+    },
+    {
+      "id": "europa-1987",
+      "year": 1987,
+      "texto": "el sur de Europa es afectado por una intensa ola de calor sahariano, que causa la muerte a más de mil personas.",
+      "textoPista": "el sur de Europa es afectado por una intensa ola de calor sahariano, que causa la muerte a más de mil personas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Europe_on_the_globe_%28red%29.svg/langes-330px-Europe_on_the_globe_%28red%29.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Europa",
+      "popularityScore": 37540
+    },
+    {
+      "id": "idioma-frances-1977",
+      "year": 1977,
+      "texto": "la Asamblea Nacional de Quebec (Canadá) impone el uso del francés en la Administración.",
+      "textoPista": "la Asamblea Nacional de Quebec (Canadá) impone el uso del francés en la Administración.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Idioma_franc%C3%A9s.png/330px-Idioma_franc%C3%A9s.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Idioma_franc%C3%A9s",
+      "popularityScore": 13525
+    },
+    {
+      "id": "juegos-olimpicos-2021",
+      "year": 2021,
+      "texto": "en los Juegos Olímpicos de Tokio 2020, la levantadora de pesas filipina Hidilyn Díaz se consagró campeona olímpica tras ganar la prueba de 55kg femenil levantando un total de 224kg (97kg en arranque y 127 en a dos tiempo). La hazaña fue histórica por haber sido la primera medalla dorada en más de 100 años de historia olímpica para Filipinas.",
+      "textoPista": "en los Juegos Olímpicos de Tokio ▪▪▪▪, la levantadora de pesas filipina Hidilyn Díaz se consagró campeona olímpica tras ganar la prueba de 55kg femenil levantando un total de 224kg (97kg en arranque y 127 en a dos tiempo). La hazaña fue histórica por haber sido la primera medalla dorada en más de 100 años de historia olímpica para Filipinas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/langes-330px-Olympic_rings_without_rims.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos",
+      "popularityScore": 31334
+    }
+  ]
+}
