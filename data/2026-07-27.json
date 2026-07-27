@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-27",
+  "events": [
+    {
+      "id": "euskadi-ta-askatasuna-1994",
+      "year": 1994,
+      "texto": "en San Sebastián (País Vasco), el empresario donostiarra José Manuel Olarte es asesinado por la banda terrorista ETA.",
+      "textoPista": "en San Sebastián (País Vasco), el empresario donostiarra José Manuel Olarte es asesinado por la banda terrorista ETA.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ETA_Symbol.svg/langes-330px-ETA_Symbol.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Euskadi_Ta_Askatasuna",
+      "popularityScore": 21151
+    },
+    {
+      "id": "congreso-de-la-republica-del-peru-1998",
+      "year": 1998,
+      "texto": "en Perú, Víctor Joy Way se convierte en presidente del Congreso de la República del Perú para el periodo 1998-1999.",
+      "textoPista": "en Perú, Víctor Joy Way se convierte en presidente del Congreso de la República del Perú para el periodo ▪▪▪▪-▪▪▪▪.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Vista_panor%C3%A1mica_del_hemiciclo_de_sesiones_de_la_C%C3%A1mara_de_diputados%2C_ambiente_donde_se_celebran_las_sesiones_plenarias_del_parlamento.jpg/330px-Vista_panor%C3%A1mica_del_hemiciclo_de_sesiones_de_la_C%C3%A1mara_de_diputados%2C_ambiente_donde_se_celebran_las_sesiones_plenarias_del_parlamento.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Congreso_de_la_Rep%C3%BAblica_del_Per%C3%BA",
+      "popularityScore": 14761
+    },
+    {
+      "id": "congreso-de-la-republica-del-peru-1997",
+      "year": 1997,
+      "texto": "Carlos Torres y Torres Lara se convierte en presidente del Congreso de la República del Perú para el periodo 1997-1998.",
+      "textoPista": "Carlos Torres y Torres Lara se convierte en presidente del Congreso de la República del Perú para el periodo ▪▪▪▪-▪▪▪▪.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Vista_panor%C3%A1mica_del_hemiciclo_de_sesiones_de_la_C%C3%A1mara_de_diputados%2C_ambiente_donde_se_celebran_las_sesiones_plenarias_del_parlamento.jpg/330px-Vista_panor%C3%A1mica_del_hemiciclo_de_sesiones_de_la_C%C3%A1mara_de_diputados%2C_ambiente_donde_se_celebran_las_sesiones_plenarias_del_parlamento.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Congreso_de_la_Rep%C3%BAblica_del_Per%C3%BA",
+      "popularityScore": 14761
+    },
+    {
+      "id": "guerra-civil-espanola-1955",
+      "year": 1955,
+      "texto": "en España terminan las obras de restauración del Teatro Real de Madrid, dañado durante la guerra civil española.",
+      "textoPista": "en España terminan las obras de restauración del Teatro Real de Madrid, dañado durante la guerra civil española.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Collage_guerra_civile_spagnola.png/330px-Collage_guerra_civile_spagnola.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_civil_espa%C3%B1ola",
+      "popularityScore": 34839
+    },
+    {
+      "id": "atletico-nacional-2016",
+      "year": 2016,
+      "texto": "En Colombia el Atlético Nacional gana su segunda Copa Libertadores de América tras vencer a Independiente del Valle 2-1 en el Global en la ciudad de Medellín.",
+      "textoPista": "En Colombia el Atlético Nacional gana su segunda Copa Libertadores de América tras vencer a Independiente del Valle 2-1 en el Global en la ciudad de Medellín.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Atletico_Nacional_Logo.svg/langes-330px-Atletico_Nacional_Logo.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Atl%C3%A9tico_Nacional",
+      "popularityScore": 19337
+    }
+  ]
+}
