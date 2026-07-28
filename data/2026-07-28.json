@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-28",
+  "events": [
+    {
+      "id": "alberto-fujimori-1990",
+      "year": 1990,
+      "texto": "en Lima (Perú), Alberto Fujimori asume por primera vez el cargo de presidente.",
+      "textoPista": "en Lima (Perú), Alberto Fujimori asume por primera vez el cargo de presidente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg/330px-Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Alberto_Fujimori",
+      "popularityScore": 188571
+    },
+    {
+      "id": "presidente-del-peru-1945",
+      "year": 1945,
+      "texto": "en Lima (Perú), José Luis Bustamante y Rivero asume el cargo de presidente.",
+      "textoPista": "en Lima (Perú), José Luis Bustamante y Rivero asume el cargo de presidente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/C%C3%A9sar_Manuel_Quispe_Luj%C3%A1n_es_ratificado_como_ministro_de_la_Producci%C3%B3n_1_%28Cropped%29.png/330px-C%C3%A9sar_Manuel_Quispe_Luj%C3%A1n_es_ratificado_como_ministro_de_la_Producci%C3%B3n_1_%28Cropped%29.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Presidente_del_Per%C3%BA",
+      "popularityScore": 136556
+    },
+    {
+      "id": "alberto-fujimori-2000",
+      "year": 2000,
+      "texto": "en Lima (Perú), Alberto Fujimori asume por tercera vez el cargo de presidente a pesar de una revuelta que se produjo en la capital, llamada la Marcha de los Cuatro Suyos, que causó grandes destrozos, seis muertos y cientos de heridos.",
+      "textoPista": "en Lima (Perú), Alberto Fujimori asume por tercera vez el cargo de presidente a pesar de una revuelta que se produjo en la capital, llamada la Marcha de los Cuatro Suyos, que causó grandes destrozos, seis muertos y cientos de heridos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg/330px-Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Alberto_Fujimori",
+      "popularityScore": 188571
+    },
+    {
+      "id": "presidente-del-peru-1963",
+      "year": 1963,
+      "texto": "en Lima (Perú), Fernando Belaúnde Terry asume el cargo de presidente.",
+      "textoPista": "en Lima (Perú), Fernando Belaúnde Terry asume el cargo de presidente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/C%C3%A9sar_Manuel_Quispe_Luj%C3%A1n_es_ratificado_como_ministro_de_la_Producci%C3%B3n_1_%28Cropped%29.png/330px-C%C3%A9sar_Manuel_Quispe_Luj%C3%A1n_es_ratificado_como_ministro_de_la_Producci%C3%B3n_1_%28Cropped%29.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Presidente_del_Per%C3%BA",
+      "popularityScore": 136556
+    },
+    {
+      "id": "presidente-del-peru-2016",
+      "year": 2016,
+      "texto": "en Lima (Perú), Pedro Pablo Kuczynski asume el cargo de presidente.",
+      "textoPista": "en Lima (Perú), Pedro Pablo Kuczynski asume el cargo de presidente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/C%C3%A9sar_Manuel_Quispe_Luj%C3%A1n_es_ratificado_como_ministro_de_la_Producci%C3%B3n_1_%28Cropped%29.png/330px-C%C3%A9sar_Manuel_Quispe_Luj%C3%A1n_es_ratificado_como_ministro_de_la_Producci%C3%B3n_1_%28Cropped%29.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Presidente_del_Per%C3%BA",
+      "popularityScore": 136556
+    }
+  ]
+}
