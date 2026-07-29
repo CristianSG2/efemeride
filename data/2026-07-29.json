@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-29",
+  "events": [
+    {
+      "id": "londres-1954",
+      "year": 1954,
+      "texto": "en Londres (Reino Unido) se publica por primera vez La comunidad del anillo, del escritor británico J. R. R. Tolkien (1892-1973).",
+      "textoPista": "en Londres (Reino Unido) se publica por primera vez La comunidad del anillo, del escritor británico J. R. R. Tolkien (▪▪▪▪-▪▪▪▪).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
+    },
+    {
+      "id": "nueva-york-1976",
+      "year": 1976,
+      "texto": "en Nueva York, David Berkowitz, conocido como el Hijo de Sam, mata a una persona y hiere a otra, en el primero de una serie de ataques.",
+      "textoPista": "en Nueva York, David Berkowitz, conocido como el Hijo de Sam, mata a una persona y hiere a otra, en el primero de una serie de ataques.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 37378
+    },
+    {
+      "id": "asuncion-2002",
+      "year": 2002,
+      "texto": "en Asunción (Paraguay), delincuentes cavan un túnel subterráneo hasta el Museo Nacional de Bellas Artes y se apoderan de 5 cuadros de autores europeos, valorados en cerca de un millón de dólares estadounidenses en total.",
+      "textoPista": "en Asunción (Paraguay), delincuentes cavan un túnel subterráneo hasta el Museo Nacional de Bellas Artes y se apoderan de 5 cuadros de autores europeos, valorados en cerca de un millón de dólares estadounidenses en total.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_de_Gobierno2.jpg/330px-Palacio_de_Gobierno2.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
+      "popularityScore": 12927
+    },
+    {
+      "id": "bogota-2001",
+      "year": 2001,
+      "texto": "en Bogotá (Colombia), se juega la final de la Copa América 2001, entre la selección de fútbol de Colombia y la selección de fútbol de México, y la selección local ganaría su primer título con el gol de Iván Ramiro Córdoba.",
+      "textoPista": "en Bogotá (Colombia), se juega la final de la Copa América ▪▪▪▪, entre la selección de fútbol de Colombia y la selección de fútbol de México, y la selección local ganaría su primer título con el gol de Iván Ramiro Córdoba.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 27562
+    },
+    {
+      "id": "londres-1948",
+      "year": 1948,
+      "texto": "en Londres se inauguran los primeros Juegos Olímpicos después de la interrupción ocasionada por la Segunda Guerra Mundial.",
+      "textoPista": "en Londres se inauguran los primeros Juegos Olímpicos después de la interrupción ocasionada por la Segunda Guerra Mundial.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20405
+    }
+  ]
+}
