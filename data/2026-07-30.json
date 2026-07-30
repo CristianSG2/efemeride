@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-30",
+  "events": [
+    {
+      "id": "ciudad-juarez-1888",
+      "year": 1888,
+      "texto": "en México se cambia el nombre de El Paso del Norte a Ciudad Juárez.",
+      "textoPista": "en México se cambia el nombre de El Paso del Norte a Ciudad Juárez.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Catedral_de_Ciudad_Ju%C3%A1rez%2C_Paloma_de_la_Esperanza.jpg/330px-Catedral_de_Ciudad_Ju%C3%A1rez%2C_Paloma_de_la_Esperanza.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez",
+      "popularityScore": 9285
+    },
+    {
+      "id": "hugo-chavez-2000",
+      "year": 2000,
+      "texto": "las elecciones presidenciales y legislativas celebradas en Venezuela dan el triunfo al presidente Hugo Chávez, que gana 99 de los 165 escaños de la Asamblea Nacional y 14 de los 23 gobiernos estatales.",
+      "textoPista": "las elecciones presidenciales y legislativas celebradas en Venezuela dan el triunfo al presidente Hugo Chávez, que gana 99 de los 165 escaños de la Asamblea Nacional y 14 de los 23 gobiernos estatales.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hugo_Ch%C3%A1vez_official_portrait_%28cropped%29.jpg/330px-Hugo_Ch%C3%A1vez_official_portrait_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Hugo_Ch%C3%A1vez",
+      "popularityScore": 27664
+    },
+    {
+      "id": "escala-sismologica-de-magnitud-de-momento-1909",
+      "year": 1909,
+      "texto": "México: un terremoto de magnitud 7,5 (MW) sacude la costa sur mexicana dejando dos muertos y daños de grandes proporciones en el puerto de Acapulco y en la Ciudad de México.",
+      "textoPista": "México: un terremoto de magnitud 7,5 (MW) sacude la costa sur mexicana dejando dos muertos y daños de grandes proporciones en el puerto de Acapulco y en la Ciudad de México.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Moment_Magnitude.gif/330px-Moment_Magnitude.gif",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_magnitud_de_momento",
+      "popularityScore": 10739
+    },
+    {
+      "id": "imperio-britanico-1980",
+      "year": 1980,
+      "texto": "Vanuatu se independiza de Francia y el Reino Unido.",
+      "textoPista": "Vanuatu se independiza de Francia y el Reino Unido.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/The_British_Empire_5.png/330px-The_British_Empire_5.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Imperio_brit%C3%A1nico",
+      "popularityScore": 7682
+    },
+    {
+      "id": "euskadi-ta-askatasuna-1984",
+      "year": 1984,
+      "texto": "el número dos de ETA, Eugenio Etxebeste, es detenido por la policía francesa.",
+      "textoPista": "el número dos de ETA, Eugenio Etxebeste, es detenido por la policía francesa.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ETA_Symbol.svg/langes-330px-ETA_Symbol.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Euskadi_Ta_Askatasuna",
+      "popularityScore": 21151
+    }
+  ]
+}
