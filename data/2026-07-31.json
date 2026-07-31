@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-31",
+  "events": [
+    {
+      "id": "belfast-1908",
+      "year": 1908,
+      "texto": "se firma el contrato para la construcción en los astilleros de Belfast de los transatlánticos Titanic, Olympic y un tercero llamado Britannic, que se agregará luego. El coste total solamente del Titanic fue de 7,5 millones de dólares estadounidenses de la época (es decir, 300 millones de dólares al cambio de 2010).",
+      "textoPista": "se firma el contrato para la construcción en los astilleros de Belfast de los transatlánticos Titanic, Olympic y un tercero llamado Britannic, que se agregará luego. El coste total solamente del Titanic fue de 7,5 millones de dólares estadounidenses de la época (es decir, 300 millones de dólares al cambio de ▪▪▪▪).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wikibelfast1.jpg/330px-Wikibelfast1.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Belfast",
+      "popularityScore": 9851
+    },
+    {
+      "id": "luna-azul-2015",
+      "year": 2015,
+      "texto": "en este mes hubo dos lunas llenas, fenómeno que sucede en promedio cada 2,5 años (ya había sucedido en marzo de 2010 y en agosto de 2012, y también sucedió tanto en enero como en marzo de 2018).",
+      "textoPista": "en este mes hubo dos lunas llenas, fenómeno que sucede en promedio cada 2,5 años (ya había sucedido en marzo de ▪▪▪▪ y en agosto de ▪▪▪▪, y también sucedió tanto en enero como en marzo de ▪▪▪▪).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Maximum.JPG/330px-Maximum.JPG",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Luna_azul",
+      "popularityScore": 18227
+    },
+    {
+      "id": "club-olimpia-2002",
+      "year": 2002,
+      "texto": "el equipo de fútbol paraguayo Olimpia gana por tercera vez la Copa Libertadores de América.",
+      "textoPista": "el equipo de fútbol paraguayo Olimpia gana por tercera vez la Copa Libertadores de América.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Escudo_original_de_Olimpia.png/330px-Escudo_original_de_Olimpia.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Olimpia",
+      "popularityScore": 11406
+    },
+    {
+      "id": "ciudad-de-mexico-2002",
+      "year": 2002,
+      "texto": "en la basílica de Guadalupe (cerca de México D. F.), el papa Juan Pablo II canoniza al indio Juan Diego.",
+      "textoPista": "en la basílica de Guadalupe (cerca de México D. F.), el papa Juan Pablo II canoniza al indio Juan Diego.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 70944
+    },
+    {
+      "id": "durango-2018",
+      "year": 2018,
+      "texto": "En Durango (México) se desploma un avión de Aeroméxico dejando un saldo de 100 heridos.",
+      "textoPista": "En Durango (México) se desploma un avión de Aeroméxico dejando un saldo de 100 heridos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Piedras_encimadas_-_panoramio.jpg/330px-Piedras_encimadas_-_panoramio.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Durango",
+      "popularityScore": 5994
+    }
+  ]
+}
