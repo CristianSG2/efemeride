@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-01",
+  "events": [
+    {
+      "id": "lanzarote-1972",
+      "year": 1972,
+      "texto": "en Lanzarote se funda el San Bartolomé Club de Fútbol.",
+      "textoPista": "en Lanzarote se funda el San Bartolomé Club de Fútbol.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lanzarote%27s_Lunar-Like_Landscape.jpg/330px-Lanzarote%27s_Lunar-Like_Landscape.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lanzarote",
+      "popularityScore": 8082
+    },
+    {
+      "id": "guerra-cristera-1926",
+      "year": 1926,
+      "texto": "en México entran en vigor las leyes anticlericales que dan inicio a la Guerra Cristera, la cual no finalizaría hasta 1929.",
+      "textoPista": "en México entran en vigor las leyes anticlericales que dan inicio a la Guerra Cristera, la cual no finalizaría hasta ▪▪▪▪.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Guerra_cristera.png/330px-Guerra_cristera.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_Cristera",
+      "popularityScore": 12749
+    },
+    {
+      "id": "idioma-catalan-1942",
+      "year": 1942,
+      "texto": "en la España franquista se publica el primer libro en idioma catalán tras la guerra: Rosa mística, obra religiosa del sacerdote Camil Geis.",
+      "textoPista": "en la España franquista se publica el primer libro en idioma catalán tras la guerra: Rosa mística, obra religiosa del sacerdote Camil Geis.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Catalan_language_in_Europe.png/330px-Catalan_language_in_Europe.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Idioma_catal%C3%A1n",
+      "popularityScore": 9724
+    },
+    {
+      "id": "asuncion-2004",
+      "year": 2004,
+      "texto": "en Asunción (Paraguay) se incendia el supermercado Ycuá Bolaños. Los dueños, así como los vigilantes de seguridad son inculpados por el cierre de las puertas para evitar saqueos, el resultado: alrededor de 400 muertos y más de 500 heridos.",
+      "textoPista": "en Asunción (Paraguay) se incendia el supermercado Ycuá Bolaños. Los dueños, así como los vigilantes de seguridad son inculpados por el cierre de las puertas para evitar saqueos, el resultado: alrededor de 400 muertos y más de 500 heridos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_de_Gobierno2.jpg/330px-Palacio_de_Gobierno2.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
+      "popularityScore": 12404
+    },
+    {
+      "id": "ciudad-de-mexico-1970",
+      "year": 1970,
+      "texto": "en la Ciudad de México, se inaugura el primer tramo de la Línea 2 del Metro desde Pino Suárez a Tasqueña.",
+      "textoPista": "en la Ciudad de México, se inaugura el primer tramo de la Línea 2 del Metro desde Pino Suárez a Tasqueña.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 65357
+    }
+  ]
+}
