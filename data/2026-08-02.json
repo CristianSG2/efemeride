@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-02",
+  "events": [
+    {
+      "id": "george-h-w-bush-1988",
+      "year": 1988,
+      "texto": "en Washington (Estados Unidos), el vicepresidente George H. W. Bush (padre) afirma en una conferencia de prensa: «No me importa lo que digan los hechos: nunca pediré disculpas por Estados Unidos», en referencia al incidente ocurrido un mes antes (3 de julio de 1988), en que el crucero estadounidense Vincennes derribó con un misil al avión civil Airbus A-300 iraní, matando a sus 290 ocupantes.",
+      "textoPista": "en Washington (Estados Unidos), el vicepresidente George H. W. Bush (padre) afirma en una conferencia de prensa: «No me importa lo que digan los hechos: nunca pediré disculpas por Estados Unidos», en referencia al incidente ocurrido un mes antes (3 de julio de ▪▪▪▪), en que el crucero estadounidense Vincennes derribó con un misil al avión civil Airbus A-300 iraní, matando a sus 290 ocupantes.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/330px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/George_H._W._Bush",
+      "popularityScore": 13035
+    },
+    {
+      "id": "adolf-hitler-1934",
+      "year": 1934,
+      "texto": "en Alemania, Adolf Hitler asume la presidencia, fusionando los cargos de presidente y canciller.",
+      "textoPista": "en Alemania, Adolf Hitler asume la presidencia, fusionando los cargos de presidente y canciller.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/330px-Hitler_portrait_crop.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Adolf_Hitler",
+      "popularityScore": 86669
+    },
+    {
+      "id": "presidente-del-peru-1872",
+      "year": 1872,
+      "texto": "en Lima (Perú), asume la Presidencia de la República, Manuel Pardo y Lavalle.",
+      "textoPista": "en Lima (Perú), asume la Presidencia de la República, Manuel Pardo y Lavalle.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/KeikoFujimori-Declaraciones_%28cropped_2%29.jpg/330px-KeikoFujimori-Declaraciones_%28cropped_2%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Presidente_del_Per%C3%BA",
+      "popularityScore": 44311
+    },
+    {
+      "id": "ciudad-de-mexico-2023",
+      "year": 2023,
+      "texto": "en la Ciudad de México, una mujer es asesinada en la estación Hidalgo de la Línea 2 del Metro, luego de ser arrojada a la vías (en dirección Tasqueña), por un hombre que también, se arrojó a las vías y falleció tras recibir ambos el impacto de un tren modelo NM-02.",
+      "textoPista": "en la Ciudad de México, una mujer es asesinada en la estación Hidalgo de la Línea 2 del Metro, luego de ser arrojada a la vías (en dirección Tasqueña), por un hombre que también, se arrojó a las vías y falleció tras recibir ambos el impacto de un tren modelo NM-02.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 66940
+    },
+    {
+      "id": "euskadi-ta-askatasuna-1968",
+      "year": 1968,
+      "texto": "en España, la banda terrorista ETA se cobra su primera víctima: Melitón Manzanas, jefe de la Brigada de Investigación Social de la comisaría de San Sebastián.",
+      "textoPista": "en España, la banda terrorista ETA se cobra su primera víctima: Melitón Manzanas, jefe de la Brigada de Investigación Social de la comisaría de San Sebastián.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ETA_Symbol.svg/langes-330px-ETA_Symbol.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Euskadi_Ta_Askatasuna",
+      "popularityScore": 63037
+    }
+  ]
+}
