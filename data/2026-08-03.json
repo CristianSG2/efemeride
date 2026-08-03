@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-03",
+  "events": [
+    {
+      "id": "primera-guerra-mundial-1914",
+      "year": 1914,
+      "texto": "en el ámbito de la Primera Guerra Mundial, Alemania declara la guerra a Francia.",
+      "textoPista": "en el ámbito de la Primera Guerra Mundial, Alemania declara la guerra a Francia.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PrimeraGuerraMundial-collague.jpg/330px-PrimeraGuerraMundial-collague.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
+      "popularityScore": 60906
+    },
+    {
+      "id": "caracas-1943",
+      "year": 1943,
+      "texto": "en Caracas (Venezuela) se publica la primera edición del diario El Nacional.",
+      "textoPista": "en Caracas (Venezuela) se publica la primera edición del diario El Nacional.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_Caracas.jpg/330px-Collage_Caracas.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Caracas",
+      "popularityScore": 15859
+    },
+    {
+      "id": "lisboa-1943",
+      "year": 1943,
+      "texto": "en Lisboa, el comandante italiano Pietro Badoglio se reúne en secreto con los aliados.",
+      "textoPista": "en Lisboa, el comandante italiano Pietro Badoglio se reúne en secreto con los aliados.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/330px-Lisbon_%2836831596786%29_%28cropped%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lisboa",
+      "popularityScore": 11004
+    },
+    {
+      "id": "provincia-de-buenos-aires-1854",
+      "year": 1854,
+      "texto": "en la provincia de Buenos Aires (Argentina) se funda la localidad balnearia de Quequén.",
+      "textoPista": "en la provincia de Buenos Aires (Argentina) se funda la localidad balnearia de Quequén.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg/330px-Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Provincia_de_Buenos_Aires",
+      "popularityScore": 18707
+    },
+    {
+      "id": "washington-d-c-1994",
+      "year": 1994,
+      "texto": "el Parlamento israelí aprueba el acuerdo alcanzado en Washington el pasado 26 de julio por el que Israel y Jordania ponen fin a 46 años de estado de guerra.",
+      "textoPista": "el Parlamento israelí aprueba el acuerdo alcanzado en Washington el pasado 26 de julio por el que Israel y Jordania ponen fin a 46 años de estado de guerra.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/330px-12-07-13-washington-by-RalfR-08.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Washington_D._C.",
+      "popularityScore": 19126
+    }
+  ]
+}
