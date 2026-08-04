@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-04",
+  "events": [
+    {
+      "id": "juegos-olimpicos-2012",
+      "year": 2012,
+      "texto": "el nadador estadounidense Michael Phelps gana su medalla olímpica número 22, superando la marca de 18 medallas que hasta entonces ostentaba la gimnasta soviética Larisa Latýnina, consolidándose como el máximo medallista en la historia de los Juegos Olímpicos y como el mejor nadador de la historia.",
+      "textoPista": "el nadador estadounidense Michael Phelps gana su medalla olímpica número 22, superando la marca de 18 medallas que hasta entonces ostentaba la gimnasta soviética Larisa Latýnina, consolidándose como el máximo medallista en la historia de los Juegos Olímpicos y como el mejor nadador de la historia.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/langes-330px-Olympic_rings_without_rims.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos",
+      "popularityScore": 35081
+    },
+    {
+      "id": "guerra-civil-espanola-1937",
+      "year": 1937,
+      "texto": "en España, el Gobierno de Burgos (zona sublevada durante la Guerra Civil) establece por decreto los Estatutos de FE de las JONS.",
+      "textoPista": "en España, el Gobierno de Burgos (zona sublevada durante la Guerra Civil) establece por decreto los Estatutos de FE de las JONS.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Collage_guerra_civile_spagnola.png/330px-Collage_guerra_civile_spagnola.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_civil_espa%C3%B1ola",
+      "popularityScore": 48348
+    },
+    {
+      "id": "caracas-2018",
+      "year": 2018,
+      "texto": "en Caracas (Venezuela) durante un discurso en la avenida Bolívar, en un acto en conmemoración de los 81 años de la Guardia Nacional Bolivariana se produce un atentado con drones contra el presidente Nicolás Maduro.",
+      "textoPista": "en Caracas (Venezuela) durante un discurso en la avenida Bolívar, en un acto en conmemoración de los 81 años de la Guardia Nacional Bolivariana se produce un atentado con drones contra el presidente Nicolás Maduro.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_Caracas.jpg/330px-Collage_Caracas.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Caracas",
+      "popularityScore": 15859
+    },
+    {
+      "id": "atlanta-1996",
+      "year": 1996,
+      "texto": "en la ciudad de Atlanta finalizan los Juegos Olímpicos de 1996.",
+      "textoPista": "en la ciudad de Atlanta finalizan los Juegos Olímpicos de ▪▪▪▪.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Montage_Atlanta.jpg/330px-Montage_Atlanta.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Atlanta",
+      "popularityScore": 33101
+    },
+    {
+      "id": "buenos-aires-1968",
+      "year": 1968,
+      "texto": "en Buenos Aires (Argentina), el equipo de fútbol San Lorenzo de Almagro se consagra como el primer campeón invicto del fútbol de ese país.",
+      "textoPista": "en Buenos Aires (Argentina), el equipo de fútbol San Lorenzo de Almagro se consagra como el primer campeón invicto del fútbol de ese país.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 44092
+    }
+  ]
+}
