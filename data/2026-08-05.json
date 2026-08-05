@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-05",
+  "events": [
+    {
+      "id": "wikipedia-en-espanol-2009",
+      "year": 2009,
+      "texto": "Wikipedia en español alcanza la cifra de 500 000 artículos",
+      "textoPista": "Wikipedia en español alcanza la cifra de 500 000 artículos",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wikipedia-logo-v2-es.svg/langes-330px-Wikipedia-logo-v2-es.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Wikipedia_en_espa%C3%B1ol",
+      "popularityScore": 30025
+    },
+    {
+      "id": "harry-s-truman-1947",
+      "year": 1947,
+      "texto": "el presidente estadounidense Harry S. Truman dispone que el pueblo de Puerto Rico (invadido por Estados Unidos) pueda elegir su propio gobernador.",
+      "textoPista": "el presidente estadounidense Harry S. Truman dispone que el pueblo de Puerto Rico (invadido por Estados Unidos) pueda elegir su propio gobernador.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/330px-TRUMAN_58-766-06_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Harry_S._Truman",
+      "popularityScore": 11869
+    },
+    {
+      "id": "hugo-chavez-1999",
+      "year": 1999,
+      "texto": "el presidente de Venezuela, Hugo Chávez, declara muerta la IV República de Venezuela y proclama una revolución en el país, con intervención en todos los poderes del Estado.",
+      "textoPista": "el presidente de Venezuela, Hugo Chávez, declara muerta la IV República de Venezuela y proclama una revolución en el país, con intervención en todos los poderes del Estado.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hugo_Ch%C3%A1vez_official_portrait_%28cropped%29.jpg/330px-Hugo_Ch%C3%A1vez_official_portrait_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Hugo_Ch%C3%A1vez",
+      "popularityScore": 23782
+    },
+    {
+      "id": "buenos-aires-2014",
+      "year": 2014,
+      "texto": "en Buenos Aires (Argentina) se comunica la aparición del nieto desaparecido n.º 114, que resulta ser el nieto de la propia Estela de Carlotto (presidenta de las Abuelas de Plaza de Mayo).",
+      "textoPista": "en Buenos Aires (Argentina) se comunica la aparición del nieto desaparecido n.º 114, que resulta ser el nieto de la propia Estela de Carlotto (presidenta de las Abuelas de Plaza de Mayo).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg/330px-Avenida_9_de_Julio%2C_Buenos_Aires_%2840089810910%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 44092
+    },
+    {
+      "id": "londres-1986",
+      "year": 1986,
+      "texto": "los países de la Mancomunidad de Naciones, reunidos en Londres, aprueban un paquete de tímidas medidas contra Sudáfrica por el apartheid.",
+      "textoPista": "los países de la Mancomunidad de Naciones, reunidos en Londres, aprueban un paquete de tímidas medidas contra Sudáfrica por el apartheid.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 17611
+    }
+  ]
+}
