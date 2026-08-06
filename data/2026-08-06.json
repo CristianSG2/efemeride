@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-06",
+  "events": [
+    {
+      "id": "rosario-argentina-2013",
+      "year": 2013,
+      "texto": "en un edificio del centro de la ciudad de Rosario (Argentina), una fuga de gas causa una explosión que derriba el edificio y deja un saldo de 21 muertos y 62 heridos.",
+      "textoPista": "en un edificio del centro de la ciudad de Rosario (Argentina), una fuga de gas causa una explosión que derriba el edificio y deja un saldo de 21 muertos y 62 heridos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg/330px-Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rosario_(Argentina)",
+      "popularityScore": 20227
+    },
+    {
+      "id": "quito-1875",
+      "year": 1875,
+      "texto": "en las gradas del Palacio Presidencial (Palacio de Carondelet), en la ciudad de Quito (Ecuador), es asesinado el presidente reelecto Gabriel García Moreno.",
+      "textoPista": "en las gradas del Palacio Presidencial (Palacio de Carondelet), en la ciudad de Quito (Ecuador), es asesinado el presidente reelecto Gabriel García Moreno.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Quito_calle_Garc%C3%ADa_Moreno.jpg/330px-Quito_calle_Garc%C3%ADa_Moreno.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Quito",
+      "popularityScore": 10596
+    },
+    {
+      "id": "imperio-britanico-1962",
+      "year": 1962,
+      "texto": "Jamaica se independiza del Imperio británico.",
+      "textoPista": "Jamaica se independiza del Imperio británico.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/The_British_Empire_5.png/330px-The_British_Empire_5.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Imperio_brit%C3%A1nico",
+      "popularityScore": 10228
+    },
+    {
+      "id": "marte-planeta-2012",
+      "year": 2012,
+      "texto": "en Marte aterriza el rover Curiosity de la NASA. Entre otros porta el instrumento Estación de Monitoreo Ambiental del Rover Curiosity, primer instrumento de fabricación española en llegar a ese planeta.",
+      "textoPista": "en Marte aterriza el rover Curiosity de la NASA. Entre otros porta el instrumento Estación de Monitoreo Ambiental del Rover Curiosity, primer instrumento de fabricación española en llegar a ese planeta.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/330px-OSIRIS_Mars_true_color.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Marte_(planeta)",
+      "popularityScore": 8741
+    },
+    {
+      "id": "venecia-1932",
+      "year": 1932,
+      "texto": "en Venecia (Italia) se inaugura la primera muestra de cine.",
+      "textoPista": "en Venecia (Italia) se inaugura la primera muestra de cine.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Collage_Venezia.jpg/330px-Collage_Venezia.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Venecia",
+      "popularityScore": 9704
+    }
+  ]
+}
