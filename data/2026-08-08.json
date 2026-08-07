@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-08",
+  "events": [
+    {
+      "id": "richard-nixon-1974",
+      "year": 1974,
+      "texto": "en los Estados Unidos, el presidente Richard Nixon anuncia públicamente por televisión su renuncia como resultado del escándalo de corrupción Watergate. Hará efectiva su renuncia al mediodía del día siguiente.",
+      "textoPista": "en los Estados Unidos, el presidente Richard Nixon anuncia públicamente por televisión su renuncia como resultado del escándalo de corrupción Watergate. Hará efectiva su renuncia al mediodía del día siguiente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/330px-Richard_Nixon_presidential_portrait_%281%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Richard_Nixon",
+      "popularityScore": 14433
+    },
+    {
+      "id": "pekin-2008",
+      "year": 2008,
+      "texto": "en Pekín (República Popular China) se inauguran los Juegos Olímpicos de Pekín 2008, que se celebrarán hasta el 24 de agosto.",
+      "textoPista": "en Pekín (República Popular China) se inauguran los Juegos Olímpicos de Pekín ▪▪▪▪, que se celebrarán hasta el 24 de agosto.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beijing_in_China_%28%2Ball_claims_hatched%29.svg/langes-330px-Beijing_in_China_%28%2Ball_claims_hatched%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pek%C3%ADn",
+      "popularityScore": 8534
+    },
+    {
+      "id": "cordoba-argentina-1918",
+      "year": 1918,
+      "texto": "en la ciudad de Córdoba (Argentina) se funda el club deportivo Instituto Atlético Central Córdoba.",
+      "textoPista": "en la ciudad de Córdoba (Argentina) se funda el club deportivo Instituto Atlético Central Córdoba.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cathedral_Main_Square.jpg/330px-Cathedral_Main_Square.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/C%C3%B3rdoba_(Argentina)",
+      "popularityScore": 13970
+    },
+    {
+      "id": "filadelfia-1903",
+      "year": 1903,
+      "texto": "en el estadio Baker Bowl de la ciudad de Filadelfia (estado de Massachusetts) se derrumba la tribuna durante un juego de béisbol (Sábado Negro), matando a 12 personas e hiriendo a 232.",
+      "textoPista": "en el estadio Baker Bowl de la ciudad de Filadelfia (estado de Massachusetts) se derrumba la tribuna durante un juego de béisbol (Sábado Negro), matando a 12 personas e hiriendo a 232.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Philadelphia_Montage_by_Jleon_0310.jpg/330px-Philadelphia_Montage_by_Jleon_0310.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Filadelfia",
+      "popularityScore": 13082
+    },
+    {
+      "id": "canal-de-la-mancha-1950",
+      "year": 1950,
+      "texto": "en Dover (Reino Unido), Florence Chadwick (1918‑1995) atraviesa el Canal de la Mancha desde Francia hasta Inglaterra en 13:23 h, lo que rompe en más de una hora el récord mundial de 1926, establecido por otra estadounidense, Gertrude Ederle (1905‑2003). Chadwick también será la primera mujer que cruzó a nado hasta la isla Santa Catalina (35 km al suroeste de Los Ángeles), el estrecho de Gibraltar, el estrecho del Bósforo y el estrecho de Dardanelos.",
+      "textoPista": "en Dover (Reino Unido), Florence Chadwick (▪▪▪▪‑▪▪▪▪) atraviesa el Canal de la Mancha desde Francia hasta Inglaterra en 13:23 h, lo que rompe en más de una hora el récord mundial de ▪▪▪▪, establecido por otra estadounidense, Gertrude Ederle (▪▪▪▪‑▪▪▪▪). Chadwick también será la primera mujer que cruzó a nado hasta la isla Santa Catalina (35 km al suroeste de Los Ángeles), el estrecho de Gibraltar, el estrecho del Bósforo y el estrecho de Dardanelos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/English_Channel_from_Pointe_du_Hoc.jpg/330px-English_Channel_from_Pointe_du_Hoc.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Canal_de_la_Mancha",
+      "popularityScore": 7243
+    }
+  ]
+}
