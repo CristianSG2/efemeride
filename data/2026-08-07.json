@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-07",
+  "events": [
+    {
+      "id": "apple-2002",
+      "year": 2002,
+      "texto": "la compañía Apple libera al mercado su más reciente computador Mac Pro luego de un año de anticipación, eliminando de su línea de productos el procesador PowerPC.",
+      "textoPista": "la compañía Apple libera al mercado su más reciente computador Mac Pro luego de un año de anticipación, eliminando de su línea de productos el procesador PowerPC.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langes-330px-Apple_logo_black.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Apple",
+      "popularityScore": 11887
+    },
+    {
+      "id": "guerra-de-vietnam-1964",
+      "year": 1964,
+      "texto": "Estados Unidos entra oficialmente a la guerra de Vietnam (1955‑1975) después de haber aprobado un bombardeo en territorio norvietnamita.",
+      "textoPista": "Estados Unidos entra oficialmente a la guerra de Vietnam (▪▪▪▪‑▪▪▪▪) después de haber aprobado un bombardeo en territorio norvietnamita.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/330px-VietnamMural.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Vietnam",
+      "popularityScore": 21405
+    },
+    {
+      "id": "abelardo-de-la-espriella-2026",
+      "year": 2026,
+      "texto": "en Colombia, Abelardo de la Espriella asume el cargo de presidente para el periodo 2026‑2030",
+      "textoPista": "en Colombia, Abelardo de la Espriella asume el cargo de presidente para el periodo ▪▪▪▪‑2030",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg/330px-Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Abelardo_de_la_Espriella",
+      "popularityScore": 120089
+    },
+    {
+      "id": "virgilio-barco-1986",
+      "year": 1986,
+      "texto": "en Colombia, Virgilio Barco asume el cargo de presidente.",
+      "textoPista": "en Colombia, Virgilio Barco asume el cargo de presidente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Virgilio_Barco_Vargas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Virgilio_Barco",
+      "popularityScore": 5780
+    },
+    {
+      "id": "barranquilla-1924",
+      "year": 1924,
+      "texto": "en Barranquilla (Colombia) se funda el equipo de fútbol Juventud Junior (actual Atlético Junior).",
+      "textoPista": "en Barranquilla (Colombia) se funda el equipo de fútbol Juventud Junior (actual Atlético Junior).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Barranquilla_Catedral.jpg/330px-Barranquilla_Catedral.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Barranquilla",
+      "popularityScore": 10530
+    }
+  ]
+}
