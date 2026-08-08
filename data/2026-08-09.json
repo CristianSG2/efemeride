@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-09",
+  "events": [
+    {
+      "id": "puerto-rico-1998",
+      "year": 1998,
+      "texto": "en Puerto Rico, el caballo de pura sangre, Vuelve Candy B., murió a causa de un accidente que sufrió en su establo en el Hipódromo Camarero, fue sometido a eutanasia. Vuelve Candy B. es el único caballo en la historia de Puerto Rico en ganar más de un millón de dólares.",
+      "textoPista": "en Puerto Rico, el caballo de pura sangre, Vuelve Candy B., murió a causa de un accidente que sufrió en su establo en el Hipódromo Camarero, fue sometido a eutanasia. Vuelve Candy B. es el único caballo en la historia de Puerto Rico en ganar más de un millón de dólares.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg/langes-330px-Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puerto_Rico",
+      "popularityScore": 36824
+    },
+    {
+      "id": "primera-division-de-mexico-1972",
+      "year": 1972,
+      "texto": "En la Final de la Primera División de México disputada en el Estadio Azteca, Cruz Azul derrota 4-1 al Club América convirtiéndose en Campeón del Fútbol Mexicano, dando origen al Clásico Joven",
+      "textoPista": "En la Final de la Primera División de México disputada en el Estadio Azteca, Cruz Azul derrota 4-1 al Club América convirtiéndose en Campeón del Fútbol Mexicano, dando origen al Clásico Joven",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Liga_MX_logo.svg/langes-330px-Liga_MX_logo.svg.png",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_M%C3%A9xico",
+      "popularityScore": 61467
+    },
+    {
+      "id": "quito-2023",
+      "year": 2023,
+      "texto": "En Quito (Ecuador) el candidato presidencial Fernando Villavicencio es asesinado al salir de un mitin político.",
+      "textoPista": "En Quito (Ecuador) el candidato presidencial Fernando Villavicencio es asesinado al salir de un mitin político.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Quito_calle_Garc%C3%ADa_Moreno.jpg/330px-Quito_calle_Garc%C3%ADa_Moreno.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Quito",
+      "popularityScore": 10596
+    },
+    {
+      "id": "jerusalen-2001",
+      "year": 2001,
+      "texto": "en el restaurante Sbarro (en Jerusalén) mueren 15 personas tras la explosión de una bomba.",
+      "textoPista": "en el restaurante Sbarro (en Jerusalén) mueren 15 personas tras la explosión de una bomba.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Collage_Jerusalem.jpg/330px-Collage_Jerusalem.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Jerusal%C3%A9n",
+      "popularityScore": 14584
+    },
+    {
+      "id": "eduardo-vii-del-reino-unido-1902",
+      "year": 1902,
+      "texto": "en Reino Unido coronan al rey Eduardo VII.",
+      "textoPista": "en Reino Unido coronan al rey Eduardo VII.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/King-Edward-VII_%28cropped%29.jpg/330px-King-Edward-VII_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Eduardo_VII_del_Reino_Unido",
+      "popularityScore": 19268
+    }
+  ]
+}
