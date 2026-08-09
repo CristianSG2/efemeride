@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-10",
+  "events": [
+    {
+      "id": "andalucia-2012",
+      "year": 2012,
+      "texto": "Ola de calor en España con registros de más de 44 °C en Andalucía, Región de Murcia, Comunidad Valenciana, Castilla-La Mancha, Comunidad de Madrid y Extremadura y más de 42 °C en Aragón, Castilla y León, Navarra, La Rioja y País Vasco. La temperatura más alta se registró en Montoro (Córdoba) con 46,1 °C.",
+      "textoPista": "Ola de calor en España con registros de más de 44 °C en Andalucía, Región de Murcia, Comunidad Valenciana, Castilla-La Mancha, Comunidad de Madrid y Extremadura y más de 42 °C en Aragón, Castilla y León, Navarra, La Rioja y País Vasco. La temperatura más alta se registró en Montoro (Córdoba) con 46,1 °C.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Andalucia_in_Spain_%28including_Canarias%29_%28special_marker%29.svg/langes-330px-Andalucia_in_Spain_%28including_Canarias%29_%28special_marker%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Andaluc%C3%ADa",
+      "popularityScore": 25107
+    },
+    {
+      "id": "antartida-2010",
+      "year": 2010,
+      "texto": "en la Antártida se registra la temperatura más baja de la historia: –93,2 °C.",
+      "textoPista": "en la Antártida se registra la temperatura más baja de la historia: –93,2 °C.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Antarctica_on_the_globe_%28red%29.svg/langes-330px-Antarctica_on_the_globe_%28red%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ant%C3%A1rtida",
+      "popularityScore": 25712
+    },
+    {
+      "id": "marcelo-bielsa-2007",
+      "year": 2007,
+      "texto": "en Chile, asume como entrenador del equipo nacional de fútbol el argentino Marcelo Bielsa.",
+      "textoPista": "en Chile, asume como entrenador del equipo nacional de fútbol el argentino Marcelo Bielsa.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Marcelo_Bielsa.jpg/330px-Marcelo_Bielsa.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Marcelo_Bielsa",
+      "popularityScore": 48337
+    },
+    {
+      "id": "bogota-1938",
+      "year": 1938,
+      "texto": "en Bogotá (Colombia) se inaugura el Estadio Nemesio Camacho El Campín.",
+      "textoPista": "en Bogotá (Colombia) se inaugura el Estadio Nemesio Camacho El Campín.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 26431
+    },
+    {
+      "id": "augusto-pinochet-2005",
+      "year": 2005,
+      "texto": "en Chile, un juez procesa por fraude fiscal a la esposa y uno de los hijos de Augusto Pinochet.",
+      "textoPista": "en Chile, un juez procesa por fraude fiscal a la esposa y uno de los hijos de Augusto Pinochet.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Augusto_Pinochet_foto_oficial_%283x4_cropped%29.jpg/330px-Augusto_Pinochet_foto_oficial_%283x4_cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Augusto_Pinochet",
+      "popularityScore": 23642
+    }
+  ]
+}
