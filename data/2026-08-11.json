@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-11",
+  "events": [
+    {
+      "id": "santiago-de-chile-1967",
+      "year": 1967,
+      "texto": "en Santiago de Chile, estudiantes inician la toma de la Casa Central de la Universidad Católica. Esta movilización es el mayor hito visible de la Reforma Universitaria de dicho país.",
+      "textoPista": "en Santiago de Chile, estudiantes inician la toma de la Casa Central de la Universidad Católica. Esta movilización es el mayor hito visible de la Reforma Universitaria de dicho país.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 19987
+    },
+    {
+      "id": "juan-negrin-1938",
+      "year": 1938,
+      "texto": "en España, el presidente del Gobierno, Juan Negrín, nacionaliza las empresas españolas.",
+      "textoPista": "en España, el presidente del Gobierno, Juan Negrín, nacionaliza las empresas españolas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Juan_Negr%C3%ADn.png/330px-Juan_Negr%C3%ADn.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Negr%C3%ADn",
+      "popularityScore": 7398
+    },
+    {
+      "id": "cordoba-argentina-1930",
+      "year": 1930,
+      "texto": "en Córdoba (Argentina), el escritor y humanista Carlos B. González Pecotche, también conocido por su seudónimo literario Raumsol, crea la Escuela Raumsólica de Logosofía, antecesora de la Fundación Logosófica.",
+      "textoPista": "en Córdoba (Argentina), el escritor y humanista Carlos B. González Pecotche, también conocido por su seudónimo literario Raumsol, crea la Escuela Raumsólica de Logosofía, antecesora de la Fundación Logosófica.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cathedral_Main_Square.jpg/330px-Cathedral_Main_Square.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/C%C3%B3rdoba_(Argentina)",
+      "popularityScore": 13970
+    },
+    {
+      "id": "blas-infante-1936",
+      "year": 1936,
+      "texto": "en Sevilla, España, es fusilado Blas Infante, llamado «padre de la patria andaluza», a manos de las tropas falangistas por su ideología independentista o federalista andaluza.",
+      "textoPista": "en Sevilla, España, es fusilado Blas Infante, llamado «padre de la patria andaluza», a manos de las tropas falangistas por su ideología independentista o federalista andaluza.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Photo_of_Blas_Infante.jpg/330px-Photo_of_Blas_Infante.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Blas_Infante",
+      "popularityScore": 25552
+    },
+    {
+      "id": "santiago-de-chile-1968",
+      "year": 1968,
+      "texto": "en Santiago de Chile, un grupo de laicos izquierdistas y sacerdotes activos ocupan las dependencias de la catedral (principal templo católico de la nación) por primera vez en su historia para lanzar arengas de tipo progresista.",
+      "textoPista": "en Santiago de Chile, un grupo de laicos izquierdistas y sacerdotes activos ocupan las dependencias de la catedral (principal templo católico de la nación) por primera vez en su historia para lanzar arengas de tipo progresista.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 19987
+    }
+  ]
+}
