@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-12",
+  "events": [
+    {
+      "id": "puerto-rico-2008",
+      "year": 2008,
+      "texto": "en Puerto Rico, el cantante Daddy Yankee lanza su álbum Talento de Barrio (álbum).",
+      "textoPista": "en Puerto Rico, el cantante Daddy Yankee lanza su álbum Talento de Barrio (álbum).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg/langes-330px-Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puerto_Rico",
+      "popularityScore": 36824
+    },
+    {
+      "id": "nasa-1960",
+      "year": 1960,
+      "texto": "en los Estados Unidos, la NASA pone en órbita el primer satélite globo, el Echo 1.",
+      "textoPista": "en los Estados Unidos, la NASA pone en órbita el primer satélite globo, el Echo 1.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/langes-330px-NASA_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/NASA",
+      "popularityScore": 6720
+    },
+    {
+      "id": "thomas-alva-edison-1877",
+      "year": 1877,
+      "texto": "en Estados Unidos, el inventor Thomas Alva Edison anunció la invención de su primer fonógrafo.",
+      "textoPista": "en Estados Unidos, el inventor Thomas Alva Edison anunció la invención de su primer fonógrafo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Thomas_Alva_Edison",
+      "popularityScore": 13202
+    },
+    {
+      "id": "ginebra-1949",
+      "year": 1949,
+      "texto": "en la ciudad de Ginebra (Suiza), se celebran los Convenios de Ginebra, piedra angular del derecho internacional humanitario.",
+      "textoPista": "en la ciudad de Ginebra (Suiza), se celebran los Convenios de Ginebra, piedra angular del derecho internacional humanitario.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Geneva_harbor_and_jet_d%27eau.jpg/330px-Geneva_harbor_and_jet_d%27eau.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ginebra",
+      "popularityScore": 8975
+    },
+    {
+      "id": "buenos-aires-1993",
+      "year": 1993,
+      "texto": "en Buenos Aires (Argentina), el Gobierno de Carlos Saúl Menem firma el Pacto Fiscal II, que disminuyó la presión tributaria provincial («Achicar el estado es agrandar la Nación»). Esto provocó una recesión dos años después, ya que disminuyó la capacidad productiva de las provincias.",
+      "textoPista": "en Buenos Aires (Argentina), el Gobierno de Carlos Saúl Menem firma el Pacto Fiscal II, que disminuyó la presión tributaria provincial («Achicar el estado es agrandar la Nación»). Esto provocó una recesión dos años después, ya que disminuyó la capacidad productiva de las provincias.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 44092
+    }
+  ]
+}
