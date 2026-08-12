@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-13",
+  "events": [
+    {
+      "id": "buenos-aires-1963",
+      "year": 1963,
+      "texto": "en Buenos Aires (Argentina), un grupo comando de la Juventud Peronista ingresa al Museo Histórico Nacional y se apropia del sable del general José de San Martín.",
+      "textoPista": "en Buenos Aires (Argentina), un grupo comando de la Juventud Peronista ingresa al Museo Histórico Nacional y se apropia del sable del general José de San Martín.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 44092
+    },
+    {
+      "id": "california-1969",
+      "year": 1969,
+      "texto": "en California (Estados Unidos) tienen lugar los funerales de Sharon Tate, Jay Sebring, Abigail Folger y Steven Parent, cuatro de las víctimas de los asesinatos Manson.",
+      "textoPista": "en California (Estados Unidos) tienen lugar los funerales de Sharon Tate, Jay Sebring, Abigail Folger y Steven Parent, cuatro de las víctimas de los asesinatos Manson.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/California_in_United_States.svg/langes-330px-California_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/California",
+      "popularityScore": 21765
+    },
+    {
+      "id": "andalucia-1922",
+      "year": 1922,
+      "texto": "en Andalucía se funda el Real Jaén CF.",
+      "textoPista": "en Andalucía se funda el Real Jaén CF.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Andalucia_in_Spain_%28including_Canarias%29_%28special_marker%29.svg/langes-330px-Andalucia_in_Spain_%28including_Canarias%29_%28special_marker%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Andaluc%C3%ADa",
+      "popularityScore": 25107
+    },
+    {
+      "id": "javier-milei-2023",
+      "year": 2023,
+      "texto": "Javier Milei, del partido La Libertad Avanza, obtuvo el 30.04% de los votos en las elecciones PASO.",
+      "textoPista": "Javier Milei, del partido La Libertad Avanza, obtuvo el 30.04% de los votos en las elecciones PASO.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Retrato_oficial_Presidente_Milei.png/330px-Retrato_oficial_Presidente_Milei.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Javier_Milei",
+      "popularityScore": 63869
+    },
+    {
+      "id": "copa-libertadores-de-america-2014",
+      "year": 2014,
+      "texto": "El club argentino San Lorenzo de Almagro obtiene por primera vez en su historia la Copa Libertadores de América",
+      "textoPista": "El club argentino San Lorenzo de Almagro obtiene por primera vez en su historia la Copa Libertadores de América",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png/330px-328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica",
+      "popularityScore": 52321
+    }
+  ]
+}
