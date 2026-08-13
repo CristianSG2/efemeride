@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-14",
+  "events": [
+    {
+      "id": "los-angeles-1913",
+      "year": 1913,
+      "texto": "en Los Ángeles (Estados Unidos) se inaugura la conducción de agua más larga del mundo, de más de 400 km de longitud.",
+      "textoPista": "en Los Ángeles (Estados Unidos) se inaugura la conducción de agua más larga del mundo, de más de 400 km de longitud.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
+      "popularityScore": 25583
+    },
+    {
+      "id": "barranquilla-2018",
+      "year": 2018,
+      "texto": "en Barranquilla (Colombia) inauguran el monumento La Ventana al Mundo.",
+      "textoPista": "en Barranquilla (Colombia) inauguran el monumento La Ventana al Mundo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Barranquilla_Catedral.jpg/330px-Barranquilla_Catedral.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Barranquilla",
+      "popularityScore": 10530
+    },
+    {
+      "id": "bill-clinton-2000",
+      "year": 2000,
+      "texto": "Bill Clinton presenta al candidato a la presidencia Al Gore como un hombre con «historial» frente a la inexperiencia de George Bush.",
+      "textoPista": "Bill Clinton presenta al candidato a la presidencia Al Gore como un hombre con «historial» frente a la inexperiencia de George Bush.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/330px-Bill_Clinton.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bill_Clinton",
+      "popularityScore": 12665
+    },
+    {
+      "id": "segunda-guerra-mundial-1945",
+      "year": 1945,
+      "texto": "en el marco de la Segunda Guerra Mundial, el gobierno japonés se rinde luego de la invasión de fuerzas soviéticas (en Manchuria) y la destrucción de Hiroshima y Nagasaki por bombas atómicas.",
+      "textoPista": "en el marco de la Segunda Guerra Mundial, el gobierno japonés se rinde luego de la invasión de fuerzas soviéticas (en Manchuria) y la destrucción de Hiroshima y Nagasaki por bombas atómicas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WW2Montage.PNG/330px-WW2Montage.PNG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial",
+      "popularityScore": 64266
+    },
+    {
+      "id": "pekin-1900",
+      "year": 1900,
+      "texto": "en Pekín, las tropas del almirante Edward H. Seymour liberan a las legaciones europeas, asediadas durante 55 días por los bóxers.",
+      "textoPista": "en Pekín, las tropas del almirante Edward H. Seymour liberan a las legaciones europeas, asediadas durante 55 días por los bóxers.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beijing_in_China_%28%2Ball_claims_hatched%29.svg/langes-330px-Beijing_in_China_%28%2Ball_claims_hatched%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pek%C3%ADn",
+      "popularityScore": 8534
+    }
+  ]
+}
