@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-15",
+  "events": [
+    {
+      "id": "nueva-york-1965",
+      "year": 1965,
+      "texto": "en Nueva York (Estados Unidos), la banda británica The Beatles realiza un recital ante 60 000 personas en el estadio Shea. Se considera que este evento fue el inicio del «rock de estadio»",
+      "textoPista": "en Nueva York (Estados Unidos), la banda británica The Beatles realiza un recital ante 60 000 personas en el estadio Shea. Se considera que este evento fue el inicio del «rock de estadio»",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 48090
+    },
+    {
+      "id": "ciudad-de-mexico-1971",
+      "year": 1971,
+      "texto": "en la Ciudad de México), Verónica Castro marca, a los 18 años de edad, el primer gol anotado por una mujer en el Estadio Azteca (desde el 2026 llamado Estadio Banorte; únicamente para el Mundial de Fútbol 2026 llamado Estadio Ciudad de México) en un partido de exhibición entre actores y actrices en la inauguración del II Campeonato Mundial de Futbol Femenil.",
+      "textoPista": "en la Ciudad de México), Verónica Castro marca, a los 18 años de edad, el primer gol anotado por una mujer en el Estadio Azteca (desde el ▪▪▪▪ llamado Estadio Banorte; únicamente para el Mundial de Fútbol ▪▪▪▪ llamado Estadio Ciudad de México) en un partido de exhibición entre actores y actrices en la inauguración del II Campeonato Mundial de Futbol Femenil.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 66940
+    },
+    {
+      "id": "richard-nixon-1971",
+      "year": 1971,
+      "texto": "en Estados Unidos, el presidente Richard Nixon, acaba con el patrón oro al anunciar la suspensión de la convertibilidad en metal del dólar estadounidense (Nixon Shock).",
+      "textoPista": "en Estados Unidos, el presidente Richard Nixon, acaba con el patrón oro al anunciar la suspensión de la convertibilidad en metal del dólar estadounidense (Nixon Shock).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/330px-Richard_Nixon_presidential_portrait_%281%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Richard_Nixon",
+      "popularityScore": 14433
+    },
+    {
+      "id": "guerra-de-vietnam-1973",
+      "year": 1973,
+      "texto": "en el marco de la guerra de Vietnam, Estados Unidos finaliza el bombardeo de civiles en Camboya.",
+      "textoPista": "en el marco de la guerra de Vietnam, Estados Unidos finaliza el bombardeo de civiles en Camboya.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/330px-VietnamMural.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Vietnam",
+      "popularityScore": 21405
+    },
+    {
+      "id": "atentados-del-11-de-septiembre-de-2001-2002",
+      "year": 2002,
+      "texto": "La zona dañada del Pentágono a causa de los ataques terroristas del 11 de septiembre de 2001 vuelve a operar.",
+      "textoPista": "La zona dañada del Pentágono a causa de los ataques terroristas del 11 de septiembre de ▪▪▪▪ vuelve a operar.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/September_11_Photo_Montage.jpg/330px-September_11_Photo_Montage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Atentados_del_11_de_septiembre_de_2001",
+      "popularityScore": 56125
+    }
+  ]
+}
