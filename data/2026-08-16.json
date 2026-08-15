@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-16",
+  "events": [
+    {
+      "id": "castilla-la-mancha-1982",
+      "year": 1982,
+      "texto": "Estatuto de Autonomía de Castilla-La Mancha.",
+      "textoPista": "Estatuto de Autonomía de Castilla-La Mancha.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Castilla-La_Mancha_in_Spain_%28plus_Canarias%29.svg/langes-330px-Castilla-La_Mancha_in_Spain_%28plus_Canarias%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Castilla-La_Mancha",
+      "popularityScore": 13516
+    },
+    {
+      "id": "nueva-york-1925",
+      "year": 1925,
+      "texto": "en Nueva York se estrena La quimera del oro, primer largometraje del cineasta británico Charles Chaplin.",
+      "textoPista": "en Nueva York se estrena La quimera del oro, primer largometraje del cineasta británico Charles Chaplin.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 48090
+    },
+    {
+      "id": "nueva-york-1932",
+      "year": 1932,
+      "texto": "en la ciudad de Nueva York (Estados Unidos) empieza a funcionar la emisora de televisión CBS, que difunde la primera serie del mundo: Revista Mundial.",
+      "textoPista": "en la ciudad de Nueva York (Estados Unidos) empieza a funcionar la emisora de televisión CBS, que difunde la primera serie del mundo: Revista Mundial.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 48090
+    },
+    {
+      "id": "mallorca-1936",
+      "year": 1936,
+      "texto": "en España las fuerzas republicanas desembarcan en Mallorca.",
+      "textoPista": "en España las fuerzas republicanas desembarcan en Mallorca.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Imagen_satelital_de_Mallorca_%28Islas_Baleares%2C_Espa%C3%B1a%29.jpg/330px-Imagen_satelital_de_Mallorca_%28Islas_Baleares%2C_Espa%C3%B1a%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mallorca",
+      "popularityScore": 15379
+    },
+    {
+      "id": "rafael-leonidas-trujillo-1930",
+      "year": 1930,
+      "texto": "en República Dominicana llega al poder el general Rafael Leónidas Trujillo, iniciando una dictadura que durará 31 años (1930-1961).",
+      "textoPista": "en República Dominicana llega al poder el general Rafael Leónidas Trujillo, iniciando una dictadura que durará 31 años (▪▪▪▪-▪▪▪▪).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rafael_L._Trujillo_en_la_silla_presidencial_%28cropped%29.jpg/330px-Rafael_L._Trujillo_en_la_silla_presidencial_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rafael_Le%C3%B3nidas_Trujillo",
+      "popularityScore": 12104
+    }
+  ]
+}
