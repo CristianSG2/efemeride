@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-17",
+  "events": [
+    {
+      "id": "quebec-1943",
+      "year": 1943,
+      "texto": "en Quebec (Canadá) ―en el marco de la Segunda Guerra Mundial― se encuentran Winston Churchill, Franklin D. Roosevelt y William Lyon Mackenzie King.",
+      "textoPista": "en Quebec (Canadá) ―en el marco de la Segunda Guerra Mundial― se encuentran Winston Churchill, Franklin D. Roosevelt y William Lyon Mackenzie King.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Montage_photo_Qu%C3%A9bec.png/330px-Montage_photo_Qu%C3%A9bec.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Quebec",
+      "popularityScore": 8646
+    },
+    {
+      "id": "africa-1960",
+      "year": 1960,
+      "texto": "en África, Gabón se independiza de Francia.",
+      "textoPista": "en África, Gabón se independiza de Francia.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Africa_on_the_globe_%28red%29.svg/langes-330px-Africa_on_the_globe_%28red%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/%C3%81frica",
+      "popularityScore": 24853
+    },
+    {
+      "id": "yakarta-2024",
+      "year": 2024,
+      "texto": "En Indonesia es inaugurada la ciudad de Nusantara, la nueva capital del país, reemplazando a Yakarta la cual fue capital de aquel país desde 1945.",
+      "textoPista": "En Indonesia es inaugurada la ciudad de Nusantara, la nueva capital del país, reemplazando a Yakarta la cual fue capital de aquel país desde ▪▪▪▪.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jakarta.jpg/330px-Jakarta.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Yakarta",
+      "popularityScore": 6265
+    },
+    {
+      "id": "cesar-costa-2004",
+      "year": 2004,
+      "texto": "César Costa es nombrado embajador de la UNICEF para México.",
+      "textoPista": "César Costa es nombrado embajador de la UNICEF para México.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C%C3%A9sar_Costa.jpg/330px-C%C3%A9sar_Costa.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/C%C3%A9sar_Costa",
+      "popularityScore": 6760
+    },
+    {
+      "id": "budapest-2005",
+      "year": 2005,
+      "texto": "en Budapest, en un partido entre la local Hungría y Argentina, Lionel Messi ingresó de cambio por Lisandro López marcando su debut con la Selección Mayor de su país.",
+      "textoPista": "en Budapest, en un partido entre la local Hungría y Argentina, Lionel Messi ingresó de cambio por Lisandro López marcando su debut con la Selección Mayor de su país.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BudapestMontage.jpg/330px-BudapestMontage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Budapest",
+      "popularityScore": 14156
+    }
+  ]
+}
