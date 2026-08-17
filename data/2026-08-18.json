@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-18",
+  "events": [
+    {
+      "id": "guerra-franco-prusiana-1870",
+      "year": 1870,
+      "texto": "en el marco de la guerra franco-prusiana (1870‑1871), los franceses vencen a los prusianos en la batalla de Gravelotte.",
+      "textoPista": "en el marco de la guerra franco-prusiana (▪▪▪▪‑▪▪▪▪), los franceses vencen a los prusianos en la batalla de Gravelotte.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Collage_Franco-Prussian_War.jpg/330px-Collage_Franco-Prussian_War.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_franco-prusiana",
+      "popularityScore": 5536
+    },
+    {
+      "id": "guerra-de-vietnam-1971",
+      "year": 1971,
+      "texto": "en el marco de la guerra de Vietnam (1955‑1975), los ejércitos invasores de Australia y de Nueva Zelanda se retiran de Vietnam.",
+      "textoPista": "en el marco de la guerra de Vietnam (▪▪▪▪‑▪▪▪▪), los ejércitos invasores de Australia y de Nueva Zelanda se retiran de Vietnam.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/330px-VietnamMural.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Vietnam",
+      "popularityScore": 21405
+    },
+    {
+      "id": "munich-1918",
+      "year": 1918,
+      "texto": "en Múnich (Alemania) se funda la Sociedad Thule, que constituirá el núcleo del NSDAP (Partido Nacional Socialista Obrero Alemán).",
+      "textoPista": "en Múnich (Alemania) se funda la Sociedad Thule, que constituirá el núcleo del NSDAP (Partido Nacional Socialista Obrero Alemán).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Munich_montage.png/330px-Munich_montage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/M%C3%BAnich",
+      "popularityScore": 8426
+    },
+    {
+      "id": "sufragio-femenino-1920",
+      "year": 1920,
+      "texto": "en los Estados Unidos se firma la Decimonovena Enmienda a la Constitución de los Estados Unidos, que garantiza el sufragio femenino.",
+      "textoPista": "en los Estados Unidos se firma la Decimonovena Enmienda a la Constitución de los Estados Unidos, que garantiza el sufragio femenino.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Women_suffrage_world_decade.svg/langes-330px-Women_suffrage_world_decade.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Sufragio_femenino",
+      "popularityScore": 8712
+    },
+    {
+      "id": "martinica-1891",
+      "year": 1891,
+      "texto": "en el archipiélago de las Antillas, un huracán de gran magnitud azota la isla Martinica (colonia de Francia), dejando 700 muertos.",
+      "textoPista": "en el archipiélago de las Antillas, un huracán de gran magnitud azota la isla Martinica (colonia de Francia), dejando 700 muertos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Martinique_14.6346N_61.0051W_Landsat7.jpg/330px-Martinique_14.6346N_61.0051W_Landsat7.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Martinica",
+      "popularityScore": 9767
+    }
+  ]
+}
