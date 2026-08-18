@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-19",
+  "events": [
+    {
+      "id": "moscu-1960",
+      "year": 1960,
+      "texto": "en Moscú (Unión Soviética), en el marco de la Guerra fría, el Gobierno decreta diez años de prisión por espionaje a Francis Gary Powers (piloto estadounidense del U-2 abatido).",
+      "textoPista": "en Moscú (Unión Soviética), en el marco de la Guerra fría, el Gobierno decreta diez años de prisión por espionaje a Francis Gary Powers (piloto estadounidense del U-2 abatido).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/330px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mosc%C3%BA",
+      "popularityScore": 8592
+    },
+    {
+      "id": "virgilio-barco-1989",
+      "year": 1989,
+      "texto": "en Colombia el gobierno de Virgilio Barco le declara la guerra al Cartel de Medellín y establece la extradición por vía administrativa, el secuestro de bienes del narcotráfico y la detención preventiva sin cargos judiciales de sospechosos de pertenecer a la organización narco-terrorista.",
+      "textoPista": "en Colombia el gobierno de Virgilio Barco le declara la guerra al Cartel de Medellín y establece la extradición por vía administrativa, el secuestro de bienes del narcotráfico y la detención preventiva sin cargos judiciales de sospechosos de pertenecer a la organización narco-terrorista.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Virgilio_Barco_Vargas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Virgilio_Barco",
+      "popularityScore": 5780
+    },
+    {
+      "id": "terremoto-2007",
+      "year": 2007,
+      "texto": "un terremoto de magnitud de 5,5 en la escala sismológica de magnitud momento(que sustituye a la de Richter) afecta la provincia indonesia de Papúa y las Islas Salomón.",
+      "textoPista": "un terremoto de magnitud de 5,5 en la escala sismológica de magnitud momento(que sustituye a la de Richter) afecta la provincia indonesia de Papúa y las Islas Salomón.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Haiti_earthquake_damage.jpg/330px-Haiti_earthquake_damage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Terremoto",
+      "popularityScore": 25542
+    },
+    {
+      "id": "guerra-de-irak-2010",
+      "year": 2010,
+      "texto": "Estados Unidos retira, dos semanas antes de lo previsto, la mayor parte de sus tropas de combate de Irak en lo que se considera el fin de la guerra.",
+      "textoPista": "Estados Unidos retira, dos semanas antes de lo previsto, la mayor parte de sus tropas de combate de Irak en lo que se considera el fin de la guerra.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Iraq_War_montage.png/330px-Iraq_War_montage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Irak",
+      "popularityScore": 6080
+    },
+    {
+      "id": "fuhrer-1934",
+      "year": 1934,
+      "texto": "la creación de la posición de Führer es aprobado por el pueblo alemán con un referéndum con el 89,9 % del voto popular.",
+      "textoPista": "la creación de la posición de Führer es aprobado por el pueblo alemán con un referéndum con el 89,9 % del voto popular.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Adolf_Hitler_colorized.jpg/330px-Adolf_Hitler_colorized.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/F%C3%BChrer",
+      "popularityScore": 5851
+    }
+  ]
+}
