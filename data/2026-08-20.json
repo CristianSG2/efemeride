@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-20",
+  "events": [
+    {
+      "id": "santander-espana-1988",
+      "year": 1988,
+      "texto": "en Santander (España), se inaugura el Campos de Sport de El Sardinero.",
+      "textoPista": "en Santander (España), se inaugura el Campos de Sport de El Sardinero.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Santander.svg/langes-330px-Santander.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santander_(Espa%C3%B1a)",
+      "popularityScore": 17601
+    },
+    {
+      "id": "parque-nacional-de-yellowstone-1988",
+      "year": 1988,
+      "texto": "se incendia el parque nacional de Yellowstone.",
+      "textoPista": "se incendia el parque nacional de Yellowstone.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YellowstoneNationalParkCollage.png/330px-YellowstoneNationalParkCollage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Parque_nacional_de_Yellowstone",
+      "popularityScore": 8617
+    },
+    {
+      "id": "guerra-de-secesion-1866",
+      "year": 1866,
+      "texto": "el presidente Andrew Johnson declara formalmente la finalización de la guerra de Secesión estadounidense.",
+      "textoPista": "el presidente Andrew Johnson declara formalmente la finalización de la guerra de Secesión estadounidense.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CivilWarUSAColl.png/330px-CivilWarUSAColl.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Secesi%C3%B3n",
+      "popularityScore": 22504
+    },
+    {
+      "id": "beirut-1982",
+      "year": 1982,
+      "texto": "invasión colonial contra el Líbano: las fuerzas multinacionales invaden Beirut como chantaje para la retirada de Organización para la Liberación de Palestina del Líbano.",
+      "textoPista": "invasión colonial contra el Líbano: las fuerzas multinacionales invaden Beirut como chantaje para la retirada de Organización para la Liberación de Palestina del Líbano.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Beirut_Central_District_Collage.jpg/330px-Beirut_Central_District_Collage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Beirut",
+      "popularityScore": 5813
+    },
+    {
+      "id": "tokio-1905",
+      "year": 1905,
+      "texto": "en Tokio (Japón), Sun Yat-sen, Song Jiaoren y otros fundan la sociedad secreta Tongmenghui, también conocida como la Liga Unida de China o la Alianza Revolucionaria China. Fue un movimiento de resistencia en gran parte responsable de liderar la revolución de 1911 contra la dinastía Qing en China.",
+      "textoPista": "en Tokio (Japón), Sun Yat-sen, Song Jiaoren y otros fundan la sociedad secreta Tongmenghui, también conocida como la Liga Unida de China o la Alianza Revolucionaria China. Fue un movimiento de resistencia en gran parte responsable de liderar la revolución de ▪▪▪▪ contra la dinastía Qing en China.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Shinjuku_central_park_southwest.jpg/330px-Shinjuku_central_park_southwest.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tokio",
+      "popularityScore": 13241
+    }
+  ]
+}
