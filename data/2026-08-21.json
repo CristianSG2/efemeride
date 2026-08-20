@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-21",
+  "events": [
+    {
+      "id": "museo-del-louvre-1911",
+      "year": 1911,
+      "texto": "robo en el Museo del Louvre del famoso cuadro La Mona Lisa, recuperado en 1913.",
+      "textoPista": "robo en el Museo del Louvre del famoso cuadro La Mona Lisa, recuperado en ▪▪▪▪.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/330px-Louvre_Museum_Wikimedia_Commons.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Museo_del_Louvre",
+      "popularityScore": 5138
+    },
+    {
+      "id": "club-necaxa-1923",
+      "year": 1923,
+      "texto": "en México, es fundado el Club de Fútbol Necaxa.",
+      "textoPista": "en México, es fundado el Club de Fútbol Necaxa.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Club_Necaxa_Logo.svg/langes-330px-Club_Necaxa_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Necaxa",
+      "popularityScore": 20404
+    },
+    {
+      "id": "eclipse-solar-2017",
+      "year": 2017,
+      "texto": "eclipse solar parcial y total visto en América. Parcial en México y total en los Estados Unidos.",
+      "textoPista": "eclipse solar parcial y total visto en América. Parcial en México y total en los Estados Unidos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Eclipses_solares.svg/langes-330px-Eclipses_solares.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Eclipse_solar",
+      "popularityScore": 16500
+    },
+    {
+      "id": "ciudad-de-mexico-1945",
+      "year": 1945,
+      "texto": "en la Ciudad de México se constituye el Gobierno español en el exilio, presidido por José Giral.",
+      "textoPista": "en la Ciudad de México se constituye el Gobierno español en el exilio, presidido por José Giral.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 66940
+    },
+    {
+      "id": "hawai-1959",
+      "year": 1959,
+      "texto": "Hawái se convierte en el 50.º (quincuagésimo) estado de los Estados Unidos de América.",
+      "textoPista": "Hawái se convierte en el 50.º (quincuagésimo) estado de los Estados Unidos de América.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hawaii_in_United_States_%28US50%29_%28-grid%29_%28zoom%29_%28W3%29.svg/langes-330px-Hawaii_in_United_States_%28US50%29_%28-grid%29_%28zoom%29_%28W3%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Haw%C3%A1i",
+      "popularityScore": 16858
+    }
+  ]
+}
