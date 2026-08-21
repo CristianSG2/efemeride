@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-22",
+  "events": [
+    {
+      "id": "bogota-1968",
+      "year": 1968,
+      "texto": "el papa Pablo VI llega a Bogotá. Es la primera visita de un papa a Latinoamérica.",
+      "textoPista": "el papa Pablo VI llega a Bogotá. Es la primera visita de un papa a Latinoamérica.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 26431
+    },
+    {
+      "id": "managua-1978",
+      "year": 1978,
+      "texto": "en Managua (Nicaragua), un comando de guerrilleros del FSLN al mando de Edén Pastora toma el Palacio Nacional, en la Operación Chanchera, durante una sesión del Congreso.",
+      "textoPista": "en Managua (Nicaragua), un comando de guerrilleros del FSLN al mando de Edén Pastora toma el Palacio Nacional, en la Operación Chanchera, durante una sesión del Congreso.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/ManaguaNicCollage.jpg/330px-ManaguaNicCollage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Managua",
+      "popularityScore": 5731
+    },
+    {
+      "id": "ginebra-1864",
+      "year": 1864,
+      "texto": "en Ginebra (Suiza), la Sociedad de Bienestar firma la Primera Convención de Ginebra, con lo que se le da nacimiento a lo que más tarde se llamaría la Cruz Roja Internacional.",
+      "textoPista": "en Ginebra (Suiza), la Sociedad de Bienestar firma la Primera Convención de Ginebra, con lo que se le da nacimiento a lo que más tarde se llamaría la Cruz Roja Internacional.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Geneva_harbor_and_jet_d%27eau.jpg/330px-Geneva_harbor_and_jet_d%27eau.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ginebra",
+      "popularityScore": 8975
+    },
+    {
+      "id": "ciudad-de-mexico-1984",
+      "year": 1984,
+      "texto": "en la Ciudad de México, se cierra el recorrido de las 2 líneas de metro más importantes de la capital mexicana, al abrir la estación Pantitlán de la Línea 1 del Metro (convirtiéndose por primera ocasión en correspondencia con la Línea 5, abierta en 1981) y la segunda ampliación de la Línea 2 del Metro, desde su antigua terminal Tacuba hasta su nueva terminal Cuatro Caminos (la cual la convierte en la primera línea de metro en llegar al Estado de México).",
+      "textoPista": "en la Ciudad de México, se cierra el recorrido de las 2 líneas de metro más importantes de la capital mexicana, al abrir la estación Pantitlán de la Línea 1 del Metro (convirtiéndose por primera ocasión en correspondencia con la Línea 5, abierta en ▪▪▪▪) y la segunda ampliación de la Línea 2 del Metro, desde su antigua terminal Tacuba hasta su nueva terminal Cuatro Caminos (la cual la convierte en la primera línea de metro en llegar al Estado de México).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 66940
+    },
+    {
+      "id": "salvador-allende-1973",
+      "year": 1973,
+      "texto": "en Chile, el Congreso vota a favor de la resolución de condenar el gobierno de Salvador Allende determinando la ilegalidad de su gobierno y declarándolo fuera de la ley.",
+      "textoPista": "en Chile, el Congreso vota a favor de la resolución de condenar el gobierno de Salvador Allende determinando la ilegalidad de su gobierno y declarándolo fuera de la ley.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Salvador_Allende",
+      "popularityScore": 19030
+    }
+  ]
+}
