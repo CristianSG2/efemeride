@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-23",
+  "events": [
+    {
+      "id": "virginia-2011",
+      "year": 2011,
+      "texto": "en Virginia (Estados Unidos) se produce un sismo de magnitud 5.8, a la 1:51 PM EDT (17:51 UTC).",
+      "textoPista": "en Virginia (Estados Unidos) se produce un sismo de magnitud 5.8, a la 1:51 PM EDT (17:51 UTC).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Virginia_in_United_States.svg/langes-330px-Virginia_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Virginia",
+      "popularityScore": 6292
+    },
+    {
+      "id": "lisboa-2020",
+      "year": 2020,
+      "texto": "En Lisboa (Portugal), el Bayern de Múnich se convierte en campeón de la UEFA Champions League tras ganarle 1 a 0 al París Saint Germain.",
+      "textoPista": "En Lisboa (Portugal), el Bayern de Múnich se convierte en campeón de la UEFA Champions League tras ganarle 1 a 0 al París Saint Germain.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/330px-Lisbon_%2836831596786%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lisboa",
+      "popularityScore": 11004
+    },
+    {
+      "id": "anarquismo-1927",
+      "year": 1927,
+      "texto": "en Estados Unidos, los anarquistas italianos Nicola Sacco y Bartolomeo Vanzetti son ejecutados en la silla eléctrica.",
+      "textoPista": "en Estados Unidos, los anarquistas italianos Nicola Sacco y Bartolomeo Vanzetti son ejecutados en la silla eléctrica.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Anarchy-symbol.svg/langes-330px-Anarchy-symbol.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Anarquismo",
+      "popularityScore": 6232
+    },
+    {
+      "id": "massachusetts-1977",
+      "year": 1977,
+      "texto": "en Estados Unidos, el gobernador de Massachusetts exonera simbólicamente a Nicola Sacco y Bartolomeo Vanzetti, ejecutados 50 años atrás.",
+      "textoPista": "en Estados Unidos, el gobernador de Massachusetts exonera simbólicamente a Nicola Sacco y Bartolomeo Vanzetti, ejecutados 50 años atrás.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Massachusetts_in_United_States.svg/langes-330px-Massachusetts_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Massachusetts",
+      "popularityScore": 8492
+    },
+    {
+      "id": "paises-bajos-1944",
+      "year": 1944,
+      "texto": "en Warnsveld (Países Bajos) se registra la temperatura más alta en la Historia de ese país: 38,6 °C (102 °F).",
+      "textoPista": "en Warnsveld (Países Bajos) se registra la temperatura más alta en la Historia de ese país: 38,6 °C (102 °F).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Netherlands_in_European_Union.svg/langes-330px-Netherlands_in_European_Union.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos",
+      "popularityScore": 72520
+    }
+  ]
+}
