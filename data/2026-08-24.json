@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-24",
+  "events": [
+    {
+      "id": "joaquin-sabina-2001",
+      "year": 2001,
+      "texto": "el cantante español Joaquín Sabina sufre un leve infarto cerebral",
+      "textoPista": "el cantante español Joaquín Sabina sufre un leve infarto cerebral",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Joaquin_Sabina.jpg/330px-Joaquin_Sabina.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Sabina",
+      "popularityScore": 16459
+    },
+    {
+      "id": "apple-2011",
+      "year": 2011,
+      "texto": "en Estados Unidos, Steve Jobs renuncia a su cargo de director de la empresa Apple.",
+      "textoPista": "en Estados Unidos, Steve Jobs renuncia a su cargo de director de la empresa Apple.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langes-330px-Apple_logo_black.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Apple",
+      "popularityScore": 11887
+    },
+    {
+      "id": "gijon-1937",
+      "year": 1937,
+      "texto": "en Gijón (España) se proclama el Consejo Soberano de Asturias y León.",
+      "textoPista": "en Gijón (España) se proclama el Consejo Soberano de Asturias y León.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bandera_gijon.svg/langes-330px-Bandera_gijon.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Gij%C3%B3n",
+      "popularityScore": 15093
+    },
+    {
+      "id": "isla-de-man-2010",
+      "year": 2010,
+      "texto": "postcrossing.com alcanzó los 5 000 000 de postales recibidas, con una postal que viajó desde la Isla de Man hasta Tailandia",
+      "textoPista": "postcrossing.com alcanzó los 5 000 000 de postales recibidas, con una postal que viajó desde la Isla de Man hasta Tailandia",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Isle_of_Man_by_Sentinel-2.jpg/330px-Isle_of_Man_by_Sentinel-2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Isla_de_Man",
+      "popularityScore": 17102
+    },
+    {
+      "id": "escala-sismologica-de-richter-2016",
+      "year": 2016,
+      "texto": "un terremoto en la provincia de Rieti (Italia) de magnitud 6,2 en la escala de Richter causa al menos 267 muertos en el centro del país.",
+      "textoPista": "un terremoto en la provincia de Rieti (Italia) de magnitud 6,2 en la escala de Richter causa al menos 267 muertos en el centro del país.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+      "popularityScore": 22339
+    }
+  ]
+}
