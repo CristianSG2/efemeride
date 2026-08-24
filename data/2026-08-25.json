@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-25",
+  "events": [
+    {
+      "id": "ecopetrol-1951",
+      "year": 1951,
+      "texto": "creación de la Empresa Colombiana de Petróleos (ECOPETROL), en Colombia.",
+      "textoPista": "creación de la Empresa Colombiana de Petróleos (ECOPETROL), en Colombia.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Edificio_Ecopetrol.JPG/330px-Edificio_Ecopetrol.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ecopetrol",
+      "popularityScore": 1376
+    },
+    {
+      "id": "sitio-de-baler-1898",
+      "year": 1898,
+      "texto": "en Filipinas, durante el Sitio de Baler, muere el primer soldado a causa del beriberi.",
+      "textoPista": "en Filipinas, durante el Sitio de Baler, muere el primer soldado a causa del beriberi.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/The_church_of_Baler_from_%22Under_the_red_and_gold%22.jpg/330px-The_church_of_Baler_from_%22Under_the_red_and_gold%22.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Sitio_de_Baler",
+      "popularityScore": 2492
+    },
+    {
+      "id": "voyager-2-1989",
+      "year": 1989,
+      "texto": "la sonda estadounidense Voyager 2 pasa cerca de Neptuno.",
+      "textoPista": "la sonda estadounidense Voyager 2 pasa cerca de Neptuno.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/330px-Voyager_spacecraft.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Voyager_2",
+      "popularityScore": 1381
+    },
+    {
+      "id": "berserk-manga-1989",
+      "year": 1989,
+      "texto": "Kentaro Miura junto a Young Animal publican el primer capítulo del histórico manga Berserk.",
+      "textoPista": "Kentaro Miura junto a Young Animal publican el primer capítulo del histórico manga Berserk.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berserk_anime_logo.png/330px-Berserk_anime_logo.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Berserk_(manga)",
+      "popularityScore": 10273
+    },
+    {
+      "id": "estado-falcon-2012",
+      "year": 2012,
+      "texto": "en el estado Falcón (Venezuela), el Complejo Refinador de Amuay, una de las refinerías de petróleo más grandes del mundo sufre una explosión y un posterior incendio que causa al menos 55 muertos y más de 100 heridos. Explosión en la refinería de Amuay.",
+      "textoPista": "en el estado Falcón (Venezuela), el Complejo Refinador de Amuay, una de las refinerías de petróleo más grandes del mundo sufre una explosión y un posterior incendio que causa al menos 55 muertos y más de 100 heridos. Explosión en la refinería de Amuay.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/La_Casa_de_las_Ventanas_de_Hierro_%28Coro%2C_Venezuela%29.jpg/330px-La_Casa_de_las_Ventanas_de_Hierro_%28Coro%2C_Venezuela%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Estado_Falc%C3%B3n",
+      "popularityScore": 2622
+    }
+  ]
+}
