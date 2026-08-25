@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-26",
+  "events": [
+    {
+      "id": "sao-paulo-1914",
+      "year": 1914,
+      "texto": "en São Paulo (Brasil) se funda la Sociedade Esportiva Palmeiras.",
+      "textoPista": "en São Paulo (Brasil) se funda la Sociedade Esportiva Palmeiras.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/330px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/S%C3%A3o_Paulo",
+      "popularityScore": 11101
+    },
+    {
+      "id": "nueva-york-1947",
+      "year": 1947,
+      "texto": "en Nueva York, el Consejo de Seguridad de las Naciones Unidas adopta la Resolución 32 condenando los hechos de violencia de la Revolución Nacional de Indonesia.",
+      "textoPista": "en Nueva York, el Consejo de Seguridad de las Naciones Unidas adopta la Resolución 32 condenando los hechos de violencia de la Revolución Nacional de Indonesia.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 48090
+    },
+    {
+      "id": "john-frusciante-2007",
+      "year": 2007,
+      "texto": "en Inglaterra, el guitarrista John Frusciante da su último concierto junto a los Red Hot Chili Peppers.",
+      "textoPista": "en Inglaterra, el guitarrista John Frusciante da su último concierto junto a los Red Hot Chili Peppers.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RHChiliPeppersSpurs210723_%289_of_90%29_%2853065669750%29_%28cropped%29.jpg/330px-RHChiliPeppersSpurs210723_%289_of_90%29_%2853065669750%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/John_Frusciante",
+      "popularityScore": 9888
+    },
+    {
+      "id": "puerto-rico-2003",
+      "year": 2003,
+      "texto": "el cantante puertorriqueño Chayanne, lanza al mercado su 12.º álbum de estudio titulado Sincero.",
+      "textoPista": "el cantante puertorriqueño Chayanne, lanza al mercado su 12.º álbum de estudio titulado Sincero.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg/langes-330px-Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puerto_Rico",
+      "popularityScore": 36824
+    },
+    {
+      "id": "argel-1957",
+      "year": 1957,
+      "texto": "en Argel (Argelia) ―en el marco de la Guerra contra Francia―, dos miembros del Frente de Liberación Nacional caen después de combatir 12 horas contra 500 soldados invasores franceses al mando de Marcel Bigeard (batalla de Argel).",
+      "textoPista": "en Argel (Argelia) ―en el marco de la Guerra contra Francia―, dos miembros del Frente de Liberación Nacional caen después de combatir 12 horas contra 500 soldados invasores franceses al mando de Marcel Bigeard (batalla de Argel).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Argel_3.jpg/330px-Argel_3.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Argel",
+      "popularityScore": 5218
+    }
+  ]
+}
