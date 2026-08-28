@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-28",
+  "events": [
+    {
+      "id": "veracruz-1973",
+      "year": 1973,
+      "texto": "un terremoto de 7,3 grados azota a los estados mexicanos de Veracruz, Puebla, Oaxaca, Tlaxcala, Morelos y Guerrero, dejando un saldo de 1200 a 3000 muertos.",
+      "textoPista": "un terremoto de 7,3 grados azota a los estados mexicanos de Veracruz, Puebla, Oaxaca, Tlaxcala, Morelos y Guerrero, dejando un saldo de 1200 a 3000 muertos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/VeracruzCityCollage.jpg/330px-VeracruzCityCollage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Veracruz",
+      "popularityScore": 7798
+    },
+    {
+      "id": "juegos-olimpicos-2024",
+      "year": 2024,
+      "texto": "Se inauguran los Juegos Paralímpicos de 2024, los primeros que se realizan en París, Francia, tras ser elegida como sede olímpica y paralímpica en 2017.",
+      "textoPista": "Se inauguran los Juegos Paralímpicos de ▪▪▪▪, los primeros que se realizan en París, Francia, tras ser elegida como sede olímpica y paralímpica en ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/langes-330px-Olympic_rings_without_rims.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos",
+      "popularityScore": 35081
+    },
+    {
+      "id": "washington-d-c-1963",
+      "year": 1963,
+      "texto": "en Washington D. C. se realiza una manifestación contra el racismo en los Estados Unidos. El afroestadounidense Martin Luther King pronuncia su célebre discurso «I have a dream» (‘Yo tengo un sueño’).",
+      "textoPista": "en Washington D. C. se realiza una manifestación contra el racismo en los Estados Unidos. El afroestadounidense Martin Luther King pronuncia su célebre discurso «I have a dream» (‘Yo tengo un sueño’).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/330px-12-07-13-washington-by-RalfR-08.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Washington_D._C.",
+      "popularityScore": 19126
+    },
+    {
+      "id": "caracas-1977",
+      "year": 1977,
+      "texto": "en la ciudad de Caracas (Venezuela) comienza a construirse el metro de Caracas.",
+      "textoPista": "en la ciudad de Caracas (Venezuela) comienza a construirse el metro de Caracas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_Caracas.jpg/330px-Collage_Caracas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Caracas",
+      "popularityScore": 15859
+    },
+    {
+      "id": "buenos-aires-1945",
+      "year": 1945,
+      "texto": "en Buenos Aires (Argentina) sale la primera edición del diario Clarín.",
+      "textoPista": "en Buenos Aires (Argentina) sale la primera edición del diario Clarín.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 44092
+    }
+  ]
+}
