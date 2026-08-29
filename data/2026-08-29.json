@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-29",
+  "events": [
+    {
+      "id": "jerico-1993",
+      "year": 1993,
+      "texto": "Israel anuncia un preacuerdo con la OLP de autogobierno de la franja de Gaza y la ciudad de Jericó.",
+      "textoPista": "Israel anuncia un preacuerdo con la OLP de autogobierno de la franja de Gaza y la ciudad de Jericó.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Jericho_collage.jpg/330px-Jericho_collage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Jeric%C3%B3",
+      "popularityScore": 6532
+    },
+    {
+      "id": "el-cairo-1973",
+      "year": 1973,
+      "texto": "en El Cairo, el presidente egipcio Anwar el-Sadat se entrevista con el coronel Muamar el-Gadafi e impone el abandono del proyecto de unión de Libia y Egipto.",
+      "textoPista": "en El Cairo, el presidente egipcio Anwar el-Sadat se entrevista con el coronel Muamar el-Gadafi e impone el abandono del proyecto de unión de Libia y Egipto.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cairo_Montage.png/330px-Cairo_Montage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/El_Cairo",
+      "popularityScore": 9493
+    },
+    {
+      "id": "unificacion-italiana-1862",
+      "year": 1862,
+      "texto": "Giuseppe Garibaldi, el líder impulsor de la unificación italiana, es derrotado, herido y hecho prisionero en Aspromonte (Milán), finalizando dos años de movimiento revolucionario.",
+      "textoPista": "Giuseppe Garibaldi, el líder impulsor de la unificación italiana, es derrotado, herido y hecho prisionero en Aspromonte (Milán), finalizando dos años de movimiento revolucionario.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Unificacion-de-Italia.gif/330px-Unificacion-de-Italia.gif?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Unificaci%C3%B3n_italiana",
+      "popularityScore": 5777
+    },
+    {
+      "id": "netflix-1997",
+      "year": 1997,
+      "texto": "la macro-empresa de streaming Netflix nacía como un servicio de alquiler de DVD en Internet.",
+      "textoPista": "la macro-empresa de streaming Netflix nacía como un servicio de alquiler de DVD en Internet.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/100_Winchester_Circle.jpg/330px-100_Winchester_Circle.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Netflix",
+      "popularityScore": 28540
+    },
+    {
+      "id": "carolina-del-norte-1861",
+      "year": 1861,
+      "texto": "en Carolina del Norte ―en el marco de la guerra civil estadounidense―, un escuadrón de la armada captura fuertes en el cabo Hatteras en la batalla de Hatteras Inlet Batteries.",
+      "textoPista": "en Carolina del Norte ―en el marco de la guerra civil estadounidense―, un escuadrón de la armada captura fuertes en el cabo Hatteras en la batalla de Hatteras Inlet Batteries.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/North_Carolina_in_United_States.svg/langes-330px-North_Carolina_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Carolina_del_Norte",
+      "popularityScore": 6830
+    }
+  ]
+}
