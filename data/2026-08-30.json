@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-30",
+  "events": [
+    {
+      "id": "pereira-1863",
+      "year": 1863,
+      "texto": "en Colombia se funda la villa de Pereira.",
+      "textoPista": "en Colombia se funda la villa de Pereira.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Skyline_Pereira.jpg/330px-Skyline_Pereira.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pereira",
+      "popularityScore": 6597
+    },
+    {
+      "id": "lima-1957",
+      "year": 1957,
+      "texto": "en Lima (Perú), Santa Rosa de Lima es nombrada patrona de la Policía Nacional del Perú.",
+      "textoPista": "en Lima (Perú), Santa Rosa de Lima es nombrada patrona de la Policía Nacional del Perú.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/330px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lima",
+      "popularityScore": 19267
+    },
+    {
+      "id": "juan-domingo-peron-1952",
+      "year": 1952,
+      "texto": "en Buenos Aires, el presidente Juan Domingo Perón prohíbe que salgan de Argentina los cuadros de Francisco Cambó.",
+      "textoPista": "en Buenos Aires, el presidente Juan Domingo Perón prohíbe que salgan de Argentina los cuadros de Francisco Cambó.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Juan_Per%C3%B3n_%28cropped%29.jpg/330px-Juan_Per%C3%B3n_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n",
+      "popularityScore": 35676
+    },
+    {
+      "id": "canal-de-la-mancha-1926",
+      "year": 1926,
+      "texto": "el nadador alemán Ernst Vierkotter cruza el Canal de la Mancha en el tiempo récord de 12 horas y 42 minutos.",
+      "textoPista": "el nadador alemán Ernst Vierkotter cruza el Canal de la Mancha en el tiempo récord de 12 horas y 42 minutos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/English_Channel_from_Pointe_du_Hoc.jpg/330px-English_Channel_from_Pointe_du_Hoc.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Canal_de_la_Mancha",
+      "popularityScore": 7243
+    },
+    {
+      "id": "paises-bajos-1921",
+      "year": 1921,
+      "texto": "en La Haya (Países Bajos) se celebra el Congreso Internacional sobre los Derechos del Hombre.",
+      "textoPista": "en La Haya (Países Bajos) se celebra el Congreso Internacional sobre los Derechos del Hombre.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Netherlands_in_European_Union.svg/langes-330px-Netherlands_in_European_Union.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos",
+      "popularityScore": 72520
+    }
+  ]
+}
