@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-31",
+  "events": [
+    {
+      "id": "guerra-de-secesion-1864",
+      "year": 1864,
+      "texto": "en el marco de la Guerra civil de Estados Unidos, en la Campaña de Atlanta, los unionistas fuerzan al general William T. Sherman a lanzar el asalto a Atlanta (Batalla de Jonesborough)",
+      "textoPista": "en el marco de la Guerra civil de Estados Unidos, en la Campaña de Atlanta, los unionistas fuerzan al general William T. Sherman a lanzar el asalto a Atlanta (Batalla de Jonesborough)",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/CivilWarUSAColl.png/330px-CivilWarUSAColl.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Secesi%C3%B3n",
+      "popularityScore": 22504
+    },
+    {
+      "id": "primera-guerra-mundial-1929",
+      "year": 1929,
+      "texto": "en La Haya (Países Bajos) termina la conferencia sobre las reparaciones de guerra de la Primera Guerra Mundial (1914‑1918), con la adopción del Plan Young.",
+      "textoPista": "en La Haya (Países Bajos) termina la conferencia sobre las reparaciones de guerra de la Primera Guerra Mundial (▪▪▪▪‑▪▪▪▪), con la adopción del Plan Young.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/PrimeraGuerraMundial-collague.jpg/330px-PrimeraGuerraMundial-collague.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
+      "popularityScore": 60906
+    },
+    {
+      "id": "muerte-de-diana-de-gales-1997",
+      "year": 1997,
+      "texto": "en París (Francia), Diana Spencer (Lady DI), princesa de Gales, muere en un accidente de coche.",
+      "textoPista": "en París (Francia), Diana Spencer (Lady DI), princesa de Gales, muere en un accidente de coche.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Flowers_for_Princess_Diana%27s_Funeral.jpg/330px-Flowers_for_Princess_Diana%27s_Funeral.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Muerte_de_Diana_de_Gales",
+      "popularityScore": 19215
+    },
+    {
+      "id": "cartel-de-jalisco-nueva-generacion-2009",
+      "year": 2009,
+      "texto": "Se funda el Cártel de Jalisco Nueva Generación",
+      "textoPista": "Se funda el Cártel de Jalisco Nueva Generación",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/CJNG_Logo.svg/langes-330px-CJNG_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/C%C3%A1rtel_de_Jalisco_Nueva_Generaci%C3%B3n",
+      "popularityScore": 18450
+    },
+    {
+      "id": "bogota-2005",
+      "year": 2005,
+      "texto": "en Bogotá cesan las transmisiones de Superestación en el dial 88.9 del FM, siendo reemplazado un mes después por Radio Uno de RCN Radio.",
+      "textoPista": "en Bogotá cesan las transmisiones de Superestación en el dial 88.9 del FM, siendo reemplazado un mes después por Radio Uno de RCN Radio.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 26431
+    }
+  ]
+}
