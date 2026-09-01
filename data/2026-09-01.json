@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-01",
+  "events": [
+    {
+      "id": "cincinnati-1914",
+      "year": 1914,
+      "texto": "en el zoológico de Cincinnati fallece la última paloma migratoria.",
+      "textoPista": "en el zoológico de Cincinnati fallece la última paloma migratoria.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Cincinnati_Photomontage_V1.jpg/330px-Cincinnati_Photomontage_V1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Cincinnati",
+      "popularityScore": 11686
+    },
+    {
+      "id": "san-petersburgo-1914",
+      "year": 1914,
+      "texto": "la ciudad rusa de San Petersburgo cambia de nombre a Petrogrado.",
+      "textoPista": "la ciudad rusa de San Petersburgo cambia de nombre a Petrogrado.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Peter_%26_Paul_fortress_in_SPB_03.jpg/330px-Peter_%26_Paul_fortress_in_SPB_03.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/San_Petersburgo",
+      "popularityScore": 9914
+    },
+    {
+      "id": "boston-1897",
+      "year": 1897,
+      "texto": "en Boston (Estados Unidos) se inaugura el Metro de Boston.",
+      "textoPista": "en Boston (Estados Unidos) se inaugura el Metro de Boston.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Massachusetts_State_House_-_panoramio_%281%29.jpg/330px-Massachusetts_State_House_-_panoramio_%281%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Boston",
+      "popularityScore": 9270
+    },
+    {
+      "id": "movimiento-de-paises-no-alineados-1961",
+      "year": 1961,
+      "texto": "en Belgrado (República Federal Socialista de Yugoslavia) se realiza la primera conferencia del Movimiento de Países No Alineados.",
+      "textoPista": "en Belgrado (República Federal Socialista de Yugoslavia) se realiza la primera conferencia del Movimiento de Países No Alineados.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/NAM_Members.svg/langes-330px-NAM_Members.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Movimiento_de_Pa%C3%ADses_No_Alineados",
+      "popularityScore": 8660
+    },
+    {
+      "id": "reikiavik-1972",
+      "year": 1972,
+      "texto": "en Reikiavik (Islandia) Bobby Fischer se corona campeón mundial de ajedrez al derrotar al soviético Boris Spassky.",
+      "textoPista": "en Reikiavik (Islandia) Bobby Fischer se corona campeón mundial de ajedrez al derrotar al soviético Boris Spassky.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Reykjavik_Main_Image.jpg/330px-Reykjavik_Main_Image.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Reikiavik",
+      "popularityScore": 5686
+    }
+  ]
+}
