@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-02",
+  "events": [
+    {
+      "id": "escala-sismologica-de-richter-1992",
+      "year": 1992,
+      "texto": "en Nicaragua, un terremoto de magnitud 7,7 en la escala Richter sacude la costa del Pacífico del país causando un tsunami que causa por lo menos 116 muertos.",
+      "textoPista": "en Nicaragua, un terremoto de magnitud 7,7 en la escala Richter sacude la costa del Pacífico del país causando un tsunami que causa por lo menos 116 muertos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+      "popularityScore": 83871
+    },
+    {
+      "id": "rio-de-janeiro-1947",
+      "year": 1947,
+      "texto": "en Río de Janeiro se firma el TIAR (Tratado Interamericano de Asistencia Recíproca).",
+      "textoPista": "en Río de Janeiro se firma el TIAR (Tratado Interamericano de Asistencia Recíproca).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Rio_Collage.png/330px-Rio_Collage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/R%C3%ADo_de_Janeiro",
+      "popularityScore": 11420
+    },
+    {
+      "id": "nasa-1970",
+      "year": 1970,
+      "texto": "la NASA anuncia la cancelación de dos misiones del Programa Apolo hacia la Luna, el Apolo 18 y el Apolo 19.",
+      "textoPista": "la NASA anuncia la cancelación de dos misiones del Programa Apolo hacia la Luna, el Apolo 18 y el Apolo 19.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/langes-330px-NASA_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/NASA",
+      "popularityScore": 7641
+    },
+    {
+      "id": "congreso-de-los-diputados-2016",
+      "year": 2016,
+      "texto": "en España el Congreso rechaza en segunda votación la investidura de Mariano Rajoy como presidente.",
+      "textoPista": "en España el Congreso rechaza en segunda votación la investidura de Mariano Rajoy como presidente.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Solemne_apertura_de_la_XIV_Legislatura_04.jpg/330px-Solemne_apertura_de_la_XIV_Legislatura_04.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Congreso_de_los_Diputados",
+      "popularityScore": 7862
+    },
+    {
+      "id": "fulgencio-batista-1958",
+      "year": 1958,
+      "texto": "en La Habana (Cuba), la dictadura de Fulgencio Batista asesina al joven revolucionario cubano Raúl González Sánchez frente a la Facultad de Odontología, que actualmente lleva su nombre.",
+      "textoPista": "en La Habana (Cuba), la dictadura de Fulgencio Batista asesina al joven revolucionario cubano Raúl González Sánchez frente a la Facultad de Odontología, que actualmente lleva su nombre.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Batista2.png/330px-Batista2.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Fulgencio_Batista",
+      "popularityScore": 12368
+    }
+  ]
+}
