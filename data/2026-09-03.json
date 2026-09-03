@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-03",
+  "events": [
+    {
+      "id": "segunda-guerra-mundial-1939",
+      "year": 1939,
+      "texto": "en el marco de la Segunda Guerra Mundial, Inglaterra y Francia declaran la guerra a Alemania tras la invasión de Polonia.",
+      "textoPista": "en el marco de la Segunda Guerra Mundial, Inglaterra y Francia declaran la guerra a Alemania tras la invasión de Polonia.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/WW2Montage.PNG/330px-WW2Montage.PNG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial",
+      "popularityScore": 57995
+    },
+    {
+      "id": "lisboa-2025",
+      "year": 2025,
+      "texto": "en Lisboa (Portugal), descarrila un coche funicular del elevador de la Gloria, dejando 16 muertos y 23 heridos.",
+      "textoPista": "en Lisboa (Portugal), descarrila un coche funicular del elevador de la Gloria, dejando 16 muertos y 23 heridos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/330px-Lisbon_%2836831596786%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lisboa",
+      "popularityScore": 11041
+    },
+    {
+      "id": "los-angeles-2009",
+      "year": 2009,
+      "texto": "en los Estados Unidos, Michael Jackson es sepultado en el cementerio Forest Lawn de la ciudad de Los Ángeles (California) 70 días después de su muerte.",
+      "textoPista": "en los Estados Unidos, Michael Jackson es sepultado en el cementerio Forest Lawn de la ciudad de Los Ángeles (California) 70 días después de su muerte.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
+      "popularityScore": 20484
+    },
+    {
+      "id": "ariana-grande-2013",
+      "year": 2013,
+      "texto": "Ariana Grande lanza su álbum debut, Yours Truly.",
+      "textoPista": "Ariana Grande lanza su álbum debut, Yours Truly.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Ariana_Grande_Eternal_Sunshine_Tour_singing_%28cropped%29.jpg/330px-Ariana_Grande_Eternal_Sunshine_Tour_singing_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ariana_Grande",
+      "popularityScore": 68963
+    },
+    {
+      "id": "iron-maiden-2021",
+      "year": 2021,
+      "texto": "Iron Maiden lanza el álbum Senjutsu.",
+      "textoPista": "Iron Maiden lanza el álbum Senjutsu.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/IronMaidencollage2.jpg/330px-IronMaidencollage2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Iron_Maiden",
+      "popularityScore": 13873
+    }
+  ]
+}
