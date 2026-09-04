@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-04",
+  "events": [
+    {
+      "id": "canal-de-panama-2012",
+      "year": 2012,
+      "texto": "en Panamá, Jorge Quijano es nombrado el nuevo administrador del canal de Panamá, en reemplazo del saliente administrador Alberto Alemán Zubieta.",
+      "textoPista": "en Panamá, Jorge Quijano es nombrado el nuevo administrador del canal de Panamá, en reemplazo del saliente administrador Alberto Alemán Zubieta.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vessels_locking_into_the_Panama_Canal.jpg/330px-Vessels_locking_into_the_Panama_Canal.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Canal_de_Panam%C3%A1",
+      "popularityScore": 20439
+    },
+    {
+      "id": "ciudad-de-mexico-1969",
+      "year": 1969,
+      "texto": "en la Ciudad de México se inaugura la primera línea del Metro.",
+      "textoPista": "en la Ciudad de México se inaugura la primera línea del Metro.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 46377
+    },
+    {
+      "id": "salvador-allende-1970",
+      "year": 1970,
+      "texto": "en Chile, Salvador Allende, candidato de la Unidad Popular (socialista) gana las elecciones presidenciales.",
+      "textoPista": "en Chile, Salvador Allende, candidato de la Unidad Popular (socialista) gana las elecciones presidenciales.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Salvador_Allende",
+      "popularityScore": 18804
+    },
+    {
+      "id": "buenos-aires-1902",
+      "year": 1902,
+      "texto": "en Buenos Aires (Argentina), durante la ceremonia de exhumación de los restos mortales del general Manuel Belgrano, el ministro de Guerra, Pablo Riccheri (43) y el ministro del Interior Joaquín V. González (39) roban varios dientes. Se ven obligados a devolverlos debido a la presión de los periódicos porteños.",
+      "textoPista": "en Buenos Aires (Argentina), durante la ceremonia de exhumación de los restos mortales del general Manuel Belgrano, el ministro de Guerra, Pablo Riccheri (43) y el ministro del Interior Joaquín V. González (39) roban varios dientes. Se ven obligados a devolverlos debido a la presión de los periódicos porteños.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36339
+    },
+    {
+      "id": "travis-scott-2015",
+      "year": 2015,
+      "texto": "el rapero estadounidense Travis Scott lanza su álbum debut Rodeo, el cual lo llevó a ser reconocido mundialmente",
+      "textoPista": "el rapero estadounidense Travis Scott lanza su álbum debut Rodeo, el cual lo llevó a ser reconocido mundialmente",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/TravisScott-byPhilipRomano.jpg/330px-TravisScott-byPhilipRomano.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Travis_Scott",
+      "popularityScore": 12242
+    }
+  ]
+}
