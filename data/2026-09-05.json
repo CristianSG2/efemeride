@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-05",
+  "events": [
+    {
+      "id": "oceano-atlantico-1936",
+      "year": 1936,
+      "texto": "la estadounidense Beryl Markham sobrevuela en solitario el Atlántico en dirección este-oeste, siendo la primera mujer en lograrlo.",
+      "textoPista": "la estadounidense Beryl Markham sobrevuela en solitario el Atlántico en dirección este-oeste, siendo la primera mujer en lograrlo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Oceano_Atlantico.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Oc%C3%A9ano_Atl%C3%A1ntico",
+      "popularityScore": 10915
+    },
+    {
+      "id": "universidad-nacional-autonoma-de-mexico-2018",
+      "year": 2018,
+      "texto": "en México se registró una multitudinaria marcha pacífica hacia la rectoría de la UNAM, donde participaron 30 000 personas de todas la instituciones educativas de media superior y superior. Se reportó saldo blanco. Es considerada como una de las mayores manifestaciones ocurridas en la historia de México en épocas recientes y es una de las mayores manifestaciones ocurridas desde la  Huelga estudiantil de la UNAM (1999-2000).",
+      "textoPista": "en México se registró una multitudinaria marcha pacífica hacia la rectoría de la UNAM, donde participaron 30 000 personas de todas la instituciones educativas de media superior y superior. Se reportó saldo blanco. Es considerada como una de las mayores manifestaciones ocurridas en la historia de México en épocas recientes y es una de las mayores manifestaciones ocurridas desde la  Huelga estudiantil de la UNAM (▪▪▪▪-▪▪▪▪).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo-UNAM-escalable.svg/langes-330px-Escudo-UNAM-escalable.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Universidad_Nacional_Aut%C3%B3noma_de_M%C3%A9xico",
+      "popularityScore": 9171
+    },
+    {
+      "id": "escala-sismologica-de-magnitud-de-momento-2012",
+      "year": 2012,
+      "texto": "Costa Rica sufre un sismo de 7,6 Mw escala sismológica de magnitud de momento denominado Terremoto de Costa Rica de 2012.",
+      "textoPista": "Costa Rica sufre un sismo de 7,6 Mw escala sismológica de magnitud de momento denominado Terremoto de Costa Rica de ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Moment_Magnitude.gif/330px-Moment_Magnitude.gif?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_magnitud_de_momento",
+      "popularityScore": 16532
+    },
+    {
+      "id": "alfonso-x-de-castilla-1986",
+      "year": 1986,
+      "texto": "en España, el poeta y ensayista mexicano Octavio Paz es distinguido por el gobierno español con la Gran Cruz de la Orden de Alfonso X el Sabio.",
+      "textoPista": "en España, el poeta y ensayista mexicano Octavio Paz es distinguido por el gobierno español con la Gran Cruz de la Orden de Alfonso X el Sabio.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Alfonso_X_el_Sabio_en_El_libro_de_los_juegos.jpg/330px-Alfonso_X_el_Sabio_en_El_libro_de_los_juegos.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Alfonso_X_de_Castilla",
+      "popularityScore": 11136
+    },
+    {
+      "id": "alvaro-obregon-1920",
+      "year": 1920,
+      "texto": "en México, Álvaro Obregón es elegido presidente.",
+      "textoPista": "en México, Álvaro Obregón es elegido presidente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Portrait_of_%C3%81lvaro_Obreg%C3%B3n_4.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/%C3%81lvaro_Obreg%C3%B3n",
+      "popularityScore": 7721
+    }
+  ]
+}
