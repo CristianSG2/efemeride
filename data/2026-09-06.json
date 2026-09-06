@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-06",
+  "events": [
+    {
+      "id": "paises-bajos-1948",
+      "year": 1948,
+      "texto": "en los Países Bajos asciende al trono la reina Juliana.",
+      "textoPista": "en los Países Bajos asciende al trono la reina Juliana.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Netherlands_in_European_Union.svg/langes-330px-Netherlands_in_European_Union.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos",
+      "popularityScore": 44821
+    },
+    {
+      "id": "holocausto-1941",
+      "year": 1941,
+      "texto": "en el marco del Holocausto judío, en la Alemania nazi, la obligación de vestir la estrella de David con la palabra «judío» inscrita, se extiende a todos los judíos a partir de los 6 años de edad en las zonas ocupadas por los alemanes.",
+      "textoPista": "en el marco del Holocausto judío, en la Alemania nazi, la obligación de vestir la estrella de David con la palabra «judío» inscrita, se extiende a todos los judíos a partir de los 6 años de edad en las zonas ocupadas por los alemanes.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mass_Grave_at_Bergen-Belsen_concentration_camp_-_Fritz_Klein_-_IWM_BU4260.jpg/330px-Mass_Grave_at_Bergen-Belsen_concentration_camp_-_Fritz_Klein_-_IWM_BU4260.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Holocausto",
+      "popularityScore": 17208
+    },
+    {
+      "id": "san-petersburgo-1991",
+      "year": 1991,
+      "texto": "San Petersburgo recupera su nombre (desde 1924 se llamaba Leningrado).",
+      "textoPista": "San Petersburgo recupera su nombre (desde ▪▪▪▪ se llamaba Leningrado).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Peter_%26_Paul_fortress_in_SPB_03.jpg/330px-Peter_%26_Paul_fortress_in_SPB_03.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/San_Petersburgo",
+      "popularityScore": 10251
+    },
+    {
+      "id": "miguel-primo-de-rivera-1926",
+      "year": 1926,
+      "texto": "en España, el general Miguel Primo de Rivera disuelve el arma de artillería ante la continua indisciplina manifestada por jefes y oficiales artilleros.",
+      "textoPista": "en España, el general Miguel Primo de Rivera disuelve el arma de artillería ante la continua indisciplina manifestada por jefes y oficiales artilleros.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Miguel_Primo_de_Rivera%2C_Kaulak_%28cropped%29.jpg/330px-Miguel_Primo_de_Rivera%2C_Kaulak_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Miguel_Primo_de_Rivera",
+      "popularityScore": 13860
+    },
+    {
+      "id": "melanie-martinez-2019",
+      "year": 2019,
+      "texto": "la artista Melanie Martinez publica su segundo álbum de estudio, K-12.",
+      "textoPista": "la artista Melanie Martinez publica su segundo álbum de estudio, K-12.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Melanie_Martinez_%28K-12%29.jpg/330px-Melanie_Martinez_%28K-12%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Melanie_Martinez",
+      "popularityScore": 10061
+    }
+  ]
+}
