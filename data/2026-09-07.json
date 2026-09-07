@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-07",
+  "events": [
+    {
+      "id": "guerra-del-chaco-1932",
+      "year": 1932,
+      "texto": "en la guerra del Chaco (1932-1935) 15 000 soldados paraguayos se enfrentan contra 650 bolivianos en la batalla de Boquerón, que se prolongará 23 días. Morirán 7000 paraguayos y 150 bolivianos.",
+      "textoPista": "en la guerra del Chaco (▪▪▪▪-▪▪▪▪) 15 000 soldados paraguayos se enfrentan contra 650 bolivianos en la batalla de Boquerón, que se prolongará 23 días. Morirán 7000 paraguayos y 150 bolivianos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Mapa_de_la_Guerra_del_Chaco_es.svg/langes-330px-Mapa_de_la_Guerra_del_Chaco_es.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_del_Chaco",
+      "popularityScore": 9759
+    },
+    {
+      "id": "augusto-pinochet-1986",
+      "year": 1986,
+      "texto": "en Chile, el dictador Augusto Pinochet sale ileso de un atentado perpetrado por miembros del Frente Patriótico Manuel Rodríguez en el que murieron cinco escoltas y viajaba su nieto de 10 años.",
+      "textoPista": "en Chile, el dictador Augusto Pinochet sale ileso de un atentado perpetrado por miembros del Frente Patriótico Manuel Rodríguez en el que murieron cinco escoltas y viajaba su nieto de 10 años.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Augusto_Pinochet_foto_oficial_%283x4_cropped%29.jpg/330px-Augusto_Pinochet_foto_oficial_%283x4_cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Augusto_Pinochet",
+      "popularityScore": 22258
+    },
+    {
+      "id": "londres-1940",
+      "year": 1940,
+      "texto": "en la batalla de Inglaterra, los alemanes inician el bombardeo masivo de Londres.",
+      "textoPista": "en la batalla de Inglaterra, los alemanes inician el bombardeo masivo de Londres.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 21027
+    },
+    {
+      "id": "aqui-no-hay-quien-viva-serie-de-television-espanola-2003",
+      "year": 2003,
+      "texto": "en España, estreno de la serie televisiva Aquí no hay quien viva.",
+      "textoPista": "en España, estreno de la serie televisiva Aquí no hay quien viva.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/ANHQV.svg/langes-330px-ANHQV.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Aqu%C3%AD_no_hay_quien_viva_(serie_de_televisi%C3%B3n_espa%C3%B1ola)",
+      "popularityScore": 13766
+    },
+    {
+      "id": "las-vegas-1996",
+      "year": 1996,
+      "texto": "en Las Vegas (Nevada) es tiroteado el rapero estadounidense Tupac Shakur (25). Fallecerá una semana después.",
+      "textoPista": "en Las Vegas (Nevada) es tiroteado el rapero estadounidense Tupac Shakur (25). Fallecerá una semana después.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/LV_Valley_montage.jpg/330px-LV_Valley_montage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Las_Vegas",
+      "popularityScore": 7521
+    }
+  ]
+}
