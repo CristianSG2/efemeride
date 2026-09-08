@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-08",
+  "events": [
+    {
+      "id": "carlos-iii-del-reino-unido-2022",
+      "year": 2022,
+      "texto": "Carlos III es proclamado rey del Reino Unido y de la Mancomunidad de Naciones al fallecer su madre, Isabel II.",
+      "textoPista": "Carlos III es proclamado rey del Reino Unido y de la Mancomunidad de Naciones al fallecer su madre, Isabel II.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/P20260428DT-3982_%28Charles_III%29.jpg/330px-P20260428DT-3982_%28Charles_III%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Carlos_III_del_Reino_Unido",
+      "popularityScore": 55629
+    },
+    {
+      "id": "rif-1925",
+      "year": 1925,
+      "texto": "en el Rif (norte de África), en el marco de la Guerra de la Independencia del Rif, el ejército español lleva a cabo el Desembarco de Alhucemas, que acabará con la guerra.",
+      "textoPista": "en el Rif (norte de África), en el marco de la Guerra de la Independencia del Rif, el ejército español lleva a cabo el Desembarco de Alhucemas, que acabará con la guerra.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Rif_Mountains.jpg/330px-Rif_Mountains.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rif",
+      "popularityScore": 17741
+    },
+    {
+      "id": "alfonso-xiii-de-espana-1907",
+      "year": 1907,
+      "texto": "Alfonso XIII otorga a Cangas de Onís (Asturias), el título de ciudad, como la «más grande capital, más pequeña ciudad».",
+      "textoPista": "Alfonso XIII otorga a Cangas de Onís (Asturias), el título de ciudad, como la «más grande capital, más pequeña ciudad».",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Rey_Alfonso_XIII_de_Espa%C3%B1a%2C_by_Kaulak.jpg/330px-Rey_Alfonso_XIII_de_Espa%C3%B1a%2C_by_Kaulak.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Alfonso_XIII_de_Espa%C3%B1a",
+      "popularityScore": 26367
+    },
+    {
+      "id": "fifa-1928",
+      "year": 1928,
+      "texto": "la FIFA decide que el primer mundial se lleve a cabo en Uruguay.",
+      "textoPista": "la FIFA decide que el primer mundial se lleve a cabo en Uruguay.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/FIFA_-_hoofdgebouw.JPG/330px-FIFA_-_hoofdgebouw.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/FIFA",
+      "popularityScore": 22369
+    },
+    {
+      "id": "provincia-de-santa-fe-1856",
+      "year": 1856,
+      "texto": "en la provincia de Santa Fe (Argentina), un grupo de inmigrantes europeos crean la colonia Esperanza.",
+      "textoPista": "en la provincia de Santa Fe (Argentina), un grupo de inmigrantes europeos crean la colonia Esperanza.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/National_Flag_Memorial.jpg/330px-National_Flag_Memorial.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Provincia_de_Santa_Fe",
+      "popularityScore": 6735
+    }
+  ]
+}
