@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-09",
+  "events": [
+    {
+      "id": "santiago-de-chile-2001",
+      "year": 2001,
+      "texto": "en Santiago de Chile, el club U de Chile le gana a su rival Colo-Colo por última vez en el Estadio Monumental",
+      "textoPista": "en Santiago de Chile, el club U de Chile le gana a su rival Colo-Colo por última vez en el Estadio Monumental",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 19411
+    },
+    {
+      "id": "rosario-argentina-1930",
+      "year": 1930,
+      "texto": "en Rosario (Argentina) la dictadura de Uriburu fusila sin juicio al albañil anarquista Joaquín Penina.",
+      "textoPista": "en Rosario (Argentina) la dictadura de Uriburu fusila sin juicio al albañil anarquista Joaquín Penina.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg/330px-Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rosario_(Argentina)",
+      "popularityScore": 12921
+    },
+    {
+      "id": "provincia-de-cordoba-argentina-1913",
+      "year": 1913,
+      "texto": "en la provincia de Córdoba (Argentina) se funda la localidad de Río Tercero.",
+      "textoPista": "en la provincia de Córdoba (Argentina) se funda la localidad de Río Tercero.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Mina_Clavero.jpg/330px-Mina_Clavero.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Provincia_de_C%C3%B3rdoba_(Argentina)",
+      "popularityScore": 6018
+    },
+    {
+      "id": "california-1850",
+      "year": 1850,
+      "texto": "California es admitida como el estado número 31 de Estados Unidos.",
+      "textoPista": "California es admitida como el estado número 31 de Estados Unidos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/California_in_United_States.svg/langes-330px-California_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/California",
+      "popularityScore": 21044
+    },
+    {
+      "id": "levante-union-deportiva-1909",
+      "year": 1909,
+      "texto": "en Valencia (España), se funda el Levante Unión Deportiva.",
+      "textoPista": "en Valencia (España), se funda el Levante Unión Deportiva.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg/330px-Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Levante_Uni%C3%B3n_Deportiva",
+      "popularityScore": 11683
+    }
+  ]
+}
