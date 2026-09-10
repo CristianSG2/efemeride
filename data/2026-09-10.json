@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-10",
+  "events": [
+    {
+      "id": "munich-1972",
+      "year": 1972,
+      "texto": "en Múnich (Alemania), Estados Unidos pierde su primer partido internacional contra la Unión Soviética.",
+      "textoPista": "en Múnich (Alemania), Estados Unidos pierde su primer partido internacional contra la Unión Soviética.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Munich_montage.png/330px-Munich_montage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/M%C3%BAnich",
+      "popularityScore": 8179
+    },
+    {
+      "id": "cucuta-1924",
+      "year": 1924,
+      "texto": "en Cúcuta (Colombia) se funda el equipo de fútbol Cúcuta Foot-ball Club (actual Cúcuta Deportivo).",
+      "textoPista": "en Cúcuta (Colombia) se funda el equipo de fútbol Cúcuta Foot-ball Club (actual Cúcuta Deportivo).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Panor%C3%A1mica_de_San_Jos%C3%A9_de_C%C3%BAcuta%2C_Colombia.jpg/330px-Panor%C3%A1mica_de_San_Jos%C3%A9_de_C%C3%BAcuta%2C_Colombia.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/C%C3%BAcuta",
+      "popularityScore": 5377
+    },
+    {
+      "id": "felipe-vi-de-espana-1990",
+      "year": 1990,
+      "texto": "en Argentina, el príncipe Felipe de Borbón, heredero de la Corona Española, comienza en Buenos Aires su primera visita oficial a Iberoamérica.",
+      "textoPista": "en Argentina, el príncipe Felipe de Borbón, heredero de la Corona Española, comienza en Buenos Aires su primera visita oficial a Iberoamérica.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Daiga_Mieri%C5%86a_tiekas_ar_Sp%C4%81nijas_karali_-_53814974005_%28cropped%29-2.jpg/330px-Daiga_Mieri%C5%86a_tiekas_ar_Sp%C4%81nijas_karali_-_53814974005_%28cropped%29-2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Felipe_VI_de_Espa%C3%B1a",
+      "popularityScore": 58118
+    },
+    {
+      "id": "virgen-de-montserrat-1865",
+      "year": 1865,
+      "texto": "se termina la construcción de la Iglesia de Nuestra Señora de Montserrat, que había comenzado en 1755.",
+      "textoPista": "se termina la construcción de la Iglesia de Nuestra Señora de Montserrat, que había comenzado en 1755.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/A_Virgem_de_Mont_Serrat.jpg/330px-A_Virgem_de_Mont_Serrat.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Virgen_de_Montserrat",
+      "popularityScore": 5704
+    },
+    {
+      "id": "kiss-1975",
+      "year": 1975,
+      "texto": "la banda estadounidense Kiss presentó ALIVE!, uno de sus álbumes más legendarios y aclamados.",
+      "textoPista": "la banda estadounidense Kiss presentó ALIVE!, uno de sus álbumes más legendarios y aclamados.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Kiss_Love_Gun_era.png/330px-Kiss_Love_Gun_era.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Kiss",
+      "popularityScore": 12931
+    }
+  ]
+}
