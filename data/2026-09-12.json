@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-12",
+  "events": [
+    {
+      "id": "hong-kong-2005",
+      "year": 2005,
+      "texto": "Hong Kong abre el parque temático Hong Kong Disneyland.",
+      "textoPista": "Hong Kong abre el parque temático Hong Kong Disneyland.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/HongKongCollage1.jpg/330px-HongKongCollage1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Hong_Kong",
+      "popularityScore": 19085
+    },
+    {
+      "id": "santiago-de-chile-1973",
+      "year": 1973,
+      "texto": "en Santiago de Chile, el diario La Segunda anuncia que el cantante Víctor Jara ha fallecido de manera no violenta, y que su sepelio ha sido de carácter privado. En realidad, Jara estaba siendo torturado y sería asesinado cuatro días después.",
+      "textoPista": "en Santiago de Chile, el diario La Segunda anuncia que el cantante Víctor Jara ha fallecido de manera no violenta, y que su sepelio ha sido de carácter privado. En realidad, Jara estaba siendo torturado y sería asesinado cuatro días después.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 19411
+    },
+    {
+      "id": "comunismo-1929",
+      "year": 1929,
+      "texto": "en Paraguay, el Gobierno decreta un estado de sitio a causa del surgimiento de un movimiento comunista.",
+      "textoPista": "en Paraguay, el Gobierno decreta un estado de sitio a causa del surgimiento de un movimiento comunista.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Hammer_and_sickle_red_on_transparent.svg/langes-330px-Hammer_and_sickle_red_on_transparent.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Comunismo",
+      "popularityScore": 11194
+    },
+    {
+      "id": "katharine-hepburn-1928",
+      "year": 1928,
+      "texto": "en los Estados Unidos, la actriz Katharine Hepburn debuta en el teatro.",
+      "textoPista": "en los Estados Unidos, la actriz Katharine Hepburn debuta en el teatro.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Katharine-Hepburn-MGM.jpg/330px-Katharine-Hepburn-MGM.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Katharine_Hepburn",
+      "popularityScore": 10743
+    },
+    {
+      "id": "adolf-hitler-1919",
+      "year": 1919,
+      "texto": "Adolf Hitler se afilia al Partido Obrero Alemán.",
+      "textoPista": "Adolf Hitler se afilia al Partido Obrero Alemán.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/330px-Hitler_portrait_crop.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Adolf_Hitler",
+      "popularityScore": 75672
+    }
+  ]
+}
