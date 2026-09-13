@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-13",
+  "events": [
+    {
+      "id": "nueva-york-2007",
+      "year": 2007,
+      "texto": "en Nueva York (Estados Unidos) la ONU adopta la Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas.",
+      "textoPista": "en Nueva York (Estados Unidos) la ONU adopta la Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 34764
+    },
+    {
+      "id": "alcoy-1928",
+      "year": 1928,
+      "texto": "en Alcoy se funda el Club Deportivo Alcoyano.",
+      "textoPista": "en Alcoy se funda el Club Deportivo Alcoyano.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Bandera_d%27Alcoi.svg/langes-330px-Bandera_d%27Alcoi.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Alcoy",
+      "popularityScore": 5669
+    },
+    {
+      "id": "el-cairo-1994",
+      "year": 1994,
+      "texto": "en El Cairo (Egipto) la Conferencia sobre Población aprueba el programa demográfico de la ONU para 20 años.",
+      "textoPista": "en El Cairo (Egipto) la Conferencia sobre Población aprueba el programa demográfico de la ONU para 20 años.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg/330px-Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/El_Cairo",
+      "popularityScore": 7021
+    },
+    {
+      "id": "ciudad-de-mexico-1976",
+      "year": 1976,
+      "texto": "en Tlalpan, en el sur de la Ciudad de México, se inauguran las instalaciones del Heroico Colegio Militar, obra arquitectónica a cargo de Agustín Hernández Navarro y Manuel González Rul.",
+      "textoPista": "en Tlalpan, en el sur de la Ciudad de México, se inauguran las instalaciones del Heroico Colegio Militar, obra arquitectónica a cargo de Agustín Hernández Navarro y Manuel González Rul.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 46377
+    },
+    {
+      "id": "cuentame-como-paso-2001",
+      "year": 2001,
+      "texto": "comienza la serie más longeva de TVE: Cuéntame cómo pasó.",
+      "textoPista": "comienza la serie más longeva de TVE: Cuéntame cómo pasó.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cu%C3%A9ntame_c%C3%B3mo_pas%C3%B3_%2822.%C2%AA_temporada%29.jpg/330px-Cu%C3%A9ntame_c%C3%B3mo_pas%C3%B3_%2822.%C2%AA_temporada%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Cu%C3%A9ntame_c%C3%B3mo_pas%C3%B3",
+      "popularityScore": 14012
+    }
+  ]
+}
