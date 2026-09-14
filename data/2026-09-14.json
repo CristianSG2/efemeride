@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-14",
+  "events": [
+    {
+      "id": "vladimiro-montesinos-2000",
+      "year": 2000,
+      "texto": "en el Perú, se presenta públicamente el primer Vladivideo en donde aparece el asesor presidencial Vladimiro Montesinos sobornando a un congresista de la oposición. Se destapan así los diez años de corrupción de alto nivel que había mantenido en el poder al presidente Alberto Fujimori. En unas semanas el escándalo desembocará en la renuncia, desde Japón, del presidente.",
+      "textoPista": "en el Perú, se presenta públicamente el primer Vladivideo en donde aparece el asesor presidencial Vladimiro Montesinos sobornando a un congresista de la oposición. Se destapan así los diez años de corrupción de alto nivel que había mantenido en el poder al presidente Alberto Fujimori. En unas semanas el escándalo desembocará en la renuncia, desde Japón, del presidente.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Militar_Vladimiro_Montesinos.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Vladimiro_Montesinos",
+      "popularityScore": 8078
+    },
+    {
+      "id": "linkin-park-2010",
+      "year": 2010,
+      "texto": "lanzamiento del álbum A Thousand Suns de la banda estadounidense de rock Linkin Park.",
+      "textoPista": "lanzamiento del álbum A Thousand Suns de la banda estadounidense de rock Linkin Park.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Linkin_Park_-_From_Zero_Lead_Press_Photo_-_James_Minchin_III.jpg/330px-Linkin_Park_-_From_Zero_Lead_Press_Photo_-_James_Minchin_III.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Linkin_Park",
+      "popularityScore": 17509
+    },
+    {
+      "id": "miguel-primo-de-rivera-1923",
+      "year": 1923,
+      "texto": "en España, Miguel Primo de Rivera se convierte en dictador.",
+      "textoPista": "en España, Miguel Primo de Rivera se convierte en dictador.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Miguel_Primo_de_Rivera%2C_Kaulak_%28cropped%29.jpg/330px-Miguel_Primo_de_Rivera%2C_Kaulak_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Miguel_Primo_de_Rivera",
+      "popularityScore": 13860
+    },
+    {
+      "id": "ginebra-1937",
+      "year": 1937,
+      "texto": "en Ginebra, Suiza, el presidente del gobierno de la República Española Juan Negrín pronuncia un discurso ante la Sociedad de Naciones, denunciando la intervención de Italia y Alemania en la guerra civil española en favor del bando sublevado.",
+      "textoPista": "en Ginebra, Suiza, el presidente del gobierno de la República Española Juan Negrín pronuncia un discurso ante la Sociedad de Naciones, denunciando la intervención de Italia y Alemania en la guerra civil española en favor del bando sublevado.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Geneva_harbor_and_jet_d%27eau.jpg/330px-Geneva_harbor_and_jet_d%27eau.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ginebra",
+      "popularityScore": 7639
+    },
+    {
+      "id": "theodore-roosevelt-1901",
+      "year": 1901,
+      "texto": "en Estados Unidos, Theodore Roosevelt asume la presidencia tras el asesinato de William McKinley.",
+      "textoPista": "en Estados Unidos, Theodore Roosevelt asume la presidencia tras el asesinato de William McKinley.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg/330px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Theodore_Roosevelt",
+      "popularityScore": 11718
+    }
+  ]
+}
