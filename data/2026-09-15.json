@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-15",
+  "events": [
+    {
+      "id": "benito-mussolini-1943",
+      "year": 1943,
+      "texto": "en Italia, Benito Mussolini anuncia la creación del Partido Fascista.",
+      "textoPista": "en Italia, Benito Mussolini anuncia la creación del Partido Fascista.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Mussolini_mezzobusto.jpg/330px-Mussolini_mezzobusto.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Benito_Mussolini",
+      "popularityScore": 35450
+    },
+    {
+      "id": "nuremberg-1935",
+      "year": 1935,
+      "texto": "en Alemania, las leyes de Núremberg privan a los judíos de la ciudadanía alemana.",
+      "textoPista": "en Alemania, las leyes de Núremberg privan a los judíos de la ciudadanía alemana.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/N%C3%BCrnberg_Gostenhof_gen_Ost.jpg/330px-N%C3%BCrnberg_Gostenhof_gen_Ost.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/N%C3%BAremberg",
+      "popularityScore": 6580
+    },
+    {
+      "id": "movimiento-de-paises-no-alineados-2006",
+      "year": 2006,
+      "texto": "por segunda vez, Fidel Castro es elegido presidente del NOAL (Movimiento de Países No Alineados).",
+      "textoPista": "por segunda vez, Fidel Castro es elegido presidente del NOAL (Movimiento de Países No Alineados).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/NAM_Members.svg/langes-330px-NAM_Members.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Movimiento_de_Pa%C3%ADses_No_Alineados",
+      "popularityScore": 8810
+    },
+    {
+      "id": "foo-fighters-2017",
+      "year": 2017,
+      "texto": "la banda estadounidense Foo Fighters lanza su nuevo trabajo discográfico: Concrete and Gold.",
+      "textoPista": "la banda estadounidense Foo Fighters lanza su nuevo trabajo discográfico: Concrete and Gold.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/FoosLondonStad220618-124_%2842989552522%29.jpg/330px-FoosLondonStad220618-124_%2842989552522%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Foo_Fighters",
+      "popularityScore": 15523
+    },
+    {
+      "id": "independencia-de-mexico-1910",
+      "year": 1910,
+      "texto": "en Pachuca de Soto se inaugura la torre del centenario conocida como Reloj Monumental para conmemorar el centenario de la Independencia de México",
+      "textoPista": "en Pachuca de Soto se inaugura la torre del centenario conocida como Reloj Monumental para conmemorar el centenario de la Independencia de México",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Collage_Independencia.jpg/330px-Collage_Independencia.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Independencia_de_M%C3%A9xico",
+      "popularityScore": 13270
+    }
+  ]
+}
