@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-16",
+  "events": [
+    {
+      "id": "terremoto-de-coquimbo-de-2015-2015",
+      "year": 2015,
+      "texto": "en Chile se registra un terremoto de 8,4, acompañado de réplicas y un tsunami que dejan 22 fallecidos y numerosos damnificados.",
+      "textoPista": "en Chile se registra un terremoto de 8,4, acompañado de réplicas y un tsunami que dejan 22 fallecidos y numerosos damnificados.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Shakemap_us20003k7a.jpg/330px-Shakemap_us20003k7a.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Terremoto_de_Coquimbo_de_2015",
+      "popularityScore": 16045
+    },
+    {
+      "id": "congreso-de-la-republica-de-guatemala-2015",
+      "year": 2015,
+      "texto": "en Guatemala, el Congreso elige como vicepresidente de la República a Juan Alfonso Fuentes Soria.",
+      "textoPista": "en Guatemala, el Congreso elige como vicepresidente de la República a Juan Alfonso Fuentes Soria.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/20240530_NP_CONGRESO_DE_LA_REPUBLICA_49_ANIVERSARIO_CONSTITUCION_POLITICA_DE_LA_REPUBLICA_022.jpg/330px-20240530_NP_CONGRESO_DE_LA_REPUBLICA_49_ANIVERSARIO_CONSTITUCION_POLITICA_DE_LA_REPUBLICA_022.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Congreso_de_la_Rep%C3%BAblica_de_Guatemala",
+      "popularityScore": 1868
+    },
+    {
+      "id": "juan-domingo-peron-1955",
+      "year": 1955,
+      "texto": "en Argentina, los militares derrocan al gobierno de Juan Domingo Perón, dentro de la autodenominada \"Revolución Libertadora\".",
+      "textoPista": "en Argentina, los militares derrocan al gobierno de Juan Domingo Perón, dentro de la autodenominada \"Revolución Libertadora\".",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Juan_Per%C3%B3n_%28cropped%29.jpg/330px-Juan_Per%C3%B3n_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n",
+      "popularityScore": 28665
+    },
+    {
+      "id": "nintendo-3ds-2020",
+      "year": 2020,
+      "texto": "La familia de videoconsolas portátiles Nintendo 3DS cesa su producción tras 9 años de actividad.",
+      "textoPista": "La familia de videoconsolas portátiles Nintendo 3DS cesa su producción tras 9 años de actividad.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/330px-Nintendo-3DS-AquaOpen.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nintendo_3DS",
+      "popularityScore": 3475
+    },
+    {
+      "id": "la-plata-1976",
+      "year": 1976,
+      "texto": "en La Plata (Argentina) sucede la Noche de los Lápices; varios estudiantes de secundaria que luchaban por la implementación del boleto estudiantil gratuito son secuestrados, torturados y asesinados por agentes de la dictadura.",
+      "textoPista": "en La Plata (Argentina) sucede la Noche de los Lápices; varios estudiantes de secundaria que luchaban por la implementación del boleto estudiantil gratuito son secuestrados, torturados y asesinados por agentes de la dictadura.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Catedral_platense.jpg/330px-Catedral_platense.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/La_Plata",
+      "popularityScore": 9368
+    }
+  ]
+}
