@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-17",
+  "events": [
+    {
+      "id": "asamblea-general-de-las-naciones-unidas-1991",
+      "year": 1991,
+      "texto": "la Asamblea General de las Naciones Unidas admite a Corea del Norte, Corea del Sur, Micronesia, las Islas Marshall, Estonia, Letonia y Lituania como miembros de la ONU.",
+      "textoPista": "la Asamblea General de las Naciones Unidas admite a Corea del Norte, Corea del Sur, Micronesia, las Islas Marshall, Estonia, Letonia y Lituania como miembros de la ONU.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Deputy_Prime_Minister_Oliver_Dowden_visits_the_USA_and_UNGA._%2853207534110%29.jpg/330px-Deputy_Prime_Minister_Oliver_Dowden_visits_the_USA_and_UNGA._%2853207534110%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Asamblea_General_de_las_Naciones_Unidas",
+      "popularityScore": 1433
+    },
+    {
+      "id": "anwar-el-sadat-1978",
+      "year": 1978,
+      "texto": "en los Estados Unidos, el presidente egipcio Anwar el-Sadat y el primer ministro israelí Menahem Begin firman los acuerdos de Camp David.",
+      "textoPista": "en los Estados Unidos, el presidente egipcio Anwar el-Sadat y el primer ministro israelí Menahem Begin firman los acuerdos de Camp David.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Anwar_Sadat_cropped.jpg/330px-Anwar_Sadat_cropped.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Anwar_el-Sadat",
+      "popularityScore": 2838
+    },
+    {
+      "id": "rockstar-games-2013",
+      "year": 2013,
+      "texto": "Rockstar Games lanza el videojuego Grand Theft Auto V para PlayStation 3 y Xbox 360.",
+      "textoPista": "Rockstar Games lanza el videojuego Grand Theft Auto V para PlayStation 3 y Xbox 360.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/langes-330px-Rockstar_Games_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rockstar_Games",
+      "popularityScore": 13496
+    },
+    {
+      "id": "guerras-civiles-argentinas-1861",
+      "year": 1861,
+      "texto": "en el marco de la Guerra civil argentina, las fuerzas de la provincia de Buenos Aires, al mando de Mitre vencen a las fuerzas nacionales de Urquiza en la batalla de Pavón.",
+      "textoPista": "en el marco de la Guerra civil argentina, las fuerzas de la provincia de Buenos Aires, al mando de Mitre vencen a las fuerzas nacionales de Urquiza en la batalla de Pavón.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Guerra_Civil.jpg/330px-Guerra_Civil.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerras_civiles_argentinas",
+      "popularityScore": 2897
+    },
+    {
+      "id": "primera-guerra-sino-japonesa-1894",
+      "year": 1894,
+      "texto": "en el marco de la primera guerra sino-japonesa, los japoneses vencen a los chinos en la batalla naval del río Yalu.",
+      "textoPista": "en el marco de la primera guerra sino-japonesa, los japoneses vencen a los chinos en la batalla naval del río Yalu.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Battle_of_Phungdo.jpg/330px-Battle_of_Phungdo.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_guerra_sino-japonesa",
+      "popularityScore": 1896
+    }
+  ]
+}
