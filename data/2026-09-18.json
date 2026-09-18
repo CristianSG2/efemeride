@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-18",
+  "events": [
+    {
+      "id": "buenos-aires-2006",
+      "year": 2006,
+      "texto": "en Buenos Aires (Argentina) desaparece Jorge Julio López, uno de los principales testigos en el juicio contra el excomisario Miguel Etchecolatz, quien estaba acusado por homicidios, torturas y desapariciones cometidas durante la dictadura cívicomilitar (1976-1983).",
+      "textoPista": "en Buenos Aires (Argentina) desaparece Jorge Julio López, uno de los principales testigos en el juicio contra el excomisario Miguel Etchecolatz, quien estaba acusado por homicidios, torturas y desapariciones cometidas durante la dictadura cívicomilitar (▪▪▪▪-▪▪▪▪).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36339
+    },
+    {
+      "id": "manchuria-1931",
+      "year": 1931,
+      "texto": "Japón invade Manchuria.",
+      "textoPista": "Japón invade Manchuria.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Northeast_China.svg/langes-330px-Northeast_China.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Manchuria",
+      "popularityScore": 5417
+    },
+    {
+      "id": "adolf-hitler-1943",
+      "year": 1943,
+      "texto": "en el marco de la Segunda Guerra Mundial, Adolf Hitler ordena la deportación de los judíos daneses.",
+      "textoPista": "en el marco de la Segunda Guerra Mundial, Adolf Hitler ordena la deportación de los judíos daneses.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/330px-Hitler_portrait_crop.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Adolf_Hitler",
+      "popularityScore": 75672
+    },
+    {
+      "id": "canal-de-la-mancha-1928",
+      "year": 1928,
+      "texto": "Juan de la Cierva hace su primer vuelo por el Canal de la Mancha a bordo de su autogiro.",
+      "textoPista": "Juan de la Cierva hace su primer vuelo por el Canal de la Mancha a bordo de su autogiro.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/English_Channel_from_Pointe_du_Hoc.jpg/330px-English_Channel_from_Pointe_du_Hoc.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Canal_de_la_Mancha",
+      "popularityScore": 7930
+    },
+    {
+      "id": "lima-1904",
+      "year": 1904,
+      "texto": "en Lima (Perú) se funda el Lawn Tenis Club.",
+      "textoPista": "en Lima (Perú) se funda el Lawn Tenis Club.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/330px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lima",
+      "popularityScore": 18511
+    }
+  ]
+}
