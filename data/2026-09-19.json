@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-19",
+  "events": [
+    {
+      "id": "logrono-1880",
+      "year": 1880,
+      "texto": "en Logroño (España) se inaugura el Teatro Bretón de los Herreros.",
+      "textoPista": "en Logroño (España) se inaugura el Teatro Bretón de los Herreros.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Bandera_Logro%C3%B1o.svg/langes-330px-Bandera_Logro%C3%B1o.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Logro%C3%B1o",
+      "popularityScore": 12877
+    },
+    {
+      "id": "santiago-de-chile-1891",
+      "year": 1891,
+      "texto": "en Santiago de Chile, el presidente de la República, José Manuel Balmaceda, se suicida cuando se encontraba refugiado en la embajada argentina.",
+      "textoPista": "en Santiago de Chile, el presidente de la República, José Manuel Balmaceda, se suicida cuando se encontraba refugiado en la embajada argentina.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 19411
+    },
+    {
+      "id": "milan-1926",
+      "year": 1926,
+      "texto": "en Milán (Italia) se inaugura el estadio Giuseppe Meazza con un encuentro entre AC Milan e Inter de Milán.",
+      "textoPista": "en Milán (Italia) se inaugura el estadio Giuseppe Meazza con un encuentro entre AC Milan e Inter de Milán.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Milan.Proper.Wikipedia.Image.png/330px-Milan.Proper.Wikipedia.Image.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mil%C3%A1n",
+      "popularityScore": 13195
+    },
+    {
+      "id": "nueva-york-1960",
+      "year": 1960,
+      "texto": "en la ciudad de Nueva York (Estados Unidos), Fidel Castro y su delegación abandonan el hotel Shelburne debido a la falta de garantías para su seguridad, y se instalan en el hotel Theresa, en el barrio negro de Harlem.",
+      "textoPista": "en la ciudad de Nueva York (Estados Unidos), Fidel Castro y su delegación abandonan el hotel Shelburne debido a la falta de garantías para su seguridad, y se instalan en el hotel Theresa, en el barrio negro de Harlem.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 34764
+    },
+    {
+      "id": "theodore-kaczynski-1995",
+      "year": 1995,
+      "texto": "el terrorista estadounidense Unabomber consigue que su manifiesto, intitulado «La sociedad industrial y su futuro», sea publicado en el Washington Post y el New York Times.",
+      "textoPista": "el terrorista estadounidense Unabomber consigue que su manifiesto, intitulado «La sociedad industrial y su futuro», sea publicado en el Washington Post y el New York Times.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ted_Kaczynski_2_%28cropped%29.jpg/330px-Ted_Kaczynski_2_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Theodore_Kaczynski",
+      "popularityScore": 20992
+    }
+  ]
+}
