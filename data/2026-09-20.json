@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-20",
+  "events": [
+    {
+      "id": "ciudad-de-mexico-1985",
+      "year": 1985,
+      "texto": "en la Ciudad de México se registra una réplica fuerte del terremoto de México de 1985, ocurrido el día anterior.",
+      "textoPista": "en la Ciudad de México se registra una réplica fuerte del terremoto de México de ▪▪▪▪, ocurrido el día anterior.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 46377
+    },
+    {
+      "id": "partido-de-la-revolucion-democratica-2024",
+      "year": 2024,
+      "texto": "En México, oficialmente desaparece a nivel nacional la organización de izquierda Partido de la Revolución Democrática (PRD), tras 35 años de historia y de ser una de las primeras alternancias políticas en México en casi un siglo de historia.",
+      "textoPista": "En México, oficialmente desaparece a nivel nacional la organización de izquierda Partido de la Revolución Democrática (PRD), tras 35 años de historia y de ser una de las primeras alternancias políticas en México en casi un siglo de historia.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/PRD_logo_%28Mexico%29.svg/langes-330px-PRD_logo_%28Mexico%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Partido_de_la_Revoluci%C3%B3n_Democr%C3%A1tica",
+      "popularityScore": 6604
+    },
+    {
+      "id": "seul-1986",
+      "year": 1986,
+      "texto": "en Seúl (Corea del Sur) comienzan los X Juegos Asiáticos.",
+      "textoPista": "en Seúl (Corea del Sur) comienzan los X Juegos Asiáticos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg/330px-%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Se%C3%BAl",
+      "popularityScore": 9014
+    },
+    {
+      "id": "javier-zanetti-2011",
+      "year": 2011,
+      "texto": "Javier Zanetti se convierte en el jugador con más partidos disputados para el club italiano Inter de Milán.",
+      "textoPista": "Javier Zanetti se convierte en el jugador con más partidos disputados para el club italiano Inter de Milán.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Metalist-Inter_%282%29.jpg/330px-Metalist-Inter_%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Javier_Zanetti",
+      "popularityScore": 9673
+    },
+    {
+      "id": "holocausto-1942",
+      "year": 1942,
+      "texto": "en Letichiv (Ucrania) comienza el Holocausto.",
+      "textoPista": "en Letichiv (Ucrania) comienza el Holocausto.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mass_Grave_at_Bergen-Belsen_concentration_camp_-_Fritz_Klein_-_IWM_BU4260.jpg/330px-Mass_Grave_at_Bergen-Belsen_concentration_camp_-_Fritz_Klein_-_IWM_BU4260.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Holocausto",
+      "popularityScore": 17208
+    }
+  ]
+}
