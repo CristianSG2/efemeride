@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-21",
+  "events": [
+    {
+      "id": "mendoza-argentina-1979",
+      "year": 1979,
+      "texto": "en Mendoza (Argentina) con rumbo a Los Andes (Chile) sale el último tren de pasajeros del Ferrocarril Trasandino.",
+      "textoPista": "en Mendoza (Argentina) con rumbo a Los Andes (Chile) sale el último tren de pasajeros del Ferrocarril Trasandino.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Siguiendo_al_Libertador.jpg/330px-Siguiendo_al_Libertador.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mendoza_(Argentina)",
+      "popularityScore": 7957
+    },
+    {
+      "id": "buenos-aires-1979",
+      "year": 1979,
+      "texto": "en Buenos Aires la dictadura cívico-militar argentina secuestraba a la guerrillera montonera Adriana Lesgart que sería víctima de homicidio en diciembre de 1980.",
+      "textoPista": "en Buenos Aires la dictadura cívico-militar argentina secuestraba a la guerrillera montonera Adriana Lesgart que sería víctima de homicidio en diciembre de ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36339
+    },
+    {
+      "id": "londres-1937",
+      "year": 1937,
+      "texto": "en Londres se publica la novela El hobbit, de J. R. R. Tolkien.",
+      "textoPista": "en Londres se publica la novela El hobbit, de J. R. R. Tolkien.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 21027
+    },
+    {
+      "id": "buenos-aires-1884",
+      "year": 1884,
+      "texto": "en la esquina de las calles Medrano y Rivadavia (en el porteño barrio de Almagro) se inaugura la tradicional confitería Las Violetas.",
+      "textoPista": "en la esquina de las calles Medrano y Rivadavia (en el porteño barrio de Almagro) se inaugura la tradicional confitería Las Violetas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36339
+    },
+    {
+      "id": "valladolid-1940",
+      "year": 1940,
+      "texto": "explota un polvorín del ejército de tierra español provocando más de un centenar de muertos al sur de Valladolid.",
+      "textoPista": "explota un polvorín del ejército de tierra español provocando más de un centenar de muertos al sur de Valladolid.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandera_valladolid.svg/langes-330px-Bandera_valladolid.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Valladolid",
+      "popularityScore": 20034
+    }
+  ]
+}
