@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-22",
+  "events": [
+    {
+      "id": "santiago-de-chile-1991",
+      "year": 1991,
+      "texto": "en Santiago de Chile los presidentes Patricio Aylwin (de Chile) y Carlos Salinas de Gortari (de México), firman un Tratado de Libre Comercio, que da paso a una desigualdad social entre ricos y pobres sin precedentes en los 2 países.",
+      "textoPista": "en Santiago de Chile los presidentes Patricio Aylwin (de Chile) y Carlos Salinas de Gortari (de México), firman un Tratado de Libre Comercio, que da paso a una desigualdad social entre ricos y pobres sin precedentes en los 2 países.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 19411
+    },
+    {
+      "id": "salvador-allende-1972",
+      "year": 1972,
+      "texto": "en Chile, el presidente socialista Salvador Allende nacionaliza la empresa multinacional ITT.",
+      "textoPista": "en Chile, el presidente socialista Salvador Allende nacionaliza la empresa multinacional ITT.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Salvador_Allende",
+      "popularityScore": 18804
+    },
+    {
+      "id": "santo-domingo-1969",
+      "year": 1969,
+      "texto": "en Santo Domingo (República Dominicana) inicia sus transmisiones el programa diario de variedades El show del mediodía.",
+      "textoPista": "en Santo Domingo (República Dominicana) inicia sus transmisiones el programa diario de variedades El show del mediodía.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SantoDomingoedit.JPG/330px-SantoDomingoedit.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santo_Domingo",
+      "popularityScore": 11566
+    },
+    {
+      "id": "abraham-lincoln-1862",
+      "year": 1862,
+      "texto": "en Estados Unidos, el presidente Abraham Lincoln pronuncia su discurso de emancipación.",
+      "textoPista": "en Estados Unidos, el presidente Abraham Lincoln pronuncia su discurso de emancipación.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/330px-Abraham_Lincoln_O-77_matte_collodion_print.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Abraham_Lincoln",
+      "popularityScore": 24867
+    },
+    {
+      "id": "victoria-del-reino-unido-1896",
+      "year": 1896,
+      "texto": "en Inglaterra, la reina Victoria supera a su abuelo Jorge III como el monarca más longevo de la historia del país.",
+      "textoPista": "en Inglaterra, la reina Victoria supera a su abuelo Jorge III como el monarca más longevo de la historia del país.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/330px-Queen_Victoria_by_Bassano.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Victoria_del_Reino_Unido",
+      "popularityScore": 36983
+    }
+  ]
+}
