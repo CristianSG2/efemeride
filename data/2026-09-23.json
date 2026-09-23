@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-23",
+  "events": [
+    {
+      "id": "android-2008",
+      "year": 2008,
+      "texto": "lanzamiento inicial del sistema operativo Android para teléfonos inteligentes.",
+      "textoPista": "lanzamiento inicial del sistema operativo Android para teléfonos inteligentes.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Android_Gingerbread_Easter_egg.jpg/330px-Android_Gingerbread_Easter_egg.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Android",
+      "popularityScore": 9304
+    },
+    {
+      "id": "nasa-1999",
+      "year": 1999,
+      "texto": "la NASA anuncia que ha perdido el contacto con la sonda espacial Mars Climate Orbiter.",
+      "textoPista": "la NASA anuncia que ha perdido el contacto con la sonda espacial Mars Climate Orbiter.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/langes-330px-NASA_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/NASA",
+      "popularityScore": 7641
+    },
+    {
+      "id": "puerto-rico-1911",
+      "year": 1911,
+      "texto": "en Puerto Rico se funda la Universidad de Puerto Rico - Recinto Universitario de Mayagüez.",
+      "textoPista": "en Puerto Rico se funda la Universidad de Puerto Rico - Recinto Universitario de Mayagüez.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg/langes-330px-Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puerto_Rico",
+      "popularityScore": 34393
+    },
+    {
+      "id": "juan-domingo-peron-1973",
+      "year": 1973,
+      "texto": "en Argentina, Juan Domingo Perón —quien fue presidente constitucional entre 1946 y 1955, y quedó proscrito desde el golpe de Estado que lo derrocó en 1955— es electo presidente con el 62 % de los votos.",
+      "textoPista": "en Argentina, Juan Domingo Perón —quien fue presidente constitucional entre ▪▪▪▪ y ▪▪▪▪, y quedó proscrito desde el golpe de Estado que lo derrocó en ▪▪▪▪— es electo presidente con el 62 % de los votos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Juan_Per%C3%B3n_%28cropped%29.jpg/330px-Juan_Per%C3%B3n_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n",
+      "popularityScore": 28665
+    },
+    {
+      "id": "leon-tolstoi-1862",
+      "year": 1862,
+      "texto": "en Rusia, el conde León Tolstói se casa con Sofía Andrievna Bers. A lo largo de 27 años, tuvieron 13 hijos.",
+      "textoPista": "en Rusia, el conde León Tolstói se casa con Sofía Andrievna Bers. A lo largo de 27 años, tuvieron 13 hijos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/330px-L.N.Tolstoy_Prokudin-Gorsky.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i",
+      "popularityScore": 19380
+    }
+  ]
+}
