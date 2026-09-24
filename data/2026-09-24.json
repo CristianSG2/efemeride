@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-24",
+  "events": [
+    {
+      "id": "red-hot-chili-peppers-1991",
+      "year": 1991,
+      "texto": "se publica el disco Blood Sugar Sex Magik de Red Hot Chili Peppers.",
+      "textoPista": "se publica el disco Blood Sugar Sex Magik de Red Hot Chili Peppers.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Red_Hot_Chili_Peppers_logo.png/330px-Red_Hot_Chili_Peppers_logo.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Red_Hot_Chili_Peppers",
+      "popularityScore": 13740
+    },
+    {
+      "id": "universo-cinematografico-de-marvel-2013",
+      "year": 2013,
+      "texto": "hizo su estreno Agents of S.H.I.E.L.D., la primera serie televisiva del Universo Cinematográfico de Marvel.",
+      "textoPista": "hizo su estreno Agents of S.H.I.E.L.D., la primera serie televisiva del Universo Cinematográfico de Marvel.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Marvel_Cinematic_Universe.png/330px-Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Universo_cinematogr%C3%A1fico_de_Marvel",
+      "popularityScore": 79985
+    },
+    {
+      "id": "ciudad-de-mexico-1957",
+      "year": 1957,
+      "texto": "en la Ciudad de México, el presidente Adolfo Ruiz Cortines y el regente de la ciudad Ernesto P. Uruchurtu, inauguran al público el Mercado de la Merced.",
+      "textoPista": "en la Ciudad de México, el presidente Adolfo Ruiz Cortines y el regente de la ciudad Ernesto P. Uruchurtu, inauguran al público el Mercado de la Merced.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 46377
+    },
+    {
+      "id": "ciudad-de-mexico-1982",
+      "year": 1982,
+      "texto": "en la Ciudad de México, se inaugura el Museo Nacional de Culturas Populares.",
+      "textoPista": "en la Ciudad de México, se inaugura el Museo Nacional de Culturas Populares.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 46377
+    },
+    {
+      "id": "elvis-presley-1957",
+      "year": 1957,
+      "texto": "Elvis Presley publica el sencillo \"Jailhouse rock\", banda sonora de la película Jailhouse Rock protagonizada por él mismo.",
+      "textoPista": "Elvis Presley publica el sencillo \"Jailhouse rock\", banda sonora de la película Jailhouse Rock protagonizada por él mismo.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Elvis_Presley",
+      "popularityScore": 44459
+    }
+  ]
+}
