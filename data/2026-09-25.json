@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-25",
+  "events": [
+    {
+      "id": "ginebra-1868",
+      "year": 1868,
+      "texto": "en Ginebra (Suiza) se crea la Alianza Internacional de la Democracia Socialista, de inspiración anarquista.",
+      "textoPista": "en Ginebra (Suiza) se crea la Alianza Internacional de la Democracia Socialista, de inspiración anarquista.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Geneva_harbor_and_jet_d%27eau.jpg/330px-Geneva_harbor_and_jet_d%27eau.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ginebra",
+      "popularityScore": 7639
+    },
+    {
+      "id": "jorge-gonzalez-cantautor-2003",
+      "year": 2003,
+      "texto": "en una polémica conferencia de prensa, Jorge González ―entonces cantante de la banda chilena Los Prisioneros― arroja al suelo los micrófonos, grabadoras y vasos con agua, tras ofuscarse por una pregunta relacionada con la salida de su excompañero Claudio Narea de la banda.",
+      "textoPista": "en una polémica conferencia de prensa, Jorge González ―entonces cantante de la banda chilena Los Prisioneros― arroja al suelo los micrófonos, grabadoras y vasos con agua, tras ofuscarse por una pregunta relacionada con la salida de su excompañero Claudio Narea de la banda.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jorge_Gonz%C3%A1lez_%288217792302%29_%28cropped%29.jpg/330px-Jorge_Gonz%C3%A1lez_%288217792302%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Jorge_Gonz%C3%A1lez_(cantautor)",
+      "popularityScore": 8676
+    },
+    {
+      "id": "congreso-de-los-diputados-2012",
+      "year": 2012,
+      "texto": "en Madrid, España tiene lugar una gran concentración de protesta ante el edificio del Congreso de los Diputados convocada bajo el lema Ocupa el Congreso (que más tarde se llamaría Rodea el Congreso).  La policía tendría que actuar para disolver a los manifestantes, produciéndose 35 detenciones, y resultando heridas 64 personas (28 de los cuales necesitaron hospitalización).",
+      "textoPista": "en Madrid, España tiene lugar una gran concentración de protesta ante el edificio del Congreso de los Diputados convocada bajo el lema Ocupa el Congreso (que más tarde se llamaría Rodea el Congreso).  La policía tendría que actuar para disolver a los manifestantes, produciéndose 35 detenciones, y resultando heridas 64 personas (28 de los cuales necesitaron hospitalización).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Solemne_apertura_de_la_XIV_Legislatura_04.jpg/330px-Solemne_apertura_de_la_XIV_Legislatura_04.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Congreso_de_los_Diputados",
+      "popularityScore": 7862
+    },
+    {
+      "id": "ford-motor-company-1926",
+      "year": 1926,
+      "texto": "en los Estados Unidos, Henry Ford anuncia la jornada laboral de ocho horas y la semana laboral de cinco días, en su empresa, la Ford Motor Company.",
+      "textoPista": "en los Estados Unidos, Henry Ford anuncia la jornada laboral de ocho horas y la semana laboral de cinco días, en su empresa, la Ford Motor Company.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/FordGlassHouse.jpg/330px-FordGlassHouse.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ford_Motor_Company",
+      "popularityScore": 6304
+    },
+    {
+      "id": "california-1890",
+      "year": 1890,
+      "texto": "en California (Estados Unidos) inicia sus servicios el parque nacional de Yosemite, el primer parque nacional moderno.",
+      "textoPista": "en California (Estados Unidos) inicia sus servicios el parque nacional de Yosemite, el primer parque nacional moderno.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/California_in_United_States.svg/langes-330px-California_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/California",
+      "popularityScore": 21044
+    }
+  ]
+}
