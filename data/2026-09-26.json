@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-26",
+  "events": [
+    {
+      "id": "hong-kong-1984",
+      "year": 1984,
+      "texto": "China y el Reino Unido acuerdan la cesión de la soberanía británica sobre Hong Kong en 1997.",
+      "textoPista": "China y el Reino Unido acuerdan la cesión de la soberanía británica sobre Hong Kong en ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/HongKongCollage1.jpg/330px-HongKongCollage1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Hong_Kong",
+      "popularityScore": 19085
+    },
+    {
+      "id": "chicago-1960",
+      "year": 1960,
+      "texto": "en Chicago (Estados Unidos) se lleva a cabo el primer debate televisado de la historia, entre los candidatos presidenciales Richard Nixon y John F. Kennedy.",
+      "textoPista": "en Chicago (Estados Unidos) se lleva a cabo el primer debate televisado de la historia, entre los candidatos presidenciales Richard Nixon y John F. Kennedy.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/330px-Chicago_River_ferry_b.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Chicago",
+      "popularityScore": 11753
+    },
+    {
+      "id": "abbey-road-album-1969",
+      "year": 1969,
+      "texto": "en Reino Unido se publica el último álbum de la banda británica The Beatles Abbey Road.",
+      "textoPista": "en Reino Unido se publica el último álbum de la banda británica The Beatles Abbey Road.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Beatles_Abbey_Road_album_cover.jpg/330px-The_Beatles_Abbey_Road_album_cover.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Abbey_Road_(%C3%A1lbum)",
+      "popularityScore": 6825
+    },
+    {
+      "id": "alex-ubago-2006",
+      "year": 2006,
+      "texto": "el cantautor español Álex Ubago lanza al mercado su tercer álbum de estudio como solista titulado Aviones de cristal.",
+      "textoPista": "el cantautor español Álex Ubago lanza al mercado su tercer álbum de estudio como solista titulado Aviones de cristal.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/AlexUbago.jpg/330px-AlexUbago.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/%C3%81lex_Ubago",
+      "popularityScore": 7601
+    },
+    {
+      "id": "albert-einstein-1905",
+      "year": 1905,
+      "texto": "se publica el primer artículo de Albert Einstein sobre la Teoría de la Relatividad Especial.",
+      "textoPista": "se publica el primer artículo de Albert Einstein sobre la Teoría de la Relatividad Especial.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/330px-Albert_Einstein_Head_cleaned.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Albert_Einstein",
+      "popularityScore": 46414
+    }
+  ]
+}
