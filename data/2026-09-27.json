@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-27",
+  "events": [
+    {
+      "id": "rammstein-2004",
+      "year": 2004,
+      "texto": "la banda alemana Rammstein lanza su cuarto disco de estudio, titulado Reise, Reise.",
+      "textoPista": "la banda alemana Rammstein lanza su cuarto disco de estudio, titulado Reise, Reise.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Rammstein_logos_joined.svg/langes-330px-Rammstein_logos_joined.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rammstein",
+      "popularityScore": 9928
+    },
+    {
+      "id": "internet-1998",
+      "year": 1998,
+      "texto": "en Estados Unidos empieza a funcionar en Internet el motor de búsqueda de Google.",
+      "textoPista": "en Estados Unidos empieza a funcionar en Internet el motor de búsqueda de Google.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/330px-Internet_map_1024.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Internet",
+      "popularityScore": 14721
+    },
+    {
+      "id": "puerto-rico-2005",
+      "year": 2005,
+      "texto": "el cantante puertorriqueño Chayanne, lanza al mercado su 12° álbum de estudio, titulado Cautivo.",
+      "textoPista": "el cantante puertorriqueño Chayanne, lanza al mercado su 12° álbum de estudio, titulado Cautivo.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg/langes-330px-Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puerto_Rico",
+      "popularityScore": 34393
+    },
+    {
+      "id": "buenos-aires-1928",
+      "year": 1928,
+      "texto": "en Buenos Aires (Argentina) se crea la línea 59 de colectivos, la primera línea de Latinoamérica.",
+      "textoPista": "en Buenos Aires (Argentina) se crea la línea 59 de colectivos, la primera línea de Latinoamérica.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 36339
+    },
+    {
+      "id": "teresa-de-jesus-1970",
+      "year": 1970,
+      "texto": "en la Ciudad del Vaticano, el papa Pablo VI declara a santa Teresa de Ávila (doctora honoris causa por la Universidad de Salamanca) como la primera mujer Doctora de la Iglesia.",
+      "textoPista": "en la Ciudad del Vaticano, el papa Pablo VI declara a santa Teresa de Ávila (doctora honoris causa por la Universidad de Salamanca) como la primera mujer Doctora de la Iglesia.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Teresa_de_Jes%C3%BAs_%28cropped%29.jpg/330px-Teresa_de_Jes%C3%BAs_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Teresa_de_Jes%C3%BAs",
+      "popularityScore": 15305
+    }
+  ]
+}
