@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-28",
+  "events": [
+    {
+      "id": "isabel-ii-de-espana-1868",
+      "year": 1868,
+      "texto": "la batalla de Alcolea provoca que la reina Isabel II de España tenga que huir a Francia.",
+      "textoPista": "la batalla de Alcolea provoca que la reina Isabel II de España tenga que huir a Francia.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Isabel_de_Borb%C3%B3n_y_Borb%C3%B3n-Dos_Sicilias.jpg/330px-Isabel_de_Borb%C3%B3n_y_Borb%C3%B3n-Dos_Sicilias.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Isabel_II_de_Espa%C3%B1a",
+      "popularityScore": 22842
+    },
+    {
+      "id": "peronismo-1966",
+      "year": 1966,
+      "texto": "en Argentina, 18 estudiantes, obreros, sindicalistas y periodistas peronistas ―cuya edad promedio era de 22 años―, secuestran un avión Douglas DC-4 de Aerolíneas Argentinas y lo desvía a las islas Malvinas (Operativo Cóndor).",
+      "textoPista": "en Argentina, 18 estudiantes, obreros, sindicalistas y periodistas peronistas ―cuya edad promedio era de 22 años―, secuestran un avión Douglas DC-4 de Aerolíneas Argentinas y lo desvía a las islas Malvinas (Operativo Cóndor).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Eva%26Juan.jpg/330px-Eva%26Juan.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Peronismo",
+      "popularityScore": 9632
+    },
+    {
+      "id": "ciudad-de-mexico-2019",
+      "year": 2019,
+      "texto": "En la Ciudad de México, un accidente en una montaña rusa causa 2 muertos y 2 heridos y provocaría el cierre de La Feria de Chapultepec en días posteriores.",
+      "textoPista": "En la Ciudad de México, un accidente en una montaña rusa causa 2 muertos y 2 heridos y provocaría el cierre de La Feria de Chapultepec en días posteriores.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 46377
+    },
+    {
+      "id": "cantabria-1907",
+      "year": 1907,
+      "texto": "en Cantabria se funda la Real Sociedad Gimnástica de Torrelavega, decano del fútbol cántabro.",
+      "textoPista": "en Cantabria se funda la Real Sociedad Gimnástica de Torrelavega, decano del fútbol cántabro.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cantabria_in_Spain_%28including_Canarias%29.svg/langes-330px-Cantabria_in_Spain_%28including_Canarias%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Cantabria",
+      "popularityScore": 17869
+    },
+    {
+      "id": "jerusalen-2000",
+      "year": 2000,
+      "texto": "en Jerusalén, la visita de Ariel Sharón a la explanada de la mezquita de Al-Aqsa da inicio a la Segunda Intifada (levantamiento).",
+      "textoPista": "en Jerusalén, la visita de Ariel Sharón a la explanada de la mezquita de Al-Aqsa da inicio a la Segunda Intifada (levantamiento).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Collage_Jerusalem.jpg/330px-Collage_Jerusalem.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Jerusal%C3%A9n",
+      "popularityScore": 15120
+    }
+  ]
+}
