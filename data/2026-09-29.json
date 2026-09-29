@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-29",
+  "events": [
+    {
+      "id": "la-habana-1872",
+      "year": 1872,
+      "texto": "en La Habana (Cuba) se inaugura el Cementerio de Colón.",
+      "textoPista": "en La Habana (Cuba) se inaugura el Cementerio de Colón.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/HavanaMontage.png/330px-HavanaMontage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/La_Habana",
+      "popularityScore": 6418
+    },
+    {
+      "id": "caracas-1963",
+      "year": 1963,
+      "texto": "cerca de Caracas es asaltado el tren El Encanto, acción revolucionaria en la que se aseguraba que había participado el entonces diputado del PCV (Partido Comunista de Venezuela), Teodoro Petkoff.",
+      "textoPista": "cerca de Caracas es asaltado el tren El Encanto, acción revolucionaria en la que se aseguraba que había participado el entonces diputado del PCV (Partido Comunista de Venezuela), Teodoro Petkoff.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_Caracas.jpg/330px-Collage_Caracas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Caracas",
+      "popularityScore": 10072
+    },
+    {
+      "id": "rosario-argentina-1893",
+      "year": 1893,
+      "texto": "en la isla El Espinillo (a un kilómetro frente a la ciudad de Rosario, sobre el río Paraná), se libra el combate naval de El Espinillo entre fuerzas leales al Gobierno y sublevados de la Revolución radical de 1893.",
+      "textoPista": "en la isla El Espinillo (a un kilómetro frente a la ciudad de Rosario, sobre el río Paraná), se libra el combate naval de El Espinillo entre fuerzas leales al Gobierno y sublevados de la Revolución radical de ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg/330px-Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rosario_(Argentina)",
+      "popularityScore": 12921
+    },
+    {
+      "id": "rafael-leonidas-trujillo-1937",
+      "year": 1937,
+      "texto": "en República Dominicana, el dictador Rafael Leónidas Trujillo (45) perpetra el segundo día de la masacre del «perejil» (entre el 28 de septiembre y el 8 de octubre de 1937) para solucionar el «problema haitiano». El ejército dominicano ejecuta (con armas provistas por el Gobierno de Estados Unidos) a todos los hombres, mujeres y niños haitianos residentes en la frontera con Haití. Como método para diferenciar a los haitianos de los dominicanos, los asesinos mostraban un manojo de perejil a sus víctimas y las obligaban a nombrarlo. Si lo llamaban «pesíl» (en francés) eran haitianos e inmediatamente fusilados. El presidente estadounidense Franklin Roosevelt le prestó 750 000 dólares estadounidenses a Trujillo para pagar indemnizaciones. Sin embargo, Trujillo solo repartió 1340 dólares a 67 000 familias haitianas (apenas 2 centavos de dólar a cada familia sobreviviente).",
+      "textoPista": "en República Dominicana, el dictador Rafael Leónidas Trujillo (45) perpetra el segundo día de la masacre del «perejil» (entre el 28 de septiembre y el 8 de octubre de ▪▪▪▪) para solucionar el «problema haitiano». El ejército dominicano ejecuta (con armas provistas por el Gobierno de Estados Unidos) a todos los hombres, mujeres y niños haitianos residentes en la frontera con Haití. Como método para diferenciar a los haitianos de los dominicanos, los asesinos mostraban un manojo de perejil a sus víctimas y las obligaban a nombrarlo. Si lo llamaban «pesíl» (en francés) eran haitianos e inmediatamente fusilados. El presidente estadounidense Franklin Roosevelt le prestó 750 000 dólares estadounidenses a Trujillo para pagar indemnizaciones. Sin embargo, Trujillo solo repartió 1340 dólares a 67 000 familias haitianas (apenas 2 centavos de dólar a cada familia sobreviviente).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Rafael_L._Trujillo_en_la_silla_presidencial_%28cropped%29.jpg/330px-Rafael_L._Trujillo_en_la_silla_presidencial_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rafael_Le%C3%B3nidas_Trujillo",
+      "popularityScore": 11587
+    },
+    {
+      "id": "valladolid-1864",
+      "year": 1864,
+      "texto": "en Valladolid (España) se inaugura el Teatro Calderón.",
+      "textoPista": "en Valladolid (España) se inaugura el Teatro Calderón.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandera_valladolid.svg/langes-330px-Bandera_valladolid.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Valladolid",
+      "popularityScore": 20034
+    }
+  ]
+}
