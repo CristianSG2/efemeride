@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-30",
+  "events": [
+    {
+      "id": "programa-apolo-1977",
+      "year": 1977,
+      "texto": "en los Estados Unidos, el programa Apolo tiene que cancelarse, debido a los problemas financieros.",
+      "textoPista": "en los Estados Unidos, el programa Apolo tiene que cancelarse, debido a los problemas financieros.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Apollo_program.svg/langes-330px-Apollo_program.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Programa_Apolo",
+      "popularityScore": 16205
+    },
+    {
+      "id": "londres-1888",
+      "year": 1888,
+      "texto": "en Londres (Inglaterra), Jack el Destripador mata a Elizabeth Stride y Catherine Eddowes (su tercera y cuarta víctima).",
+      "textoPista": "en Londres (Inglaterra), Jack el Destripador mata a Elizabeth Stride y Catherine Eddowes (su tercera y cuarta víctima).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 21027
+    },
+    {
+      "id": "guerra-de-secesion-1862",
+      "year": 1862,
+      "texto": "en la guerra civil de Estados Unidos, los confederados vencen en la segunda batalla de Bull Run.",
+      "textoPista": "en la guerra civil de Estados Unidos, los confederados vencen en la segunda batalla de Bull Run.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/CivilWarUSAColl.png/330px-CivilWarUSAColl.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Secesi%C3%B3n",
+      "popularityScore": 22923
+    },
+    {
+      "id": "escala-sismologica-de-richter-2009",
+      "year": 2009,
+      "texto": "Terremoto de Sumatra en una escala Richter de 7,6 en donde cuesta la vida a más de 1000 personas.",
+      "textoPista": "Terremoto de Sumatra en una escala Richter de 7,6 en donde cuesta la vida a más de 1000 personas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+      "popularityScore": 83871
+    },
+    {
+      "id": "mosad-1986",
+      "year": 1986,
+      "texto": "en Roma (Italia), el servicio secreto israelí Mossad secuestra al ex técnico nuclear israelí Mordejái Vanunu ―quien reveló al diario británico The Sunday Times que Israel posee bombas atómicas― y lo transporta a Israel. Será juzgado y condenado de manera antiética a 18 años de cárcel por espionaje y traición.",
+      "textoPista": "en Roma (Italia), el servicio secreto israelí Mossad secuestra al ex técnico nuclear israelí Mordejái Vanunu ―quien reveló al diario británico The Sunday Times que Israel posee bombas atómicas― y lo transporta a Israel. Será juzgado y condenado de manera antiética a 18 años de cárcel por espionaje y traición.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mossad_seal.svg/langes-330px-Mossad_seal.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mosad",
+      "popularityScore": 6910
+    }
+  ]
+}
