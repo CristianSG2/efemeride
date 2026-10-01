@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-01",
+  "events": [
+    {
+      "id": "nueva-york-1907",
+      "year": 1907,
+      "texto": "en Nueva York comienza el servicio de taxímetros.",
+      "textoPista": "en Nueva York comienza el servicio de taxímetros.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 35286
+    },
+    {
+      "id": "cataluna-2017",
+      "year": 2017,
+      "texto": "en Cataluña, se celebra un referéndum de independencia, considerado ilegal tras haber sido suspendido por el Tribunal Constitucional.",
+      "textoPista": "en Cataluña, se celebra un referéndum de independencia, considerado ilegal tras haber sido suspendido por el Tribunal Constitucional.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Cataluna_in_Spain_%28including_Canarias%29.svg/langes-330px-Cataluna_in_Spain_%28including_Canarias%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Catalu%C3%B1a",
+      "popularityScore": 20035
+    },
+    {
+      "id": "los-angeles-1910",
+      "year": 1910,
+      "texto": "en Los Ángeles, una bomba destruye el edificio de Los Angeles Times, matando a 21 personas.",
+      "textoPista": "en Los Ángeles, una bomba destruye el edificio de Los Angeles Times, matando a 21 personas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
+      "popularityScore": 18101
+    },
+    {
+      "id": "thomas-alva-edison-1880",
+      "year": 1880,
+      "texto": "en los Estados Unidos, Thomas Edison funda la primera compañía eléctrica del mundo.",
+      "textoPista": "en los Estados Unidos, Thomas Edison funda la primera compañía eléctrica del mundo.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Thomas_Alva_Edison",
+      "popularityScore": 23646
+    },
+    {
+      "id": "nicolas-ii-de-rusia-1898",
+      "year": 1898,
+      "texto": "el zar Nikolay II expulsa a los judíos de la mayor parte de las ciudades rusas.",
+      "textoPista": "el zar Nikolay II expulsa a los judíos de la mayor parte de las ciudades rusas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mikola_II_%28cropped%29-2.jpg/330px-Mikola_II_%28cropped%29-2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_II_de_Rusia",
+      "popularityScore": 18835
+    }
+  ]
+}
