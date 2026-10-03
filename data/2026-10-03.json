@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-03",
+  "events": [
+    {
+      "id": "sinead-o-connor-1992",
+      "year": 1992,
+      "texto": "la cantante Sinéad O'Connor rompe una foto del papa Juan Pablo II como repudio a sus políticas conservadoras.",
+      "textoPista": "la cantante Sinéad O'Connor rompe una foto del papa Juan Pablo II como repudio a sus políticas conservadoras.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg/330px-Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Sin%C3%A9ad_O'Connor",
+      "popularityScore": 13704
+    },
+    {
+      "id": "eclipse-solar-2005",
+      "year": 2005,
+      "texto": "Eclipse de Sol anular sobre Europa y África.",
+      "textoPista": "Eclipse de Sol anular sobre Europa y África.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Eclipses_solares.svg/langes-330px-Eclipses_solares.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Eclipse_solar",
+      "popularityScore": 8531
+    },
+    {
+      "id": "felipe-vi-de-espana-2017",
+      "year": 2017,
+      "texto": "en España, el rey Felipe VI dirigió un mensaje extraordinario a la nación a causa de la celebración un referéndum de autodeterminación, constitucionalmente ilegal, convocado por el Gobierno de Cataluña y suspendido por el Tribunal Constitucional el 7 de septiembre de aquel año.",
+      "textoPista": "en España, el rey Felipe VI dirigió un mensaje extraordinario a la nación a causa de la celebración un referéndum de autodeterminación, constitucionalmente ilegal, convocado por el Gobierno de Cataluña y suspendido por el Tribunal Constitucional el 7 de septiembre de aquel año.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Daiga_Mieri%C5%86a_tiekas_ar_Sp%C4%81nijas_karali_-_53814974005_%28cropped%29-2.jpg/330px-Daiga_Mieri%C5%86a_tiekas_ar_Sp%C4%81nijas_karali_-_53814974005_%28cropped%29-2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Felipe_VI_de_Espa%C3%B1a",
+      "popularityScore": 55572
+    },
+    {
+      "id": "guerra-civil-espanola-1938",
+      "year": 1938,
+      "texto": "en el contexto de la guerra civil española, durante el asedio de Madrid, el ejército sublevado bombardea la ciudad con bolsas con pan decoradas con enseñas nacionales y mensajes críticos con el Gobierno Republicano. Dado que la capital se encontraba en situación de desabastecimiento, se convirtió en una medida propagandística que aumentó la desconfianza de la población hacia el gobierno.",
+      "textoPista": "en el contexto de la guerra civil española, durante el asedio de Madrid, el ejército sublevado bombardea la ciudad con bolsas con pan decoradas con enseñas nacionales y mensajes críticos con el Gobierno Republicano. Dado que la capital se encontraba en situación de desabastecimiento, se convirtió en una medida propagandística que aumentó la desconfianza de la población hacia el gobierno.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Collage_guerra_civile_spagnola.png/330px-Collage_guerra_civile_spagnola.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_civil_espa%C3%B1ola",
+      "popularityScore": 31643
+    },
+    {
+      "id": "san-nicolas-de-los-arroyos-1973",
+      "year": 1973,
+      "texto": "en San Nicolás de los Arroyos (Argentina) dos terroristas de la organización de derechas Triple A ingresan en la sede del diario El Norte y acribillan al jefe de redacción, José Domingo Colombo.",
+      "textoPista": "en San Nicolás de los Arroyos (Argentina) dos terroristas de la organización de derechas Triple A ingresan en la sede del diario El Norte y acribillan al jefe de redacción, José Domingo Colombo.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Costanera_Vieja.jpg/330px-Costanera_Vieja.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/San_Nicol%C3%A1s_de_los_Arroyos",
+      "popularityScore": 5361
+    }
+  ]
+}
