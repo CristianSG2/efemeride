@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-04",
+  "events": [
+    {
+      "id": "douglas-macarthur-1945",
+      "year": 1945,
+      "texto": "en el marco de la Segunda Guerra Mundial, el general Douglas MacArthur proclama la ley de libertades civiles en Japón.",
+      "textoPista": "en el marco de la Segunda Guerra Mundial, el general Douglas MacArthur proclama la ley de libertades civiles en Japón.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/MacArthur%282%29.jpg/330px-MacArthur%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Douglas_MacArthur",
+      "popularityScore": 5329
+    },
+    {
+      "id": "bermudas-1910",
+      "year": 1910,
+      "texto": "Bermuda adopta su nueva bandera.",
+      "textoPista": "Bermuda adopta su nueva bandera.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/ISS017-E-10695_-_View_of_Bermuda.jpg/330px-ISS017-E-10695_-_View_of_Bermuda.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bermudas",
+      "popularityScore": 6188
+    },
+    {
+      "id": "tijuana-2021",
+      "year": 2021,
+      "texto": "En Tijuana, México vuelve a ocurrir una tormenta después de 24 años.",
+      "textoPista": "En Tijuana, México vuelve a ocurrir una tormenta después de 24 años.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Panoramica_Paseo_Del_Rio.jpg/330px-Panoramica_Paseo_Del_Rio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tijuana",
+      "popularityScore": 8640
+    },
+    {
+      "id": "antartida-1991",
+      "year": 1991,
+      "texto": "en Madrid se firma el acuerdo por el que se declara a la Antártida «reserva natural para la paz y la ciencia».",
+      "textoPista": "en Madrid se firma el acuerdo por el que se declara a la Antártida «reserva natural para la paz y la ciencia».",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Antarctica_on_the_globe_%28red%29.svg/langes-330px-Antarctica_on_the_globe_%28red%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ant%C3%A1rtida",
+      "popularityScore": 21320
+    },
+    {
+      "id": "facebook-2021",
+      "year": 2021,
+      "texto": "Facebook y otras redes sociales sufren un ataque Cibernético, provocando pérdidas de aproximadamente 6000 millones de dólares para la empresa, el robo de Información personal de más de 1500 millones de usuarios y la caída mundial de las redes durante 7 horas consecutivas, siendo la peor en la historia reciente.",
+      "textoPista": "Facebook y otras redes sociales sufren un ataque Cibernético, provocando pérdidas de aproximadamente 6000 millones de dólares para la empresa, el robo de Información personal de más de 1500 millones de usuarios y la caída mundial de las redes durante 7 horas consecutivas, siendo la peor en la historia reciente.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/330px-Screen_of_Facebook_%282%29.PNG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Facebook",
+      "popularityScore": 67209
+    }
+  ]
+}
