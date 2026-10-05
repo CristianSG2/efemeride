@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-05",
+  "events": [
+    {
+      "id": "tremarctos-ornatus-1995",
+      "year": 1995,
+      "texto": "En Venezuela se logra con éxito la reproducción en cautiverio del Oso Frontino(Tremarctos ornatus) en el Programa de reproducción y preservación del Oso Frontino del Zoológico Gustavo Rivera.",
+      "textoPista": "En Venezuela se logra con éxito la reproducción en cautiverio del Oso Frontino(Tremarctos ornatus) en el Programa de reproducción y preservación del Oso Frontino del Zoológico Gustavo Rivera.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Tremarctos_ornatus_in_Jardim_Zool%C3%B3gico_de_Curitiba.jpg/330px-Tremarctos_ornatus_in_Jardim_Zool%C3%B3gico_de_Curitiba.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tremarctos_ornatus",
+      "popularityScore": 8433
+    },
+    {
+      "id": "asturias-1934",
+      "year": 1934,
+      "texto": "en Asturias (España) tiene lugar una revolución en la que la clase obrera toma el poder durante quince días haciendo frente al Gobierno de la República.",
+      "textoPista": "en Asturias (España) tiene lugar una revolución en la que la clase obrera toma el poder durante quince días haciendo frente al Gobierno de la República.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Asturias_in_Spain_%28including_Canarias%29.svg/langes-330px-Asturias_in_Spain_%28including_Canarias%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Asturias",
+      "popularityScore": 17801
+    },
+    {
+      "id": "buenos-aires-1872",
+      "year": 1872,
+      "texto": "en Buenos Aires, el presidente Domingo F. Sarmiento, funda la Escuela Naval Argentina",
+      "textoPista": "en Buenos Aires, el presidente Domingo F. Sarmiento, funda la Escuela Naval Argentina",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 32468
+    },
+    {
+      "id": "augusto-pinochet-1988",
+      "year": 1988,
+      "texto": "en Chile se realiza el plebiscito nacional, por el cual el pueblo rechaza la continuidad y permanencia en el poder del dictador Augusto Pinochet hasta 1997. Al año siguiente se convocan elecciones para elegir un nuevo presidente y un nuevo Congreso Nacional.",
+      "textoPista": "en Chile se realiza el plebiscito nacional, por el cual el pueblo rechaza la continuidad y permanencia en el poder del dictador Augusto Pinochet hasta ▪▪▪▪. Al año siguiente se convocan elecciones para elegir un nuevo presidente y un nuevo Congreso Nacional.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Augusto_Pinochet_foto_oficial_%283x4_cropped%29.jpg/330px-Augusto_Pinochet_foto_oficial_%283x4_cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Augusto_Pinochet",
+      "popularityScore": 40432
+    },
+    {
+      "id": "provincia-de-buenos-aires-1906",
+      "year": 1906,
+      "texto": "en la provincia de Buenos Aires (Argentina) se funda el pueblo de Darregueira.",
+      "textoPista": "en la provincia de Buenos Aires (Argentina) se funda el pueblo de Darregueira.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg/330px-Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Provincia_de_Buenos_Aires",
+      "popularityScore": 14870
+    }
+  ]
+}
