@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-06",
+  "events": [
+    {
+      "id": "che-guevara-1959",
+      "year": 1959,
+      "texto": "en el estadio del Cerro (La Habana) finaliza la pequeña serie mundial de béisbol entre Cuba y Estados Unidos con la victoria del equipo cubano Cuban Sugar Kings ante el estadounidense Minneapolis. Asisten al encuentro los comandantes Fidel Castro, Raúl Castro, Ernesto Che Guevara, Camilo Cienfuegos, Juan Almeida, el periodista estadounidense Waldo Frank y otros compañeros. Fidel expresa que «Más que la victoria presente, esto es un símbolo para el futuro de lo que serán los deportes en Cuba».",
+      "textoPista": "en el estadio del Cerro (La Habana) finaliza la pequeña serie mundial de béisbol entre Cuba y Estados Unidos con la victoria del equipo cubano Cuban Sugar Kings ante el estadounidense Minneapolis. Asisten al encuentro los comandantes Fidel Castro, Raúl Castro, Ernesto Che Guevara, Camilo Cienfuegos, Juan Almeida, el periodista estadounidense Waldo Frank y otros compañeros. Fidel expresa que «Más que la victoria presente, esto es un símbolo para el futuro de lo que serán los deportes en Cuba».",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/330px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Che_Guevara",
+      "popularityScore": 50659
+    },
+    {
+      "id": "thomas-alva-edison-1889",
+      "year": 1889,
+      "texto": "el inventor estadounidense Thomas Edison muestra su primera película.",
+      "textoPista": "el inventor estadounidense Thomas Edison muestra su primera película.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Thomas_Alva_Edison",
+      "popularityScore": 25106
+    },
+    {
+      "id": "revolucion-cubana-1958",
+      "year": 1958,
+      "texto": "en Cuba ―en el marco de la Revolución cubana― los comandantes Camilo Cienfuegos y Ernesto Che Guevara cruzan la Trocha de Júcaro.",
+      "textoPista": "en Cuba ―en el marco de la Revolución cubana― los comandantes Camilo Cienfuegos y Ernesto Che Guevara cruzan la Trocha de Júcaro.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Cuban_Revolution_paint.png/330px-Cuban_Revolution_paint.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_cubana",
+      "popularityScore": 11002
+    },
+    {
+      "id": "francisco-franco-1956",
+      "year": 1956,
+      "texto": "en España, Francisco Franco inaugura Pueblonuevo del Guadiana, cuya construcción había comenzado en 1948 como consecuencia del Plan Badajoz.",
+      "textoPista": "en España, Francisco Franco inaugura Pueblonuevo del Guadiana, cuya construcción había comenzado en ▪▪▪▪ como consecuencia del Plan Badajoz.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg/330px-RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Francisco_Franco",
+      "popularityScore": 47881
+    },
+    {
+      "id": "francisco-franco-1936",
+      "year": 1936,
+      "texto": "El Decreto 9 dictado por Francisco Franco crea la Secretaría de Guerra en la zona rebelde de España.",
+      "textoPista": "El Decreto 9 dictado por Francisco Franco crea la Secretaría de Guerra en la zona rebelde de España.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg/330px-RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Francisco_Franco",
+      "popularityScore": 47881
+    }
+  ]
+}
