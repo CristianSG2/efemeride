@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-07",
+  "events": [
+    {
+      "id": "richard-nixon-1970",
+      "year": 1970,
+      "texto": "en los Estados Unidos, el presidente Richard Nixon anuncia cinco puntos de propuesta de paz en la guerra de Vietnam.",
+      "textoPista": "en los Estados Unidos, el presidente Richard Nixon anuncia cinco puntos de propuesta de paz en la guerra de Vietnam.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/330px-Richard_Nixon_presidential_portrait_%281%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Richard_Nixon",
+      "popularityScore": 16895
+    },
+    {
+      "id": "paises-bajos-1919",
+      "year": 1919,
+      "texto": "en Países Bajos se funda la compañía KLM, la más antigua compañía aérea todavía en funcionamiento.",
+      "textoPista": "en Países Bajos se funda la compañía KLM, la más antigua compañía aérea todavía en funcionamiento.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Netherlands_in_European_Union.svg/langes-330px-Netherlands_in_European_Union.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos",
+      "popularityScore": 43352
+    },
+    {
+      "id": "pueblo-judio-1938",
+      "year": 1938,
+      "texto": "en Alemania, el Gobierno nazi ordena que todos los pasaportes de los judíos lleven la letra J.",
+      "textoPista": "en Alemania, el Gobierno nazi ordena que todos los pasaportes de los judíos lleven la letra J.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Jews_motage2.jpg/330px-Jews_motage2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pueblo_jud%C3%ADo",
+      "popularityScore": 14212
+    },
+    {
+      "id": "tibet-1950",
+      "year": 1950,
+      "texto": "China invade el Tíbet (Anexión del Tíbet por China)",
+      "textoPista": "China invade el Tíbet (Anexión del Tíbet por China)",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Tibet_-_Trek_1_-_35_Samye_Monastery_%28150286130%29.jpg/330px-Tibet_-_Trek_1_-_35_Samye_Monastery_%28150286130%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/T%C3%ADbet",
+      "popularityScore": 10511
+    },
+    {
+      "id": "gijon-1934",
+      "year": 1934,
+      "texto": "Con el fin de sofocar la Revolución de Asturias, desembarcan en Gijón legionarios y regulares del Ejército de África al mando del teniente coronel Juan Yagüe.",
+      "textoPista": "Con el fin de sofocar la Revolución de Asturias, desembarcan en Gijón legionarios y regulares del Ejército de África al mando del teniente coronel Juan Yagüe.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bandera_gijon.svg/langes-330px-Bandera_gijon.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Gij%C3%B3n",
+      "popularityScore": 12781
+    }
+  ]
+}
