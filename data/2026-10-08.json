@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-08",
+  "events": [
+    {
+      "id": "rosario-argentina-1932",
+      "year": 1932,
+      "texto": "en Rosario (Argentina) reaparece el comerciante Favelukes, quien había sido secuestrado. Esa noche es asesinado en su pensión el periodista Silvio Alzogaray, el único que había denunciado que se trataba de un secuestro mafioso realizado por la organización polaca de trata de personas Zwi Migdal.",
+      "textoPista": "en Rosario (Argentina) reaparece el comerciante Favelukes, quien había sido secuestrado. Esa noche es asesinado en su pensión el periodista Silvio Alzogaray, el único que había denunciado que se trataba de un secuestro mafioso realizado por la organización polaca de trata de personas Zwi Migdal.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg/330px-Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rosario_(Argentina)",
+      "popularityScore": 10031
+    },
+    {
+      "id": "baja-california-sur-1974",
+      "year": 1974,
+      "texto": "Baja California Sur y Quintana Roo son declarados como estado.",
+      "textoPista": "Baja California Sur y Quintana Roo son declarados como estado.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/El_Arco_Cabo_San_Lucas_www.GeoTravellers.com_-_panoramio.jpg/330px-El_Arco_Cabo_San_Lucas_www.GeoTravellers.com_-_panoramio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Baja_California_Sur",
+      "popularityScore": 7013
+    },
+    {
+      "id": "escala-sismologica-de-richter-2005",
+      "year": 2005,
+      "texto": "terremoto de magnitud de 7,6 en la escala de Richter en Cachemira, entre India y Pakistán.",
+      "textoPista": "terremoto de magnitud de 7,6 en la escala de Richter en Cachemira, entre India y Pakistán.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+      "popularityScore": 10427
+    },
+    {
+      "id": "che-guevara-1967",
+      "year": 1967,
+      "texto": "en Bolivia el ejército boliviano ―junto con asesores de la CIA― capturan al revolucionario argentino y cubano comandante Ernesto Che Guevara. Al día siguiente será asesinado de manera ilegal y sin juicio previo.",
+      "textoPista": "en Bolivia el ejército boliviano ―junto con asesores de la CIA― capturan al revolucionario argentino y cubano comandante Ernesto Che Guevara. Al día siguiente será asesinado de manera ilegal y sin juicio previo.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/330px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Che_Guevara",
+      "popularityScore": 50659
+    },
+    {
+      "id": "rio-de-la-plata-1851",
+      "year": 1851,
+      "texto": "En la Banda Oriental (región del Río de la Plata que hoy se conoce como Uruguay) se da por terminada la Guerra Grande, un conflicto que duró casi 12 años e involucró a las facciones políticas uruguayas denominadas «blancos» (liderados por Manuel Oribe) y los «colorados» (liderados por Fructuoso Rivera). También contó con la intervención de facciones políticas de Argentina, los federales (liderados por Juan Manuel de Rosas) en apoyo a los blancos uruguayos, y los unitarios en apoyo a los colorados, además de la participación del Imperio del Brasil, Gran Bretaña y Francia, así como fuerzas mercenarias españolas e italianas. El tratado estableció: «No habrá vencedores ni vencidos».",
+      "textoPista": "En la Banda Oriental (región del Río de la Plata que hoy se conoce como Uruguay) se da por terminada la Guerra Grande, un conflicto que duró casi 12 años e involucró a las facciones políticas uruguayas denominadas «blancos» (liderados por Manuel Oribe) y los «colorados» (liderados por Fructuoso Rivera). También contó con la intervención de facciones políticas de Argentina, los federales (liderados por Juan Manuel de Rosas) en apoyo a los blancos uruguayos, y los unitarios en apoyo a los colorados, además de la participación del Imperio del Brasil, Gran Bretaña y Francia, así como fuerzas mercenarias españolas e italianas. El tratado estableció: «No habrá vencedores ni vencidos».",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/River_Plate.jpg/330px-River_Plate.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/R%C3%ADo_de_la_Plata",
+      "popularityScore": 6506
+    }
+  ]
+}
