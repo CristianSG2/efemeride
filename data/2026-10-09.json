@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-09",
+  "events": [
+    {
+      "id": "pena-de-muerte-1981",
+      "year": 1981,
+      "texto": "en Francia queda abolida la pena de muerte.",
+      "textoPista": "en Francia queda abolida la pena de muerte.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Capital_punishment_in_the_world_purple-green.svg/langes-330px-Capital_punishment_in_the_world_purple-green.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pena_de_muerte",
+      "popularityScore": 10109
+    },
+    {
+      "id": "ciudad-de-panama-1993",
+      "year": 1993,
+      "texto": "en Panamá (Panamá) se funda la logia masónica Harmony Lodge n.º 18, bajo la jurisdicción de la Gran Logia de Panamá.",
+      "textoPista": "en Panamá (Panamá) se funda la logia masónica Harmony Lodge n.º 18, bajo la jurisdicción de la Gran Logia de Panamá.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Panamacity.png/330px-Panamacity.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_Panam%C3%A1",
+      "popularityScore": 5925
+    },
+    {
+      "id": "bomba-atomica-1941",
+      "year": 1941,
+      "texto": "en Estados Unidos, el presidente Franklin D. Roosevelt autoriza el desarrollo de la bomba atómica.",
+      "textoPista": "en Estados Unidos, el presidente Franklin D. Roosevelt autoriza el desarrollo de la bomba atómica.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Castle_Bravo_Blast.jpg/330px-Castle_Bravo_Blast.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bomba_at%C3%B3mica",
+      "popularityScore": 5259
+    },
+    {
+      "id": "buenos-aires-2007",
+      "year": 2007,
+      "texto": "en Buenos Aires (Argentina), el sacerdote argentino Christian Von Wernich, es condenado a reclusión perpetua por 34 casos de privación ilegal de la libertad, 31 casos de tortura y 7 homicidios calificados.",
+      "textoPista": "en Buenos Aires (Argentina), el sacerdote argentino Christian Von Wernich, es condenado a reclusión perpetua por 34 casos de privación ilegal de la libertad, 31 casos de tortura y 7 homicidios calificados.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 32468
+    },
+    {
+      "id": "guerra-civil-espanola-1945",
+      "year": 1945,
+      "texto": "se decreta el indulto para los condenados a muerte por supuesta \"rebelión militar\" es decir, los condenados por apoyar a la República durante la guerra civil española",
+      "textoPista": "se decreta el indulto para los condenados a muerte por supuesta \"rebelión militar\" es decir, los condenados por apoyar a la República durante la guerra civil española",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Collage_guerra_civile_spagnola.png/330px-Collage_guerra_civile_spagnola.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_civil_espa%C3%B1ola",
+      "popularityScore": 31643
+    }
+  ]
+}
