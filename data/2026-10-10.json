@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-10",
+  "events": [
+    {
+      "id": "juan-pablo-ii-1993",
+      "year": 1993,
+      "texto": "el papa Juan Pablo II beatifica a la madre Francisca Rubatto, primera beata uruguaya.",
+      "textoPista": "el papa Juan Pablo II beatifica a la madre Francisca Rubatto, primera beata uruguaya.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/330px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Pablo_II",
+      "popularityScore": 29196
+    },
+    {
+      "id": "oregon-1984",
+      "year": 1984,
+      "texto": "en la localidad de The Dalles (estado de Oregón), miembros de la secta Rajneesh ―del gurú y escritor de libros de autoayuda Osho (52)― dan por finalizado el «atentado bioterrorista osho» (envenenaron con la bacteria de la salmonella las barras de ensaladas de diez restaurantes locales). Se enfermaron 751 personas, pero ninguna falleció. Esto llevará al encarcelamiento de Osho y su huida a la India, donde fallecerá cinco años después.",
+      "textoPista": "en la localidad de The Dalles (estado de Oregón), miembros de la secta Rajneesh ―del gurú y escritor de libros de autoayuda Osho (52)― dan por finalizado el «atentado bioterrorista osho» (envenenaron con la bacteria de la salmonella las barras de ensaladas de diez restaurantes locales). Se enfermaron 751 personas, pero ninguna falleció. Esto llevará al encarcelamiento de Osho y su huida a la India, donde fallecerá cinco años después.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Oregon_in_United_States.svg/langes-330px-Oregon_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Oreg%C3%B3n",
+      "popularityScore": 6151
+    },
+    {
+      "id": "club-olimpia-1990",
+      "year": 1990,
+      "texto": "el equipo de fútbol paraguayo Olimpia gana por segunda vez la Copa Libertadores de América.",
+      "textoPista": "el equipo de fútbol paraguayo Olimpia gana por segunda vez la Copa Libertadores de América.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Escudo_original_de_Olimpia.png/330px-Escudo_original_de_Olimpia.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Olimpia",
+      "popularityScore": 7132
+    },
+    {
+      "id": "operacion-barbarroja-1941",
+      "year": 1941,
+      "texto": "en el marco de la Operación Barbarroja, Walter von Reichenau, comandante del 6.º Ejército alemán. emite la notoria Orden de la Severidad que animaba a los soldados alemanes a asesinar a judíos y otros ciudadanos soviéticos en el Frente Oriental.",
+      "textoPista": "en el marco de la Operación Barbarroja, Walter von Reichenau, comandante del 6.º Ejército alemán. emite la notoria Orden de la Severidad que animaba a los soldados alemanes a asesinar a judíos y otros ciudadanos soviéticos en el Frente Oriental.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Operation_Barbarossa_Infobox.jpg/330px-Operation_Barbarossa_Infobox.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Operaci%C3%B3n_Barbarroja",
+      "popularityScore": 6417
+    },
+    {
+      "id": "tokio-1964",
+      "year": 1964,
+      "texto": "en Tokio (Japón) se inauguran los Juegos Olímpicos de 1964.",
+      "textoPista": "en Tokio (Japón) se inauguran los Juegos Olímpicos de ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Shinjuku_central_park_southwest.jpg/330px-Shinjuku_central_park_southwest.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tokio",
+      "popularityScore": 12919
+    }
+  ]
+}
