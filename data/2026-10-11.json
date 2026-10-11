@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-11",
+  "events": [
+    {
+      "id": "washington-d-c-1890",
+      "year": 1890,
+      "texto": "en Washington, se funda la Daughters of the American Revolution.",
+      "textoPista": "en Washington, se funda la Daughters of the American Revolution.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/LincolnParkDC-8063-101922_%28cropped%29.jpg/330px-LincolnParkDC-8063-101922_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Washington_D._C.",
+      "popularityScore": 16995
+    },
+    {
+      "id": "concilio-vaticano-ii-1962",
+      "year": 1962,
+      "texto": "en la Ciudad del Vaticano, el papa Juan XXIII inaugura el Concilio Vaticano II, que modernizó el espíritu y las estructuras de la Iglesia católica.",
+      "textoPista": "en la Ciudad del Vaticano, el papa Juan XXIII inaugura el Concilio Vaticano II, que modernizó el espíritu y las estructuras de la Iglesia católica.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Konzilseroeffnung_1.jpg/330px-Konzilseroeffnung_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Concilio_Vaticano_II",
+      "popularityScore": 5415
+    },
+    {
+      "id": "pena-de-muerte-1934",
+      "year": 1934,
+      "texto": "en España, El gobierno de Alejandro Lerroux restablece la pena de muerte por garrote vil.",
+      "textoPista": "en España, El gobierno de Alejandro Lerroux restablece la pena de muerte por garrote vil.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Capital_punishment_in_the_world_purple-green.svg/langes-330px-Capital_punishment_in_the_world_purple-green.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pena_de_muerte",
+      "popularityScore": 10109
+    },
+    {
+      "id": "julio-argentino-roca-1878",
+      "year": 1878,
+      "texto": "en Argentina, Julio Argentino Roca emprende la llamada Campaña del «Desierto» contra las tribus del sur del país.",
+      "textoPista": "en Argentina, Julio Argentino Roca emprende la llamada Campaña del «Desierto» contra las tribus del sur del país.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/RetratoROcaMuseo.jpg/330px-RetratoROcaMuseo.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Julio_Argentino_Roca",
+      "popularityScore": 6815
+    },
+    {
+      "id": "premio-nobel-1980",
+      "year": 1980,
+      "texto": "el venezolano Baruj Benacerraf gana el Premio Nobel de Medicina.",
+      "textoPista": "el venezolano Baruj Benacerraf gana el Premio Nobel de Medicina.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/NobelP2.png/330px-NobelP2.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Premio_Nobel",
+      "popularityScore": 7036
+    }
+  ]
+}
