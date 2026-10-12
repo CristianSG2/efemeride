@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-12",
+  "events": [
+    {
+      "id": "felipe-de-edimburgo-1986",
+      "year": 1986,
+      "texto": "Isabel II y su esposo, el príncipe Felipe duque de Edimburgo, visitan la República Popular China.",
+      "textoPista": "Isabel II y su esposo, el príncipe Felipe duque de Edimburgo, visitan la República Popular China.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Duke_of_Edinburgh_33_Allan_Warren.jpg/330px-Duke_of_Edinburgh_33_Allan_Warren.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Felipe_de_Edimburgo",
+      "popularityScore": 33163
+    },
+    {
+      "id": "presidente-de-la-nacion-argentina-1963",
+      "year": 1963,
+      "texto": "en Argentina, Arturo Umberto Illia se convierte en el 35.º presidente.",
+      "textoPista": "en Argentina, Arturo Umberto Illia se convierte en el 35.º presidente.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg/330px-Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Presidente_de_la_Naci%C3%B3n_Argentina",
+      "popularityScore": 8585
+    },
+    {
+      "id": "lima-1959",
+      "year": 1959,
+      "texto": "en Lima (Perú), un grupo de izquierdistas son expulsados del partido APRA. Más tarde formarán el APRA Rebelde.",
+      "textoPista": "en Lima (Perú), un grupo de izquierdistas son expulsados del partido APRA. Más tarde formarán el APRA Rebelde.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/330px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lima",
+      "popularityScore": 17088
+    },
+    {
+      "id": "tokio-1960",
+      "year": 1960,
+      "texto": "en el Hibiya Hall (Tokio), el nacionalista Otoya Yamaguchi (17) asesina con una katana al político socialista Inejirō Asanuma (42) durante un discurso. Las cámaras de televisión captaron toda la escena.",
+      "textoPista": "en el Hibiya Hall (Tokio), el nacionalista Otoya Yamaguchi (17) asesina con una katana al político socialista Inejirō Asanuma (42) durante un discurso. Las cámaras de televisión captaron toda la escena.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Shinjuku_central_park_southwest.jpg/330px-Shinjuku_central_park_southwest.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tokio",
+      "popularityScore": 12919
+    },
+    {
+      "id": "rio-de-janeiro-1931",
+      "year": 1931,
+      "texto": "en Río de Janeiro (Brasil) se inaugura la estatua del Cristo Redentor.",
+      "textoPista": "en Río de Janeiro (Brasil) se inaugura la estatua del Cristo Redentor.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/330px-Cidade_Maravilhosa.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/R%C3%ADo_de_Janeiro",
+      "popularityScore": 10843
+    }
+  ]
+}
