@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-13",
+  "events": [
+    {
+      "id": "fatima-portugal-1917",
+      "year": 1917,
+      "texto": "en Fátima (Portugal), ante 70.000 testigos, los pastorcitos Jacinta Marto, Francisco Marto y Lucía dos Santos afirman que pueden ver a la Virgen de Fátima y oír sus palabras. Los testigos oculares, aunque no pueden ver a la Virgen, son partícipes del «milagro del Sol».",
+      "textoPista": "en Fátima (Portugal), ante 70.000 testigos, los pastorcitos Jacinta Marto, Francisco Marto y Lucía dos Santos afirman que pueden ver a la Virgen de Fátima y oír sus palabras. Los testigos oculares, aunque no pueden ver a la Virgen, son partícipes del «milagro del Sol».",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/F%C3%A1tima%2C_Portugal.jpg/330px-F%C3%A1tima%2C_Portugal.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/F%C3%A1tima_(Portugal)",
+      "popularityScore": 2635
+    },
+    {
+      "id": "valparaiso-1854",
+      "year": 1854,
+      "texto": "en la ciudad de Valparaíso (Chile) se funda la 3.ª Compañía de Bomberos «Bomba Cousiño y Agustín Edwards».",
+      "textoPista": "en la ciudad de Valparaíso (Chile) se funda la 3.ª Compañía de Bomberos «Bomba Cousiño y Agustín Edwards».",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Intendencia3.JPG/330px-Intendencia3.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Valpara%C3%ADso",
+      "popularityScore": 6537
+    },
+    {
+      "id": "municipio-de-ecatepec-de-morelos-1877",
+      "year": 1877,
+      "texto": "se funda el municipio de Ecatepec de Morelos.",
+      "textoPista": "se funda el municipio de Ecatepec de Morelos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/PaseoCiclista20220220casaMorelos_ohs03.jpg/330px-PaseoCiclista20220220casaMorelos_ohs03.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Municipio_de_Ecatepec_de_Morelos",
+      "popularityScore": 3441
+    },
+    {
+      "id": "oscar-arias-sanchez-1987",
+      "year": 1987,
+      "texto": "el costarricense Óscar Arias recibe el premio Nobel de la Paz por su habilidad política de negociación para la firma de los Acuerdos de Esquipulas con base a las iniciativas del Grupo Contadora (1983 a 1985) y el \"Proceso de Esquipulas\" promovido por Vinicio Cerezo.",
+      "textoPista": "el costarricense Óscar Arias recibe el premio Nobel de la Paz por su habilidad política de negociación para la firma de los Acuerdos de Esquipulas con base a las iniciativas del Grupo Contadora (▪▪▪▪ a ▪▪▪▪) y el \"Proceso de Esquipulas\" promovido por Vinicio Cerezo.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/%C3%93scar_Arias_%28cropped%29.jpg/330px-%C3%93scar_Arias_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/%C3%93scar_Arias_S%C3%A1nchez",
+      "popularityScore": 1631
+    },
+    {
+      "id": "san-pedro-sula-2018",
+      "year": 2018,
+      "texto": "en San Pedro Sula (Honduras), inicia una caravana de migrantes hacia Estados Unidos, con más de cinco mil personas en su mayoría hondureños.",
+      "textoPista": "en San Pedro Sula (Honduras), inicia una caravana de migrantes hacia Estados Unidos, con más de cinco mil personas en su mayoría hondureños.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_of_San_Pedro_Sula_Honduras.jpg/330px-Collage_of_San_Pedro_Sula_Honduras.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/San_Pedro_Sula",
+      "popularityScore": 2599
+    }
+  ]
+}
