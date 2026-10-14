@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-14",
+  "events": [
+    {
+      "id": "america-2023",
+      "year": 2023,
+      "texto": "Eclipse Solar Anular, que pudo ser visto en la mayor parte de América, siendo los mejores lugares para verlo fueron Estados Unidos, la Península de Yucatán en México y la mayor parte de América Central, Colombia y Brasil.",
+      "textoPista": "Eclipse Solar Anular, que pudo ser visto en la mayor parte de América, siendo los mejores lugares para verlo fueron Estados Unidos, la Península de Yucatán en México y la mayor parte de América Central, Colombia y Brasil.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Americas_on_the_globe_%28red%29.svg/langes-330px-Americas_on_the_globe_%28red%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Am%C3%A9rica",
+      "popularityScore": 31999
+    },
+    {
+      "id": "adolf-hitler-1944",
+      "year": 1944,
+      "texto": "el mariscal de campo Erwin Rommel, tras ser acusado de participar en un complot contra Hitler, se suicida para evitar represalias contra su familia.",
+      "textoPista": "el mariscal de campo Erwin Rommel, tras ser acusado de participar en un complot contra Hitler, se suicida para evitar represalias contra su familia.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/330px-Hitler_portrait_crop.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Adolf_Hitler",
+      "popularityScore": 76139
+    },
+    {
+      "id": "martin-luther-king-1964",
+      "year": 1964,
+      "texto": "el estadounidense Martin Luther King recibe el Premio Nobel de la Paz.",
+      "textoPista": "el estadounidense Martin Luther King recibe el Premio Nobel de la Paz.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Martin_Luther_King%2C_Jr._and_Lyndon_Johnson_%28cropped%29.jpg/330px-Martin_Luther_King%2C_Jr._and_Lyndon_Johnson_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Martin_Luther_King",
+      "popularityScore": 24359
+    },
+    {
+      "id": "sony-2008",
+      "year": 2008,
+      "texto": "en Estados Unidos, la empresa japonesa Sony pone a la venta la videoconsola portátil PSP 3000.",
+      "textoPista": "en Estados Unidos, la empresa japonesa Sony pone a la venta la videoconsola portátil PSP 3000.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_headquaters_1.jpg/330px-Sony_headquaters_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Sony",
+      "popularityScore": 5311
+    },
+    {
+      "id": "guadalajara-mexico-2011",
+      "year": 2011,
+      "texto": "en Guadalajara, Jalisco se inauguran los XVI Juegos Panamericanos.",
+      "textoPista": "en Guadalajara, Jalisco se inauguran los XVI Juegos Panamericanos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hospicio_caba%C3%B1as.JPG/330px-Hospicio_caba%C3%B1as.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guadalajara_(M%C3%A9xico)",
+      "popularityScore": 13654
+    }
+  ]
+}
