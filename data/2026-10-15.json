@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-15",
+  "events": [
+    {
+      "id": "hawai-2006",
+      "year": 2006,
+      "texto": "en Hawái sucede un terremoto de 6.7  grados de la escala de Richter.",
+      "textoPista": "en Hawái sucede un terremoto de 6.7  grados de la escala de Richter.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hawaii_in_United_States_%28US50%29_%28-grid%29_%28zoom%29_%28W3%29.svg/langes-330px-Hawaii_in_United_States_%28US50%29_%28-grid%29_%28zoom%29_%28W3%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Haw%C3%A1i",
+      "popularityScore": 14005
+    },
+    {
+      "id": "primera-division-de-argentina-2006",
+      "year": 2006,
+      "texto": "Estudiantes de La Plata derrota en el clásico platense por 7:0 a Gimnasia y Esgrima, en un partido de fútbol correspondiente a la Primera División de Argentina, y establece la mayor goleada de la historia de este enfrentamiento, que se celebra desde 1916.",
+      "textoPista": "Estudiantes de La Plata derrota en el clásico platense por 7:0 a Gimnasia y Esgrima, en un partido de fútbol correspondiente a la Primera División de Argentina, y establece la mayor goleada de la historia de este enfrentamiento, que se celebra desde ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29_wordmark.svg/langes-330px-Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Argentina",
+      "popularityScore": 32816
+    },
+    {
+      "id": "quito-1874",
+      "year": 1874,
+      "texto": "En Quito (Ecuador) se establece la Academia Ecuatoriana de la Lengua.",
+      "textoPista": "En Quito (Ecuador) se establece la Academia Ecuatoriana de la Lengua.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Vista_panor%C3%A1mica_del_norte_de_Quito_y_de_fondo_el_volc%C3%A1n_Cotopaxi.jpg/330px-Vista_panor%C3%A1mica_del_norte_de_Quito_y_de_fondo_el_volc%C3%A1n_Cotopaxi.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Quito",
+      "popularityScore": 8721
+    },
+    {
+      "id": "john-f-kennedy-1962",
+      "year": 1962,
+      "texto": "el Gobierno de J. F. Kennedy inicia un bloqueo militar a la isla de Cuba (Crisis de los misiles).",
+      "textoPista": "el Gobierno de J. F. Kennedy inicia un bloqueo militar a la isla de Cuba (Crisis de los misiles).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/John_F._Kennedy",
+      "popularityScore": 34612
+    },
+    {
+      "id": "bogota-1914",
+      "year": 1914,
+      "texto": "en Bogotá (Colombia), el político liberal Rafael Uribe Uribe fue herido de muerte, cuando caminaba hacia el Capitolio Nacional (sede del Congreso colombiano), fallece al día siguiente.",
+      "textoPista": "en Bogotá (Colombia), el político liberal Rafael Uribe Uribe fue herido de muerte, cuando caminaba hacia el Capitolio Nacional (sede del Congreso colombiano), fallece al día siguiente.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 21898
+    }
+  ]
+}
