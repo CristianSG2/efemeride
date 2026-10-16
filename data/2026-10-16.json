@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-16",
+  "events": [
+    {
+      "id": "the-walt-disney-company-2023",
+      "year": 2023,
+      "texto": "The Walt Disney Company cumple 100 años de su creación.",
+      "textoPista": "The Walt Disney Company cumple 100 años de su creación.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Walt_Disney_Studios_Alameda_Entrance.jpg/330px-Walt_Disney_Studios_Alameda_Entrance.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/The_Walt_Disney_Company",
+      "popularityScore": 8359
+    },
+    {
+      "id": "euskadi-ta-askatasuna-2000",
+      "year": 2000,
+      "texto": "en España, los terroristas de la banda ETA asesinan al coronel excolaborador del franquismo y médico español Antonio Muñoz.",
+      "textoPista": "en España, los terroristas de la banda ETA asesinan al coronel excolaborador del franquismo y médico español Antonio Muñoz.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/ETA_Symbol.svg/langes-330px-ETA_Symbol.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Euskadi_Ta_Askatasuna",
+      "popularityScore": 20461
+    },
+    {
+      "id": "ciclon-tropical-1950",
+      "year": 1950,
+      "texto": "en la isla de Cuba un huracán azota la provincia de Camagüey.",
+      "textoPista": "en la isla de Cuba un huracán azota la provincia de Camagüey.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Huracan_patricia_23-10.jpg/330px-Huracan_patricia_23-10.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Cicl%C3%B3n_tropical",
+      "popularityScore": 8191
+    },
+    {
+      "id": "rigoberta-menchu-1992",
+      "year": 1992,
+      "texto": "en Suecia, la líder indígena guatemalteca Rigoberta Menchú obtiene el Premio Nobel de la Paz.",
+      "textoPista": "en Suecia, la líder indígena guatemalteca Rigoberta Menchú obtiene el Premio Nobel de la Paz.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20240620_NP_PRESIDENTE_BERNARDO_AREVALO_Y_KARIN_HERRERA_PARTICIPAN_EN_DIALOGO_PREMIO_NOBEL_DE_LA_PAZ_054_%28cropped%29.jpg/330px-20240620_NP_PRESIDENTE_BERNARDO_AREVALO_Y_KARIN_HERRERA_PARTICIPAN_EN_DIALOGO_PREMIO_NOBEL_DE_LA_PAZ_054_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rigoberta_Mench%C3%BA",
+      "popularityScore": 10637
+    },
+    {
+      "id": "munich-1919",
+      "year": 1919,
+      "texto": "en la ciudad de Múnich (Alemania), Adolf Hitler da su primer mitin en la cervecería Hofbräukeller ante 300 asistentes.",
+      "textoPista": "en la ciudad de Múnich (Alemania), Adolf Hitler da su primer mitin en la cervecería Hofbräukeller ante 300 asistentes.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Munich_montage.png/330px-Munich_montage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/M%C3%BAnich",
+      "popularityScore": 8359
+    }
+  ]
+}
