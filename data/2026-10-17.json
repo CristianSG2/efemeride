@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-17",
+  "events": [
+    {
+      "id": "juan-domingo-peron-2006",
+      "year": 2006,
+      "texto": "en Buenos Aires (Argentina), durante la marcha en conmemoración de los 60 años del Día de la Lealtad Peronista (de 1943) se trasladan los restos del general Juan Domingo Perón a la quinta Diecisiete de Octubre, en el partido de San Vicente (en la zona sur del Gran Buenos Aires). Hubo tiroteos entre manifestantes peronistas y barrabravas antiperonistas que se encontraban presentes.",
+      "textoPista": "en Buenos Aires (Argentina), durante la marcha en conmemoración de los 60 años del Día de la Lealtad Peronista (de ▪▪▪▪) se trasladan los restos del general Juan Domingo Perón a la quinta Diecisiete de Octubre, en el partido de San Vicente (en la zona sur del Gran Buenos Aires). Hubo tiroteos entre manifestantes peronistas y barrabravas antiperonistas que se encontraban presentes.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Juan_Per%C3%B3n_%28cropped%29.jpg/330px-Juan_Per%C3%B3n_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n",
+      "popularityScore": 27606
+    },
+    {
+      "id": "teresa-de-calcuta-1979",
+      "year": 1979,
+      "texto": "la Madre Teresa de Calcuta recibe el Premio Nobel de la Paz.",
+      "textoPista": "la Madre Teresa de Calcuta recibe el Premio Nobel de la Paz.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/MotherTeresa_090.jpg/330px-MotherTeresa_090.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Teresa_de_Calcuta",
+      "popularityScore": 40332
+    },
+    {
+      "id": "primera-guerra-mundial-1919",
+      "year": 1919,
+      "texto": "en Buenos Aires se crea la Aviación Naval (Argentina). La experiencia obtenida durante las operaciones en la Primera Guerra Mundial, modificaron los principios de la guerra marítima. Ello derivó en la creación de la División Aviación Naval dependiente de la Secretaría General del Ministerio de Marina.",
+      "textoPista": "en Buenos Aires se crea la Aviación Naval (Argentina). La experiencia obtenida durante las operaciones en la Primera Guerra Mundial, modificaron los principios de la guerra marítima. Ello derivó en la creación de la División Aviación Naval dependiente de la Secretaría General del Ministerio de Marina.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/PrimeraGuerraMundial-collague.jpg/330px-PrimeraGuerraMundial-collague.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
+      "popularityScore": 57097
+    },
+    {
+      "id": "euskadi-ta-askatasuna-1991",
+      "year": 1991,
+      "texto": "en España, la banda terrorista ETA mutila a Irene Villa y a su madre con una bomba lapa en su coche.",
+      "textoPista": "en España, la banda terrorista ETA mutila a Irene Villa y a su madre con una bomba lapa en su coche.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/ETA_Symbol.svg/langes-330px-ETA_Symbol.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Euskadi_Ta_Askatasuna",
+      "popularityScore": 20461
+    },
+    {
+      "id": "albert-einstein-1933",
+      "year": 1933,
+      "texto": "llega a Estados Unidos el científico judeoalemán Albert Einstein, que escapa de la Alemania nazi. Allí vivirá el resto de su vida como refugiado. Obtiene un puesto en el Instituto para Estudios Avanzados, en la Universidad Princeton (Nueva Jersey).",
+      "textoPista": "llega a Estados Unidos el científico judeoalemán Albert Einstein, que escapa de la Alemania nazi. Allí vivirá el resto de su vida como refugiado. Obtiene un puesto en el Instituto para Estudios Avanzados, en la Universidad Princeton (Nueva Jersey).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/330px-Albert_Einstein_Head_cleaned.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Albert_Einstein",
+      "popularityScore": 65226
+    }
+  ]
+}
