@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-18",
+  "events": [
+    {
+      "id": "alaska-1867",
+      "year": 1867,
+      "texto": "Estados Unidos compra a Rusia el territorio de Alaska por 7,2 millones de dólares. Este día se celebra como el «Día de Alaska». Alaska ―que siguió hasta hoy el calendario juliano (como el resto del Imperio ruso) y estaba desfasada 12 días con el resto del mundo (que sigue el calendario gregoriano)― desde ayer 6 de octubre da un salto de 12 días y hoy considera que es 18 de octubre.",
+      "textoPista": "Estados Unidos compra a Rusia el territorio de Alaska por 7,2 millones de dólares. Este día se celebra como el «Día de Alaska». Alaska ―que siguió hasta hoy el calendario juliano (como el resto del Imperio ruso) y estaba desfasada 12 días con el resto del mundo (que sigue el calendario gregoriano)― desde ayer 6 de octubre da un salto de 12 días y hoy considera que es 18 de octubre.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Alaska_in_United_States_%28US49%2B1%29.svg/langes-330px-Alaska_in_United_States_%28US49%2B1%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Alaska",
+      "popularityScore": 16941
+    },
+    {
+      "id": "la-habana-1944",
+      "year": 1944,
+      "texto": "la ciudad de La Habana (Cuba) es azotada por un violento huracán durante 14 horas, con vientos superiores a los 200 km/h (una racha midió 262 km/h durante un minuto). Deja 300 muertos. Se considera la tormenta del siglo, a pesar de que Estados Unidos le da ese nombre al huracán de 1993.",
+      "textoPista": "la ciudad de La Habana (Cuba) es azotada por un violento huracán durante 14 horas, con vientos superiores a los 200 km/h (una racha midió 262 km/h durante un minuto). Deja 300 muertos. Se considera la tormenta del siglo, a pesar de que Estados Unidos le da ese nombre al huracán de ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/HavanaMontage.png/330px-HavanaMontage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/La_Habana",
+      "popularityScore": 7581
+    },
+    {
+      "id": "asuncion-1891",
+      "year": 1891,
+      "texto": "en Asunción (Paraguay), se produce la Revolución Liberal en contra de los abusos del gobierno del presidente Juan Gualberto González.",
+      "textoPista": "en Asunción (Paraguay), se produce la Revolución Liberal en contra de los abusos del gobierno del presidente Juan Gualberto González.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_de_Gobierno2.jpg/330px-Palacio_de_Gobierno2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
+      "popularityScore": 8065
+    },
+    {
+      "id": "puerto-rico-1898",
+      "year": 1898,
+      "texto": "Estados Unidos se anexiona la isla de Puerto Rico.",
+      "textoPista": "Estados Unidos se anexiona la isla de Puerto Rico.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg/langes-330px-Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puerto_Rico",
+      "popularityScore": 30373
+    },
+    {
+      "id": "ciclon-tropical-1906",
+      "year": 1906,
+      "texto": "la isla de Cuba es azotada por un violento huracán.",
+      "textoPista": "la isla de Cuba es azotada por un violento huracán.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Huracan_patricia_23-10.jpg/330px-Huracan_patricia_23-10.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Cicl%C3%B3n_tropical",
+      "popularityScore": 8191
+    }
+  ]
+}
