@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-19",
+  "events": [
+    {
+      "id": "lima-2016",
+      "year": 2016,
+      "texto": "en Lima (Perú), tres bomberos de la Compañía de Bomberos Voluntarios Roma N.º 2 fallecen intentando sofocar un incendio en el distrito de El Agustino.",
+      "textoPista": "en Lima (Perú), tres bomberos de la Compañía de Bomberos Voluntarios Roma N.º 2 fallecen intentando sofocar un incendio en el distrito de El Agustino.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/330px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lima",
+      "popularityScore": 17088
+    },
+    {
+      "id": "bogota-2006",
+      "year": 2006,
+      "texto": "en Bogotá (Colombia) explota un coche bomba en el parqueadero de la Escuela Superior de Guerra.",
+      "textoPista": "en Bogotá (Colombia) explota un coche bomba en el parqueadero de la Escuela Superior de Guerra.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 21898
+    },
+    {
+      "id": "camilo-jose-cela-1989",
+      "year": 1989,
+      "texto": "Camilo José Cela obtiene el premio Nobel de Literatura",
+      "textoPista": "Camilo José Cela obtiene el premio Nobel de Literatura",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Camilo_Jos%C3%A9_Cela._Fototeca._Biblioteca_Virtual_del_Patrimonio_Bibliogr%C3%A1fico.jpg/330px-Camilo_Jos%C3%A9_Cela._Fototeca._Biblioteca_Virtual_del_Patrimonio_Bibliogr%C3%A1fico.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Camilo_Jos%C3%A9_Cela",
+      "popularityScore": 8744
+    },
+    {
+      "id": "pandemia-de-covid-19-2020",
+      "year": 2020,
+      "texto": "En Argentina, en marco de la Pandemia de CoVid-19, se superó al millón de casos positivos.",
+      "textoPista": "En Argentina, en marco de la Pandemia de CoVid-19, se superó al millón de casos positivos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/COVID-19_Outbreak_World_Map_per_Capita.svg/langes-330px-COVID-19_Outbreak_World_Map_per_Capita.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19",
+      "popularityScore": 17733
+    },
+    {
+      "id": "lisboa-1921",
+      "year": 1921,
+      "texto": "en Lisboa (Portugal), el primer ministro António Granjo y otros políticos son asesinados en un golpe de Estado.",
+      "textoPista": "en Lisboa (Portugal), el primer ministro António Granjo y otros políticos son asesinados en un golpe de Estado.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg/330px-Lisbon_%2836831596786%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lisboa",
+      "popularityScore": 8982
+    }
+  ]
+}
