@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-20",
+  "events": [
+    {
+      "id": "rosario-argentina-1906",
+      "year": 1906,
+      "texto": "en Rosario (Argentina) se funda el club de fútbol Central Córdoba.",
+      "textoPista": "en Rosario (Argentina) se funda el club de fútbol Central Córdoba.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg/330px-Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rosario_(Argentina)",
+      "popularityScore": 10031
+    },
+    {
+      "id": "santiago-de-chile-1904",
+      "year": 1904,
+      "texto": "en Santiago de Chile se firma el Tratado de 1904 entre Chile y Bolivia que fija un límite definitivo entre ambos países, establece la construcción del ferrocarril Arica-La Paz por parte de Chile, además de una serie de beneficios para Bolivia en los puertos chilenos.",
+      "textoPista": "en Santiago de Chile se firma el Tratado de ▪▪▪▪ entre Chile y Bolivia que fija un límite definitivo entre ambos países, establece la construcción del ferrocarril Arica-La Paz por parte de Chile, además de una serie de beneficios para Bolivia en los puertos chilenos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 18154
+    },
+    {
+      "id": "andalucia-1981",
+      "year": 1981,
+      "texto": "en Andalucía, el Estatuto de Autonomía es ratificado en referéndum.",
+      "textoPista": "en Andalucía, el Estatuto de Autonomía es ratificado en referéndum.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Andalucia_in_Spain_%28including_Canarias%29_%28special_marker%29.svg/langes-330px-Andalucia_in_Spain_%28including_Canarias%29_%28special_marker%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Andaluc%C3%ADa",
+      "popularityScore": 20170
+    },
+    {
+      "id": "evo-morales-2019",
+      "year": 2019,
+      "texto": "en Bolivia se llevan a cabo elecciones, en las cuales triunfa Evo Morales, según la OEA, con fraude.",
+      "textoPista": "en Bolivia se llevan a cabo elecciones, en las cuales triunfa Evo Morales, según la OEA, con fraude.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Evo_Morales_Ayma_%28cropped_3%29.jpg/330px-Evo_Morales_Ayma_%28cropped_3%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Evo_Morales",
+      "popularityScore": 7359
+    },
+    {
+      "id": "ejercito-de-los-estados-unidos-1944",
+      "year": 1944,
+      "texto": "en Alemania ―en el marco de la Segunda Guerra Mundial―, el ejército estadounidense ocupa la ciudad de Aquisgrán.",
+      "textoPista": "en Alemania ―en el marco de la Segunda Guerra Mundial―, el ejército estadounidense ocupa la ciudad de Aquisgrán.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Mark_of_the_United_States_Army.svg/langes-330px-Mark_of_the_United_States_Army.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ej%C3%A9rcito_de_los_Estados_Unidos",
+      "popularityScore": 7097
+    }
+  ]
+}
