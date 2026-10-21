@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-21",
+  "events": [
+    {
+      "id": "bitcoin-2021",
+      "year": 2021,
+      "texto": "Bitcoin Alcanza su máximo histórico superando los $66.000.",
+      "textoPista": "Bitcoin Alcanza su máximo histórico superando los $66.000.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/langes-330px-Bitcoin.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bitcoin",
+      "popularityScore": 6759
+    },
+    {
+      "id": "tegucigalpa-1989",
+      "year": 1989,
+      "texto": "cerca de Tegucigalpa (Honduras), se accidenta el Vuelo 414 de TAN-SAHSA, causando 127 pasajeros y 4 tripulantes muertos. Entre los 15 sobrevivientes están el matrimonio nicaragüense del empresario Carlos Pellas y su esposa Vivian Pellas.",
+      "textoPista": "cerca de Tegucigalpa (Honduras), se accidenta el Vuelo 414 de TAN-SAHSA, causando 127 pasajeros y 4 tripulantes muertos. Entre los 15 sobrevivientes están el matrimonio nicaragüense del empresario Carlos Pellas y su esposa Vivian Pellas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Museo_para_la_Identidad_Nacional.jpg/330px-Museo_para_la_Identidad_Nacional.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tegucigalpa",
+      "popularityScore": 5819
+    },
+    {
+      "id": "tegucigalpa-1956",
+      "year": 1956,
+      "texto": "en Tegucigalpa (Honduras) es derrocado el presidente Julio Lozano Díaz.",
+      "textoPista": "en Tegucigalpa (Honduras) es derrocado el presidente Julio Lozano Díaz.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Museo_para_la_Identidad_Nacional.jpg/330px-Museo_para_la_Identidad_Nacional.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tegucigalpa",
+      "popularityScore": 5819
+    },
+    {
+      "id": "buenos-aires-1951",
+      "year": 1951,
+      "texto": "en el barrio popular de La Boca, en la ciudad argentina de Buenos Aires, se derrumba la cúpula de la iglesia San Juan Evangelista durante la misa del domingo mientras se festejaba el Día de la Madre, con la asistencia de 400 fieles. El accidente dejó un saldo de 9 muertos y unos 20 heridos.",
+      "textoPista": "en el barrio popular de La Boca, en la ciudad argentina de Buenos Aires, se derrumba la cúpula de la iglesia San Juan Evangelista durante la misa del domingo mientras se festejaba el Día de la Madre, con la asistencia de 400 fieles. El accidente dejó un saldo de 9 muertos y unos 20 heridos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 32468
+    },
+    {
+      "id": "cancun-2005",
+      "year": 2005,
+      "texto": "el huracán Wilma impacta Cancún y Playa del Carmen, con vientos de más de 250 km/h es considerado uno de los cinco huracanes más destructivos en la historia de México.",
+      "textoPista": "el huracán Wilma impacta Cancún y Playa del Carmen, con vientos de más de 250 km/h es considerado uno de los cinco huracanes más destructivos en la historia de México.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Cancun_Strand_Luftbild_%2822143397586%29.jpg/330px-Cancun_Strand_Luftbild_%2822143397586%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Canc%C3%BAn",
+      "popularityScore": 7412
+    }
+  ]
+}
