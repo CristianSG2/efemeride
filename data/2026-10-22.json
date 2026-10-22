@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-22",
+  "events": [
+    {
+      "id": "elton-john-1976",
+      "year": 1976,
+      "texto": "el cantautor británico Elton John, publica su undécimo álbum de estudio, Blue Moves.",
+      "textoPista": "el cantautor británico Elton John, publica su undécimo álbum de estudio, Blue Moves.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg/330px-EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Elton_John",
+      "popularityScore": 24868
+    },
+    {
+      "id": "bogota-2014",
+      "year": 2014,
+      "texto": "en Bogotá (Colombia) se inaugura la SIMONU Bogotá 2014 (Simulación de la Organización de las Naciones Unidas), el ejercicio de simulación de las Naciones Unidas más grande de Latinoamérica y el segundo más grande del mundo con más de 2500 participantes.",
+      "textoPista": "en Bogotá (Colombia) se inaugura la SIMONU Bogotá ▪▪▪▪ (Simulación de la Organización de las Naciones Unidas), el ejercicio de simulación de las Naciones Unidas más grande de Latinoamérica y el segundo más grande del mundo con más de 2500 participantes.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 21898
+    },
+    {
+      "id": "puerto-rico-1928",
+      "year": 1928,
+      "texto": "en San Juan (Puerto Rico) se funda la fraternidad universitaria Fi Sigma Alfa.",
+      "textoPista": "en San Juan (Puerto Rico) se funda la fraternidad universitaria Fi Sigma Alfa.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg/langes-330px-Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puerto_Rico",
+      "popularityScore": 30373
+    },
+    {
+      "id": "santiago-de-chile-2005",
+      "year": 2005,
+      "texto": "en Santiago de Chile entra en operación la primera fase de Transantiago, el nuevo sistema de transporte público.",
+      "textoPista": "en Santiago de Chile entra en operación la primera fase de Transantiago, el nuevo sistema de transporte público.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 18154
+    },
+    {
+      "id": "londres-1951",
+      "year": 1951,
+      "texto": "en Londres (Reino Unido) se firma el protocolo de entrada de Grecia y Turquía en la OTAN.",
+      "textoPista": "en Londres (Reino Unido) se firma el protocolo de entrada de Grecia y Turquía en la OTAN.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20914
+    }
+  ]
+}
