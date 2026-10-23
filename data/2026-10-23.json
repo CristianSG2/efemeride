@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-23",
+  "events": [
+    {
+      "id": "londres-1984",
+      "year": 1984,
+      "texto": "en Londres, el canal BBC News emite varios reportajes de televisión que revelan al mundo que en Etiopía se está produciendo una hambruna, donde miles de personas ya han muerto de inanición y hasta 10 millones de personas se encuentran en peligro de muerte.",
+      "textoPista": "en Londres, el canal BBC News emite varios reportajes de televisión que revelan al mundo que en Etiopía se está produciendo una hambruna, donde miles de personas ya han muerto de inanición y hasta 10 millones de personas se encuentran en peligro de muerte.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20914
+    },
+    {
+      "id": "abraham-lincoln-1861",
+      "year": 1861,
+      "texto": "en Estados Unidos, el presidente Abraham Lincoln suspende el derecho de habeas corpus en todos los casos relacionados con los militares.",
+      "textoPista": "en Estados Unidos, el presidente Abraham Lincoln suspende el derecho de habeas corpus en todos los casos relacionados con los militares.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/330px-Abraham_Lincoln_O-77_matte_collodion_print.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Abraham_Lincoln",
+      "popularityScore": 24293
+    },
+    {
+      "id": "nueva-york-1915",
+      "year": 1915,
+      "texto": "en Nueva York (Estados Unidos), 33 000 mujeres marchan por la Quinta Avenida para protestar por su derecho al sufragio femenino.",
+      "textoPista": "en Nueva York (Estados Unidos), 33 000 mujeres marchan por la Quinta Avenida para protestar por su derecho al sufragio femenino.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 36334
+    },
+    {
+      "id": "cartagena-espana-2000",
+      "year": 2000,
+      "texto": "Cartagena (España) sufre una de las inundaciones más grandes de su historia, que se cobran la vida de una persona.",
+      "textoPista": "Cartagena (España) sufre una de las inundaciones más grandes de su historia, que se cobran la vida de una persona.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Bandera_municipal_de_Cartagena.svg/langes-330px-Bandera_municipal_de_Cartagena.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Cartagena_(Espa%C3%B1a)",
+      "popularityScore": 11794
+    },
+    {
+      "id": "budapest-1956",
+      "year": 1956,
+      "texto": "en Budapest (Hungría), miles de civiles protestan contra el gobierno y los soviéticos. El 4 de noviembre será aplastada esta Revolución Húngara de 1956.",
+      "textoPista": "en Budapest (Hungría), miles de civiles protestan contra el gobierno y los soviéticos. El 4 de noviembre será aplastada esta Revolución Húngara de ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/BudapestMontage.jpg/330px-BudapestMontage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Budapest",
+      "popularityScore": 13099
+    }
+  ]
+}
