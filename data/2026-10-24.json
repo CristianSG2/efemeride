@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-24",
+  "events": [
+    {
+      "id": "asuncion-1985",
+      "year": 1985,
+      "texto": "en Asunción, Argentinos Juniors se consagra campeón de la Copa Libertadores por primera vez en su historia.",
+      "textoPista": "en Asunción, Argentinos Juniors se consagra campeón de la Copa Libertadores por primera vez en su historia.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_de_Gobierno2.jpg/330px-Palacio_de_Gobierno2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
+      "popularityScore": 8065
+    },
+    {
+      "id": "acapulco-de-juarez-2023",
+      "year": 2023,
+      "texto": "en la ciudad de Acapulco (México) impacta el huracán Otis con categoría nivel 5. Por los daños causados es considerado el gasto más grande del 2023 a nivel mundial.",
+      "textoPista": "en la ciudad de Acapulco (México) impacta el huracán Otis con categoría nivel 5. Por los daños causados es considerado el gasto más grande del ▪▪▪▪ a nivel mundial.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Museo_Fuerte_de_San_Diego.jpg/330px-Museo_Fuerte_de_San_Diego.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Acapulco_de_Ju%C3%A1rez",
+      "popularityScore": 5213
+    },
+    {
+      "id": "francisco-papa-2024",
+      "year": 2024,
+      "texto": "en Ciudad del Vaticano, el papa Francisco publica su cuarta encíclica, Dilexit nos",
+      "textoPista": "en Ciudad del Vaticano, el papa Francisco publica su cuarta encíclica, Dilexit nos",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg/330px-Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Francisco_(papa)",
+      "popularityScore": 36833
+    },
+    {
+      "id": "sicilia-2011",
+      "year": 2011,
+      "texto": "en Sicilia (Italia), el volcán Etna entra en erupción.",
+      "textoPista": "en Sicilia (Italia), el volcán Etna entra en erupción.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Mazzarino_Sicilia_Monte_Formaggio_22.jpg/330px-Mazzarino_Sicilia_Monte_Formaggio_22.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Sicilia",
+      "popularityScore": 10257
+    },
+    {
+      "id": "television-nacional-de-chile-1969",
+      "year": 1969,
+      "texto": "en Chile se inaugura la televisión nacional.",
+      "textoPista": "en Chile se inaugura la televisión nacional.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/langes-330px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+      "popularityScore": 19433
+    }
+  ]
+}
