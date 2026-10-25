@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-25",
+  "events": [
+    {
+      "id": "provincia-de-buenos-aires-1864",
+      "year": 1864,
+      "texto": "en la Argentina, una ley de la provincia de Buenos Aires divide el territorio al sur y oeste de la provincia en 45 nuevos partidos, creando la actual División territorial y administrativa organización municipal.",
+      "textoPista": "en la Argentina, una ley de la provincia de Buenos Aires divide el territorio al sur y oeste de la provincia en 45 nuevos partidos, creando la actual División territorial y administrativa organización municipal.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg/330px-Cnel_Suar%C3%A9z%2C_Buenos_Aires%2C_Argentina_-_panoramio_%283%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Provincia_de_Buenos_Aires",
+      "popularityScore": 14870
+    },
+    {
+      "id": "buenos-aires-1997",
+      "year": 1997,
+      "texto": "en Buenos Aires (Argentina) el futbolista Diego Armando Maradona juega el último partido de su carrera profesional.",
+      "textoPista": "en Buenos Aires (Argentina) el futbolista Diego Armando Maradona juega el último partido de su carrera profesional.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 32468
+    },
+    {
+      "id": "buenos-aires-1985",
+      "year": 1985,
+      "texto": "en Buenos Aires (Argentina) ―tras menos de dos años de democracia desde la dictadura cívico-militar―, el presidente Raúl Alfonsín decreta el estado de sitio por 60 días para salir al paso de intentos golpistas militares.",
+      "textoPista": "en Buenos Aires (Argentina) ―tras menos de dos años de democracia desde la dictadura cívico-militar―, el presidente Raúl Alfonsín decreta el estado de sitio por 60 días para salir al paso de intentos golpistas militares.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 32468
+    },
+    {
+      "id": "oceano-pacifico-2002",
+      "year": 2002,
+      "texto": "el Huracán Kenna golpea la costa del Pacífico mexicano para posteriormente seguir su trayectoria hacia el norte de México y el sur de Estados Unidos.",
+      "textoPista": "el Huracán Kenna golpea la costa del Pacífico mexicano para posteriormente seguir su trayectoria hacia el norte de México y el sur de Estados Unidos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pacific_Ocean-ES.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Oc%C3%A9ano_Pac%C3%ADfico",
+      "popularityScore": 12752
+    },
+    {
+      "id": "papa-1987",
+      "year": 1987,
+      "texto": "en Ciudad del Vaticano, el papa Juan Pablo II canoniza al médico italiano Giuseppe Moscati.",
+      "textoPista": "en Ciudad del Vaticano, el papa Juan Pablo II canoniza al médico italiano Giuseppe Moscati.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/330px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Papa",
+      "popularityScore": 17430
+    }
+  ]
+}
