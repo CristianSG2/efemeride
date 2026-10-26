@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-26",
+  "events": [
+    {
+      "id": "camara-de-los-lores-1999",
+      "year": 1999,
+      "texto": "en Londres (Reino Unido), la Cámara de los Lores poner fin al derecho hereditario a votar en la cámara alta del Parlamento del Reino Unido.",
+      "textoPista": "en Londres (Reino Unido), la Cámara de los Lores poner fin al derecho hereditario a votar en la cámara alta del Parlamento del Reino Unido.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/House_of_Lords_debates_situation_in_Ukraine_%2851902242817%29.jpg/330px-House_of_Lords_debates_situation_in_Ukraine_%2851902242817%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/C%C3%A1mara_de_los_Lores",
+      "popularityScore": 5206
+    },
+    {
+      "id": "trieste-1954",
+      "year": 1954,
+      "texto": "la ciudad de Trieste vuelve a ser italiana.",
+      "textoPista": "la ciudad de Trieste vuelve a ser italiana.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Trieste_%2828766391880%29.jpg/330px-Trieste_%2828766391880%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Trieste",
+      "popularityScore": 5155
+    },
+    {
+      "id": "mosad-1995",
+      "year": 1995,
+      "texto": "en un hotel en la playa de Sliema, vecina a la ciudad de La Valeta (isla de Malta), agentes del Mossad israelí asesinan al médico Fathi Shaqaqi (44), líder de la Yihad Islámica Palestina.",
+      "textoPista": "en un hotel en la playa de Sliema, vecina a la ciudad de La Valeta (isla de Malta), agentes del Mossad israelí asesinan al médico Fathi Shaqaqi (44), líder de la Yihad Islámica Palestina.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mossad_seal.svg/langes-330px-Mossad_seal.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mosad",
+      "popularityScore": 8626
+    },
+    {
+      "id": "miami-1976",
+      "year": 1976,
+      "texto": "en Miami (Estados Unidos) los terroristas venezolanos Freddy Lugo y Hernán Ricardo ―que junto a los terroristas cubanos Luis Posada Carriles y Orlando Bosch, fueron autores del crimen de Barbados (la explosión del Vuelo 455 de Cubana de Aviación, el 6 de octubre de 1976) organizado por la CIA estadounidense― son deportados a Venezuela.",
+      "textoPista": "en Miami (Estados Unidos) los terroristas venezolanos Freddy Lugo y Hernán Ricardo ―que junto a los terroristas cubanos Luis Posada Carriles y Orlando Bosch, fueron autores del crimen de Barbados (la explosión del Vuelo 455 de Cubana de Aviación, el 6 de octubre de ▪▪▪▪) organizado por la CIA estadounidense― son deportados a Venezuela.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Miami_collage_20110330.jpg/330px-Miami_collage_20110330.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Miami",
+      "popularityScore": 8817
+    },
+    {
+      "id": "george-w-bush-2001",
+      "year": 2001,
+      "texto": "en Washington D. C. (Estados Unidos), el presidente George W. Bush firma la anticonstitucional Resolución 3162 ―o Ley Patriótica―, que brinda ilimitados poderes a la policía, la CIA y el FBI.",
+      "textoPista": "en Washington D. C. (Estados Unidos), el presidente George W. Bush firma la anticonstitucional Resolución 3162 ―o Ley Patriótica―, que brinda ilimitados poderes a la policía, la CIA y el FBI.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/330px-George-W-Bush.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/George_W._Bush",
+      "popularityScore": 50210
+    }
+  ]
+}
