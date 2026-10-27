@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-27",
+  "events": [
+    {
+      "id": "amy-winehouse-2006",
+      "year": 2006,
+      "texto": "Amy Winehouse lanza su álbum Back to Black, el 4 de octubre, en el Reino Unido.",
+      "textoPista": "Amy Winehouse lanza su álbum Back to Black, el 4 de octubre, en el Reino Unido.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Amy_Winehouse_f4962007_crop.jpg/330px-Amy_Winehouse_f4962007_crop.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Amy_Winehouse",
+      "popularityScore": 63660
+    },
+    {
+      "id": "lima-1952",
+      "year": 1952,
+      "texto": "en Lima (Perú) se reinaugura el Estadio Nacional de la calle José Díaz.",
+      "textoPista": "en Lima (Perú) se reinaugura el Estadio Nacional de la calle José Díaz.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/330px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lima",
+      "popularityScore": 17088
+    },
+    {
+      "id": "la-habana-1960",
+      "year": 1960,
+      "texto": "en la calle Estrella n.º 459, en el barrio Cervantes de La Habana (Cuba) ―en el marco de los ataques terroristas organizados por la CIA estadounidense― Juan Alberto Jiménez Yupart (de 13 años) encuentra una bomba en la calle. Al manipularla, esta explota; el niño morirá varios días después.",
+      "textoPista": "en la calle Estrella n.º 459, en el barrio Cervantes de La Habana (Cuba) ―en el marco de los ataques terroristas organizados por la CIA estadounidense― Juan Alberto Jiménez Yupart (de 13 años) encuentra una bomba en la calle. Al manipularla, esta explota; el niño morirá varios días después.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/HavanaMontage.png/330px-HavanaMontage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/La_Habana",
+      "popularityScore": 7581
+    },
+    {
+      "id": "colima-1959",
+      "year": 1959,
+      "texto": "en el estado de Colima (México), un huracán categoría 5 toca tierra cerca de Manzanillo, matando a 1800 personas en la región (Huracán de México de 1959). Desaparecerá en el centro de México el 29 de octubre.",
+      "textoPista": "en el estado de Colima (México), un huracán categoría 5 toca tierra cerca de Manzanillo, matando a 1800 personas en la región (Huracán de México de ▪▪▪▪). Desaparecerá en el centro de México el 29 de octubre.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Colima_%2822527131698%29.jpg/330px-Colima_%2822527131698%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Colima",
+      "popularityScore": 5286
+    },
+    {
+      "id": "mobutu-sese-seko-1971",
+      "year": 1971,
+      "texto": "durante el proceso de «zairización», Mobutu Sese Seko rebautiza a la República del Congo como República de Zaire.",
+      "textoPista": "durante el proceso de «zairización», Mobutu Sese Seko rebautiza a la República del Congo como República de Zaire.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mobutu.jpg/330px-Mobutu.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mobutu_Sese_Seko",
+      "popularityScore": 6327
+    }
+  ]
+}
