@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-28",
+  "events": [
+    {
+      "id": "benito-mussolini-1922",
+      "year": 1922,
+      "texto": "en Italia, se produce la Marcha sobre Roma de Benito Mussolini, dos días antes de ser nombrado primer ministro de Italia.",
+      "textoPista": "en Italia, se produce la Marcha sobre Roma de Benito Mussolini, dos días antes de ser nombrado primer ministro de Italia.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Mussolini_mezzobusto.jpg/330px-Mussolini_mezzobusto.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Benito_Mussolini",
+      "popularityScore": 30541
+    },
+    {
+      "id": "liga-deportiva-universitaria-de-quito-2023",
+      "year": 2023,
+      "texto": "Liga de Quito que después de 14 años, se consagra campeón por segunda vez de la Copa Sudamericana por penales 3-4 ante el Fortaleza Esporte Clube de Brasil.",
+      "textoPista": "Liga de Quito que después de 14 años, se consagra campeón por segunda vez de la Copa Sudamericana por penales 3-4 ante el Fortaleza Esporte Clube de Brasil.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg/langes-330px-Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito",
+      "popularityScore": 12144
+    },
+    {
+      "id": "pablo-picasso-1930",
+      "year": 1930,
+      "texto": "en los Estados Unidos, Pablo Picasso gana el primer premio internacional de pintura Carnegie.",
+      "textoPista": "en los Estados Unidos, Pablo Picasso gana el primer premio internacional de pintura Carnegie.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/330px-Pablo_picasso_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pablo_Picasso",
+      "popularityScore": 31165
+    },
+    {
+      "id": "boris-yeltsin-1993",
+      "year": 1993,
+      "texto": "Borís Yeltsin decreta la propiedad privada del suelo en Rusia.",
+      "textoPista": "Borís Yeltsin decreta la propiedad privada del suelo en Rusia.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bor%C3%ADs_Yeltsin",
+      "popularityScore": 10293
+    },
+    {
+      "id": "caracas-1861",
+      "year": 1861,
+      "texto": "en Caracas (Venezuela), el presidente Manuel Felipe de Tovar funda el Colegio de Ingenieros de Venezuela.",
+      "textoPista": "en Caracas (Venezuela), el presidente Manuel Felipe de Tovar funda el Colegio de Ingenieros de Venezuela.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_Caracas.jpg/330px-Collage_Caracas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Caracas",
+      "popularityScore": 9469
+    }
+  ]
+}
