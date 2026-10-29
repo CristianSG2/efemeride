@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-29",
+  "events": [
+    {
+      "id": "sony-2004",
+      "year": 2004,
+      "texto": "Sony Computer Entertainment lanza una revisión del sistema PlayStation 2 (PlayStation 2 Slim), incluyendo un cable Ethernet.",
+      "textoPista": "Sony Computer Entertainment lanza una revisión del sistema PlayStation 2 (PlayStation 2 Slim), incluyendo un cable Ethernet.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_headquaters_1.jpg/330px-Sony_headquaters_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Sony",
+      "popularityScore": 5311
+    },
+    {
+      "id": "san-salvador-1913",
+      "year": 1913,
+      "texto": "en San Salvador (El Salvador) inundaciones causan enormes destrozos y muchas víctimas.",
+      "textoPista": "en San Salvador (El Salvador) inundaciones causan enormes destrozos y muchas víctimas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/World_Trade_Center_San_Salvador.jpg/330px-World_Trade_Center_San_Salvador.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/San_Salvador",
+      "popularityScore": 6199
+    },
+    {
+      "id": "internet-1969",
+      "year": 1969,
+      "texto": "se envía el primer mensaje a través de ARPANET, antecesora de la red Internet.",
+      "textoPista": "se envía el primer mensaje a través de ARPANET, antecesora de la red Internet.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/330px-Internet_map_1024.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Internet",
+      "popularityScore": 19935
+    },
+    {
+      "id": "san-petersburgo-1862",
+      "year": 1862,
+      "texto": "en el Teatro Bolshoi Kammeny de San Petersburgo (Rusia), Giuseppe Verdi estrena la ópera La forza del destino.",
+      "textoPista": "en el Teatro Bolshoi Kammeny de San Petersburgo (Rusia), Giuseppe Verdi estrena la ópera La forza del destino.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Peter_%26_Paul_fortress_in_SPB_03.jpg/330px-Peter_%26_Paul_fortress_in_SPB_03.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/San_Petersburgo",
+      "popularityScore": 10755
+    },
+    {
+      "id": "canal-de-suez-1956",
+      "year": 1956,
+      "texto": "en Egipto, el presidente Gamal Abdel Nasser, nacionalizó el Canal de Suez, estallando así la Guerra del Sinaí.",
+      "textoPista": "en Egipto, el presidente Gamal Abdel Nasser, nacionalizó el Canal de Suez, estallando así la Guerra del Sinaí.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Suez_Canal_Bridge.jpg/330px-Suez_Canal_Bridge.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Canal_de_Suez",
+      "popularityScore": 8658
+    }
+  ]
+}
