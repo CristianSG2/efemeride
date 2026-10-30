@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-30",
+  "events": [
+    {
+      "id": "euskadi-ta-askatasuna-1988",
+      "year": 1988,
+      "texto": "en España, Emiliano Revilla es dejado en libertad por la banda terrorista ETA después de 249 días de cautiverio.",
+      "textoPista": "en España, Emiliano Revilla es dejado en libertad por la banda terrorista ETA después de 249 días de cautiverio.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/ETA_Symbol.svg/langes-330px-ETA_Symbol.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Euskadi_Ta_Askatasuna",
+      "popularityScore": 20461
+    },
+    {
+      "id": "h-g-wells-1938",
+      "year": 1938,
+      "texto": "en Estados Unidos, el actor Orson Welles provoca pánico en varias ciudades del país al leer por radio La guerra de los mundos (de H. G. Wells).",
+      "textoPista": "en Estados Unidos, el actor Orson Welles provoca pánico en varias ciudades del país al leer por radio La guerra de los mundos (de H. G. Wells).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/H.G._Wells_by_Beresford.jpg/330px-H.G._Wells_by_Beresford.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/H._G._Wells",
+      "popularityScore": 8452
+    },
+    {
+      "id": "nintendo-2020",
+      "year": 2020,
+      "texto": "Nintendo, que todavía decide seguir mejorando Pikmin 4, estrena Pikmin 3 Deluxe para las plataformas de Nintendo Switch.",
+      "textoPista": "Nintendo, que todavía decide seguir mejorando Pikmin 4, estrena Pikmin 3 Deluxe para las plataformas de Nintendo Switch.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Nintendo_Headquarters_-_panoramio.jpg/330px-Nintendo_Headquarters_-_panoramio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nintendo",
+      "popularityScore": 8926
+    },
+    {
+      "id": "dinamarca-1864",
+      "year": 1864,
+      "texto": "en Viena (Austria), Prusia y Austria firman la Paz de Viena con Dinamarca. Finaliza la guerra.",
+      "textoPista": "en Viena (Austria), Prusia y Austria firman la Paz de Viena con Dinamarca. Finaliza la guerra.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Denmark_in_European_Union.svg/langes-330px-Denmark_in_European_Union.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Dinamarca",
+      "popularityScore": 22636
+    },
+    {
+      "id": "luiz-inacio-lula-da-silva-2022",
+      "year": 2022,
+      "texto": "en Brasil, después de doce años es elegido nuevamente presidente Luiz Inácio Lula da Silva luego de un ajustado balotaje contra Jair Bolsonaro.",
+      "textoPista": "en Brasil, después de doce años es elegido nuevamente presidente Luiz Inácio Lula da Silva luego de un ajustado balotaje contra Jair Bolsonaro.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28estreita%29.jpg/330px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28estreita%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+      "popularityScore": 30126
+    }
+  ]
+}
