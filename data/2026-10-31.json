@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-31",
+  "events": [
+    {
+      "id": "londres-1861",
+      "year": 1861,
+      "texto": "en Londres (Inglaterra), representantes de España, Francia y Reino Unido firman la Convención de Londres como respuesta a la ley de suspensión de pagos de 1861 de México.",
+      "textoPista": "en Londres (Inglaterra), representantes de España, Francia y Reino Unido firman la Convención de Londres como respuesta a la ley de suspensión de pagos de ▪▪▪▪ de México.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20914
+    },
+    {
+      "id": "my-chemical-romance-2019",
+      "year": 2019,
+      "texto": "la banda de rock estadounidense My Chemical Romance anuncia su regreso tras 6 años de separación.",
+      "textoPista": "la banda de rock estadounidense My Chemical Romance anuncia su regreso tras 6 años de separación.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/My_Chemical_Romance_rain.jpg/330px-My_Chemical_Romance_rain.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/My_Chemical_Romance",
+      "popularityScore": 7754
+    },
+    {
+      "id": "mahoma-2018",
+      "year": 2018,
+      "texto": "en Pakistán, Asia Bibi es absuelta por el delito de blasfemia contra el Profeta Mahoma.",
+      "textoPista": "en Pakistán, Asia Bibi es absuelta por el delito de blasfemia contra el Profeta Mahoma.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Al-Masjid_AL-Nabawi_Door800x600x300.jpg/330px-Al-Masjid_AL-Nabawi_Door800x600x300.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mahoma",
+      "popularityScore": 22867
+    },
+    {
+      "id": "isabel-ii-de-espana-1850",
+      "year": 1850,
+      "texto": "en Madrid (España), la reina Isabel II inaugura en la Carrera de San Jerónimo la sesión inaugural de las Cortes Españolas en su nueva sede, el actual Congreso de los Diputados.",
+      "textoPista": "en Madrid (España), la reina Isabel II inaugura en la Carrera de San Jerónimo la sesión inaugural de las Cortes Españolas en su nueva sede, el actual Congreso de los Diputados.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Isabel_de_Borb%C3%B3n_y_Borb%C3%B3n-Dos_Sicilias.jpg/330px-Isabel_de_Borb%C3%B3n_y_Borb%C3%B3n-Dos_Sicilias.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Isabel_II_de_Espa%C3%B1a",
+      "popularityScore": 24298
+    },
+    {
+      "id": "puerto-rico-1950",
+      "year": 1950,
+      "texto": "En Puerto Rico continúan los combates entre tropas estadounidenses y nacionalistas puertorriqueños en el segundo día de la Revolución Nacionalista, la que se extenderá a los Estados Unidos el 1 de noviembre.",
+      "textoPista": "En Puerto Rico continúan los combates entre tropas estadounidenses y nacionalistas puertorriqueños en el segundo día de la Revolución Nacionalista, la que se extenderá a los Estados Unidos el 1 de noviembre.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg/langes-330px-Puerto_Rico_on_the_globe_%28Caribbean_special%29_%28Americas_centered%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Puerto_Rico",
+      "popularityScore": 30373
+    }
+  ]
+}
