@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-01",
+  "events": [
+    {
+      "id": "escandalo-watergate-1973",
+      "year": 1973,
+      "texto": "en los Estados Unidos, Leon Jaworski es nombrado fiscal del caso en el escándalo Watergate.",
+      "textoPista": "en los Estados Unidos, Leon Jaworski es nombrado fiscal del caso en el escándalo Watergate.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/WatergateFromAir.JPG/330px-WatergateFromAir.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Esc%C3%A1ndalo_Watergate",
+      "popularityScore": 5799
+    },
+    {
+      "id": "club-deportivo-universidad-catolica-futbol-1994",
+      "year": 1994,
+      "texto": "Universidad Católica se consagra campeón de la Copa Interamericana.",
+      "textoPista": "Universidad Católica se consagra campeón de la Copa Interamericana.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg/langes-330px-Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Deportivo_Universidad_Cat%C3%B3lica_(f%C3%BAtbol)",
+      "popularityScore": 5568
+    },
+    {
+      "id": "copa-mundial-de-futbol-2016",
+      "year": 2016,
+      "texto": "Miroslav Klose, hasta la fecha el máximo goleador en la historia de las Copas del Mundo, se retira oficialmente del fútbol.",
+      "textoPista": "Miroslav Klose, hasta la fecha el máximo goleador en la historia de las Copas del Mundo, se retira oficialmente del fútbol.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg/330px-FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol",
+      "popularityScore": 47157
+    },
+    {
+      "id": "leon-xiii-1885",
+      "year": 1885,
+      "texto": "en Roma, el papa León XIII publica la encíclica Misericors dei filius, acerca de la naturaleza sobrenatural de la Iglesia, las relaciones entre el poder eclesiástico y el poder civil, la «iniquidad» del humanismo y la libertad religiosa, la tendencia moderna a marginar la autoridad de la Iglesia, y la «injusticia» de las concepciones libertarias.",
+      "textoPista": "en Roma, el papa León XIII publica la encíclica Misericors dei filius, acerca de la naturaleza sobrenatural de la Iglesia, las relaciones entre el poder eclesiástico y el poder civil, la «iniquidad» del humanismo y la libertad religiosa, la tendencia moderna a marginar la autoridad de la Iglesia, y la «injusticia» de las concepciones libertarias.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Papa_Leone_XIII.jpeg/330px-Papa_Leone_XIII.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIII",
+      "popularityScore": 10283
+    },
+    {
+      "id": "carolina-del-norte-1859",
+      "year": 1859,
+      "texto": "se inaugura el faro de Cape Lookout (Carolina del Norte). Sus lentes de Fresnel se pueden ver desde 30 kilómetros.",
+      "textoPista": "se inaugura el faro de Cape Lookout (Carolina del Norte). Sus lentes de Fresnel se pueden ver desde 30 kilómetros.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/North_Carolina_in_United_States.svg/langes-330px-North_Carolina_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Carolina_del_Norte",
+      "popularityScore": 5520
+    }
+  ]
+}
