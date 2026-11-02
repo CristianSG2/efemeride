@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-02",
+  "events": [
+    {
+      "id": "congreso-de-los-diputados-2006",
+      "year": 2006,
+      "texto": "en Madrid, el Congreso de los Diputados aprueba, sin votos en contra y con solo dos abstenciones, la reforma del Estatuto de Autonomía de Andalucía, la primera y única reforma estatutaria en España que consigue semejante consenso.",
+      "textoPista": "en Madrid, el Congreso de los Diputados aprueba, sin votos en contra y con solo dos abstenciones, la reforma del Estatuto de Autonomía de Andalucía, la primera y única reforma estatutaria en España que consigue semejante consenso.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Solemne_apertura_de_la_XIV_Legislatura_04.jpg/330px-Solemne_apertura_de_la_XIV_Legislatura_04.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Congreso_de_los_Diputados",
+      "popularityScore": 41581
+    },
+    {
+      "id": "londres-1959",
+      "year": 1959,
+      "texto": "en Inglaterra se inaugura el primer tramo de la autopista que enlazará Londres con Birmingham.",
+      "textoPista": "en Inglaterra se inaugura el primer tramo de la autopista que enlazará Londres con Birmingham.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Londres",
+      "popularityScore": 20549
+    },
+    {
+      "id": "seul-1974",
+      "year": 1974,
+      "texto": "en Seúl (Corea del Sur) mueren 78 personas al incendiarse el club Time Go-Go. Seis de las víctimas saltaron desde el 7.º piso, ya que un guardián del club cerró las puertas de salida después del inicio del incendio.",
+      "textoPista": "en Seúl (Corea del Sur) mueren 78 personas al incendiarse el club Time Go-Go. Seis de las víctimas saltaron desde el 7.º piso, ya que un guardián del club cerró las puertas de salida después del inicio del incendio.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg/330px-%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Se%C3%BAl",
+      "popularityScore": 8811
+    },
+    {
+      "id": "dolar-estadounidense-1895",
+      "year": 1895,
+      "texto": "en los Estados Unidos se realiza la primera carrera de automóviles a gasolina. Primer premio: 2000 dólares estadounidenses.",
+      "textoPista": "en los Estados Unidos se realiza la primera carrera de automóviles a gasolina. Primer premio: ▪▪▪▪ dólares estadounidenses.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/USDnotesNew.png/330px-USDnotesNew.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense",
+      "popularityScore": 18753
+    },
+    {
+      "id": "caracas-1956",
+      "year": 1956,
+      "texto": "desde Caracas (Venezuela), el presidente exiliado Juan Domingo Perón nombra como líder de la Resistencia contra la dictadura al joven diputado argentino John William Cooke.",
+      "textoPista": "desde Caracas (Venezuela), el presidente exiliado Juan Domingo Perón nombra como líder de la Resistencia contra la dictadura al joven diputado argentino John William Cooke.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_Caracas.jpg/330px-Collage_Caracas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Caracas",
+      "popularityScore": 10089
+    }
+  ]
+}
