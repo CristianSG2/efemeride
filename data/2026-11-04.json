@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-04",
+  "events": [
+    {
+      "id": "tutankamon-2007",
+      "year": 2007,
+      "texto": "se expone, por primera vez en la historia, la momia de Tutankamón en el Valle de los Reyes en Luxor.",
+      "textoPista": "se expone, por primera vez en la historia, la momia de Tutankamón en el Valle de los Reyes en Luxor.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/330px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tutankam%C3%B3n",
+      "popularityScore": 17041
+    },
+    {
+      "id": "enrique-vila-matas-2000",
+      "year": 2000,
+      "texto": "el escritor español Enrique Vila-Matas gana el Premio Herralde de novela con la obra El mal de Montano.",
+      "textoPista": "el escritor español Enrique Vila-Matas gana el Premio Herralde de novela con la obra El mal de Montano.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Vilamatas.jpg/330px-Vilamatas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Enrique_Vila-Matas",
+      "popularityScore": 14049
+    },
+    {
+      "id": "ciudad-de-mexico-2008",
+      "year": 2008,
+      "texto": "en la Ciudad de México ocurre un accidente aéreo en el que mueren 16 personas entre ellos el entonces secretario de gobernación Juan Camilo Mouriño.",
+      "textoPista": "en la Ciudad de México ocurre un accidente aéreo en el que mueren 16 personas entre ellos el entonces secretario de gobernación Juan Camilo Mouriño.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg/330px-Catedral_Metropolitana_de_la_Ciudad_de_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico",
+      "popularityScore": 44902
+    },
+    {
+      "id": "sigmund-freud-1899",
+      "year": 1899,
+      "texto": "en Alemania, Sigmund Freud publica La interpretación de los sueños.",
+      "textoPista": "en Alemania, Sigmund Freud publica La interpretación de los sueños.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/330px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Sigmund_Freud",
+      "popularityScore": 26861
+    },
+    {
+      "id": "euskadi-ta-askatasuna-1982",
+      "year": 1982,
+      "texto": "en España, la banda terrorista ETA asesina a Víctor Lago, jefe de la División Acorazada Brunete.",
+      "textoPista": "en España, la banda terrorista ETA asesina a Víctor Lago, jefe de la División Acorazada Brunete.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/ETA_Symbol.svg/langes-330px-ETA_Symbol.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Euskadi_Ta_Askatasuna",
+      "popularityScore": 29939
+    }
+  ]
+}
