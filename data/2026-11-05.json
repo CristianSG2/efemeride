@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-05",
+  "events": [
+    {
+      "id": "buenos-aires-1956",
+      "year": 1956,
+      "texto": "en Buenos Aires (Argentina) se crea la Universidad del Museo Social Argentino.",
+      "textoPista": "en Buenos Aires (Argentina) se crea la Universidad del Museo Social Argentino.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 32496
+    },
+    {
+      "id": "francisco-jose-i-de-austria-1916",
+      "year": 1916,
+      "texto": "el emperador Guillermo II de Alemania y Francisco José I de Austria proclaman el reino independiente de Polonia.",
+      "textoPista": "el emperador Guillermo II de Alemania y Francisco José I de Austria proclaman el reino independiente de Polonia.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Emperor_Francis_Joseph.jpg/330px-Emperor_Francis_Joseph.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Francisco_Jos%C3%A9_I_de_Austria",
+      "popularityScore": 23932
+    },
+    {
+      "id": "lima-1905",
+      "year": 1905,
+      "texto": "en Lima (Perú), el militar argentino Roque Sáenz Peña (1851-1914), más tarde presidente de Argentina ―en calidad de general del Ejército peruano y compañero en la batalla de Arica― preside la inauguración del monumento al coronel Francisco Bolognesi (1816-1880).",
+      "textoPista": "en Lima (Perú), el militar argentino Roque Sáenz Peña (▪▪▪▪-▪▪▪▪), más tarde presidente de Argentina ―en calidad de general del Ejército peruano y compañero en la batalla de Arica― preside la inauguración del monumento al coronel Francisco Bolognesi (1816-▪▪▪▪).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/330px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lima",
+      "popularityScore": 17043
+    },
+    {
+      "id": "buenos-aires-1911",
+      "year": 1911,
+      "texto": "en la ciudad de Buenos Aires (Argentina), Jorge Newbery, pionero de la aviación en ese país, logra el récord sudamericano de altura al ascender en el globo aerostático Buenos Aires hasta los 5100 metros.",
+      "textoPista": "en la ciudad de Buenos Aires (Argentina), Jorge Newbery, pionero de la aviación en ese país, logra el récord sudamericano de altura al ascender en el globo aerostático Buenos Aires hasta los 5100 metros.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 32496
+    },
+    {
+      "id": "partido-democrata-estados-unidos-1912",
+      "year": 1912,
+      "texto": "en los Estados Unidos, el demócrata Woodrow Wilson es elegido presidente.",
+      "textoPista": "en los Estados Unidos, el demócrata Woodrow Wilson es elegido presidente.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Democratic_Disc.svg/langes-330px-Democratic_Disc.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Partido_Dem%C3%B3crata_(Estados_Unidos)",
+      "popularityScore": 40695
+    }
+  ]
+}
