@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-06",
+  "events": [
+    {
+      "id": "partido-republicano-estados-unidos-1956",
+      "year": 1956,
+      "texto": "en los Estados Unidos, el candidato republicano Dwight D. Eisenhower es reelegido presidente tras derrotar al demócrata Adlai E. Stevenson.",
+      "textoPista": "en los Estados Unidos, el candidato republicano Dwight D. Eisenhower es reelegido presidente tras derrotar al demócrata Adlai E. Stevenson.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Republican_Party_Disc_%28alternate%29.svg/langes-330px-Republican_Party_Disc_%28alternate%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Partido_Republicano_(Estados_Unidos)",
+      "popularityScore": 30327
+    },
+    {
+      "id": "alberto-fujimori-2005",
+      "year": 2005,
+      "texto": "el expresidente peruano Alberto Fujimori llega a Santiago de Chile desde Tokio, a bordo de un vuelo privado, acabando con su exilio japonés.",
+      "textoPista": "el expresidente peruano Alberto Fujimori llega a Santiago de Chile desde Tokio, a bordo de un vuelo privado, acabando con su exilio japonés.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg/330px-Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Alberto_Fujimori",
+      "popularityScore": 22741
+    },
+    {
+      "id": "barack-obama-2012",
+      "year": 2012,
+      "texto": "en Estados Unidos el demócrata Barack Obama es reelegido presidente al derrotar al republicano Mitt Romney.",
+      "textoPista": "en Estados Unidos el demócrata Barack Obama es reelegido presidente al derrotar al republicano Mitt Romney.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Barack_Obama",
+      "popularityScore": 27845
+    },
+    {
+      "id": "winona-ryder-2002",
+      "year": 2002,
+      "texto": "en los Estados Unidos, Winona Ryder es declarada culpable de robar objetos por el valor de 5500 dólares estadounidenses de una boutique de Nueva York.",
+      "textoPista": "en los Estados Unidos, Winona Ryder es declarada culpable de robar objetos por el valor de 5500 dólares estadounidenses de una boutique de Nueva York.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Winona_Ryder-63849_%28cropped%29.jpg/330px-Winona_Ryder-63849_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Winona_Ryder",
+      "popularityScore": 20379
+    },
+    {
+      "id": "netflix-2021",
+      "year": 2021,
+      "texto": "en Netflix se estrenó mundialmente la serie Arcane, inspirada en el universo del videojuego League of Legends y considerada una obra maestra de la animación y una de las mejores series del 2021.",
+      "textoPista": "en Netflix se estrenó mundialmente la serie Arcane, inspirada en el universo del videojuego League of Legends y considerada una obra maestra de la animación y una de las mejores series del ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/100_Winchester_Circle.jpg/330px-100_Winchester_Circle.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Netflix",
+      "popularityScore": 20146
+    }
+  ]
+}
