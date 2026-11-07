@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-07",
+  "events": [
+    {
+      "id": "revolucion-rusa-1917",
+      "year": 1917,
+      "texto": "en el marco de la Revolución rusa, los líderes bolcheviques Vladimir Lenin y León Trotski ocupan puestos estratégicos en Petrogrado, dando así comienzo efectivo a la revolución. A veces se la llama Revolución de octubre porque, de acuerdo con el calendario juliano que se utilizaba todavía en Rusia, ocurrió el 25 de octubre.",
+      "textoPista": "en el marco de la Revolución rusa, los líderes bolcheviques Vladimir Lenin y León Trotski ocupan puestos estratégicos en Petrogrado, dando así comienzo efectivo a la revolución. A veces se la llama Revolución de octubre porque, de acuerdo con el calendario juliano que se utilizaba todavía en Rusia, ocurrió el 25 de octubre.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Reuni%C3%B3nPol%C3%ADticaEnLaF%C3%A1bricaPutilov--throughrussianre00willuoft.jpg/330px-Reuni%C3%B3nPol%C3%ADticaEnLaF%C3%A1bricaPutilov--throughrussianre00willuoft.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_rusa",
+      "popularityScore": 8109
+    },
+    {
+      "id": "esclavitud-1886",
+      "year": 1886,
+      "texto": "en Cuba se abole la esclavitud.",
+      "textoPista": "en Cuba se abole la esclavitud.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Slavezanzibar2.JPG/330px-Slavezanzibar2.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Esclavitud",
+      "popularityScore": 5030
+    },
+    {
+      "id": "templo-expiatorio-de-la-sagrada-familia-2010",
+      "year": 2010,
+      "texto": "en Barcelona (España), el papa Benedicto XVI ―durante su segundo viaje a España― consagra el Templo Expiatorio de la Sagrada Familia como basílica menor.",
+      "textoPista": "en Barcelona (España), el papa Benedicto XVI ―durante su segundo viaje a España― consagra el Templo Expiatorio de la Sagrada Familia como basílica menor.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/SF_octubre_26.jpg/330px-SF_octubre_26.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Templo_Expiatorio_de_la_Sagrada_Familia",
+      "popularityScore": 17608
+    },
+    {
+      "id": "rosario-argentina-1986",
+      "year": 1986,
+      "texto": "en Rosario (Argentina), el psicópata Walter De Giusti asesina a las abuelas del músico rosarino Fito Páez.",
+      "textoPista": "en Rosario (Argentina), el psicópata Walter De Giusti asesina a las abuelas del músico rosarino Fito Páez.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg/330px-Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rosario_(Argentina)",
+      "popularityScore": 9127
+    },
+    {
+      "id": "santo-domingo-1907",
+      "year": 1907,
+      "texto": "en Santo Domingo es fundado el equipo de béisbol Tigres del Licey.",
+      "textoPista": "en Santo Domingo es fundado el equipo de béisbol Tigres del Licey.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SantoDomingoedit.JPG/330px-SantoDomingoedit.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santo_Domingo",
+      "popularityScore": 9858
+    }
+  ]
+}
