@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-08",
+  "events": [
+    {
+      "id": "munich-1895",
+      "year": 1895,
+      "texto": "en Múnich (Alemania), el físico Wilhelm Röntgen, mientras realiza experimentos con electricidad, descubre los rayos X.",
+      "textoPista": "en Múnich (Alemania), el físico Wilhelm Röntgen, mientras realiza experimentos con electricidad, descubre los rayos X.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Munich_montage.png/330px-Munich_montage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/M%C3%BAnich",
+      "popularityScore": 7537
+    },
+    {
+      "id": "pena-de-muerte-1965",
+      "year": 1965,
+      "texto": "en Reino Unido es abolida la pena de muerte.",
+      "textoPista": "en Reino Unido es abolida la pena de muerte.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Capital_punishment_in_the_world_purple-green.svg/langes-330px-Capital_punishment_in_the_world_purple-green.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pena_de_muerte",
+      "popularityScore": 13281
+    },
+    {
+      "id": "montana-1889",
+      "year": 1889,
+      "texto": "en los Estados Unidos, Montana es admitida como el estado número 41.",
+      "textoPista": "en los Estados Unidos, Montana es admitida como el estado número 41.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Montana_in_United_States.svg/langes-330px-Montana_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Montana",
+      "popularityScore": 10909
+    },
+    {
+      "id": "massachusetts-1966",
+      "year": 1966,
+      "texto": "en los Estados Unidos el fiscal general por Massachusetts, Edward Brooke, se convierte en el primer afroestadounidense elegido para el Senado de los Estados Unidos.",
+      "textoPista": "en los Estados Unidos el fiscal general por Massachusetts, Edward Brooke, se convierte en el primer afroestadounidense elegido para el Senado de los Estados Unidos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Massachusetts_in_United_States.svg/langes-330px-Massachusetts_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Massachusetts",
+      "popularityScore": 7877
+    },
+    {
+      "id": "munich-1923",
+      "year": 1923,
+      "texto": "en la cervecería Bürgerbräukeller, de la ciudad de Múnich (Alemania), Adolf Hitler y sus nazis llevan a cabo el Putsch de la Cervecería, intento fallido de golpe de Estado organizado contra la república democrática. Hitler cae preso.",
+      "textoPista": "en la cervecería Bürgerbräukeller, de la ciudad de Múnich (Alemania), Adolf Hitler y sus nazis llevan a cabo el Putsch de la Cervecería, intento fallido de golpe de Estado organizado contra la república democrática. Hitler cae preso.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Munich_montage.png/330px-Munich_montage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/M%C3%BAnich",
+      "popularityScore": 7537
+    }
+  ]
+}
