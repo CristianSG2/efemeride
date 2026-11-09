@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-09",
+  "events": [
+    {
+      "id": "boston-1857",
+      "year": 1857,
+      "texto": "en Boston se funda la revista The Atlantic.",
+      "textoPista": "en Boston se funda la revista The Atlantic.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Boston_-Massachusetts_State_House_%2848718911666%29.jpg/330px-Boston_-Massachusetts_State_House_%2848718911666%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Boston",
+      "popularityScore": 8649
+    },
+    {
+      "id": "electricidad-1965",
+      "year": 1965,
+      "texto": "una interrupción en el suministro eléctrico durante 12 horas afecta a siete estados del noreste de los Estados Unidos y dos provincias de Canadá, suceso conocido como el Gran Apagón, que afectó a 30 millones de personas.",
+      "textoPista": "una interrupción en el suministro eléctrico durante 12 horas afecta a siete estados del noreste de los Estados Unidos y dos provincias de Canadá, suceso conocido como el Gran Apagón, que afectó a 30 millones de personas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Lightning3.jpg/330px-Lightning3.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Electricidad",
+      "popularityScore": 6062
+    },
+    {
+      "id": "moscu-1985",
+      "year": 1985,
+      "texto": "en Moscú, el soviético Gari Kaspárov de 22 años se erige campeón mundial de ajedrez al derrotar a su compatriota Anatoly Karpov.",
+      "textoPista": "en Moscú, el soviético Gari Kaspárov de 22 años se erige campeón mundial de ajedrez al derrotar a su compatriota Anatoly Karpov.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/330px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mosc%C3%BA",
+      "popularityScore": 8370
+    },
+    {
+      "id": "pena-de-muerte-1998",
+      "year": 1998,
+      "texto": "en Reino Unido se abole completamente la pena de muerte, que estaba abolida solo para casos de asesinato.",
+      "textoPista": "en Reino Unido se abole completamente la pena de muerte, que estaba abolida solo para casos de asesinato.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Capital_punishment_in_the_world_purple-green.svg/langes-330px-Capital_punishment_in_the_world_purple-green.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pena_de_muerte",
+      "popularityScore": 13281
+    },
+    {
+      "id": "euro-1999",
+      "year": 1999,
+      "texto": "en la Unión Europea se limita a un máximo de dos meses el periodo de convivencia del euro con las monedas nacionales.",
+      "textoPista": "en la Unión Europea se limita a un máximo de dos meses el periodo de convivencia del euro con las monedas nacionales.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Euro_coins_line.jpg/330px-Euro_coins_line.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Euro",
+      "popularityScore": 9373
+    }
+  ]
+}
