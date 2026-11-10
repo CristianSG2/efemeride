@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-10",
+  "events": [
+    {
+      "id": "luna-1968",
+      "year": 1968,
+      "texto": "la Unión Soviética lanza su sonda espacial Zond 6, que enviará fotografías de la Luna.",
+      "textoPista": "la Unión Soviética lanza su sonda espacial Zond 6, que enviará fotografías de la Luna.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/330px-Full_Moon_Luc_Viatour.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Luna",
+      "popularityScore": 22524
+    },
+    {
+      "id": "lima-2020",
+      "year": 2020,
+      "texto": "en Lima, Manuel Merino asume la presidencia del Perú tras la vacancia del entonces jefe de Estado, Martín Vizcarra, generando rechazos de sectores izquierdistas y protestas a nivel nacional.",
+      "textoPista": "en Lima, Manuel Merino asume la presidencia del Perú tras la vacancia del entonces jefe de Estado, Martín Vizcarra, generando rechazos de sectores izquierdistas y protestas a nivel nacional.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/330px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lima",
+      "popularityScore": 17043
+    },
+    {
+      "id": "youtube-2021",
+      "year": 2021,
+      "texto": "la plataforma YouTube decide ocultar el conteo de «no me gusta» (dislikes) para mitigar el presunto ambiente acoso contra youtubers.",
+      "textoPista": "la plataforma YouTube decide ocultar el conteo de «no me gusta» (dislikes) para mitigar el presunto ambiente acoso contra youtubers.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png/330px-Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/YouTube",
+      "popularityScore": 390676
+    },
+    {
+      "id": "holocausto-1938",
+      "year": 1938,
+      "texto": "en Alemania y Austria inicia el Holocausto con la Noche de los Cristales Rotos.",
+      "textoPista": "en Alemania y Austria inicia el Holocausto con la Noche de los Cristales Rotos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mass_Grave_at_Bergen-Belsen_concentration_camp_-_Fritz_Klein_-_IWM_BU4260.jpg/330px-Mass_Grave_at_Bergen-Belsen_concentration_camp_-_Fritz_Klein_-_IWM_BU4260.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Holocausto",
+      "popularityScore": 16499
+    },
+    {
+      "id": "tokio-1855",
+      "year": 1855,
+      "texto": "en la ciudad de Tokio (Japón), un terremoto provoca la muerte de más de 100 000 personas.",
+      "textoPista": "en la ciudad de Tokio (Japón), un terremoto provoca la muerte de más de 100 000 personas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Shinjuku_central_park_southwest.jpg/330px-Shinjuku_central_park_southwest.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tokio",
+      "popularityScore": 13681
+    }
+  ]
+}
