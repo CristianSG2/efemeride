@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-11",
+  "events": [
+    {
+      "id": "club-atletico-river-plate-2018",
+      "year": 2018,
+      "texto": "en el estadio de Boca Juniors, en Buenos Aires (Argentina), los equipos de fútbol River Plate y Boca Juniors disputan la primera final de la Copa Libertadores 2018.",
+      "textoPista": "en el estadio de Boca Juniors, en Buenos Aires (Argentina), los equipos de fútbol River Plate y Boca Juniors disputan la primera final de la Copa Libertadores ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/langes-330px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate",
+      "popularityScore": 27383
+    },
+    {
+      "id": "nasa-1966",
+      "year": 1966,
+      "texto": "en los Estados Unidos, la NASA lanza la nave espacial Géminis 12.",
+      "textoPista": "en los Estados Unidos, la NASA lanza la nave espacial Géminis 12.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/langes-330px-NASA_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/NASA",
+      "popularityScore": 7132
+    },
+    {
+      "id": "santiago-de-chile-1959",
+      "year": 1959,
+      "texto": "en Santiago, La U vence a Colo-Colo por 2-1 de local y se consagra campeón del Torneo Chileno de 1959.",
+      "textoPista": "en Santiago, La U vence a Colo-Colo por 2-1 de local y se consagra campeón del Torneo Chileno de ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 18750
+    },
+    {
+      "id": "anglicanismo-1992",
+      "year": 1992,
+      "texto": "la Iglesia anglicana permite el sacerdocio femenino.",
+      "textoPista": "la Iglesia anglicana permite el sacerdocio femenino.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/330px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Anglicanismo",
+      "popularityScore": 11184
+    },
+    {
+      "id": "escala-sismologica-de-richter-1855",
+      "year": 1855,
+      "texto": "en Japón, a las 22:00 sucede un terremoto de magnitud 6,4 en la escala sismológica de Richter, con epicentro en Tokio. Deja un saldo de 7 444 a 10 000 muertos (Terremoto de Ansei Edo).",
+      "textoPista": "en Japón, a las 22:00 sucede un terremoto de magnitud 6,4 en la escala sismológica de Richter, con epicentro en Tokio. Deja un saldo de 7 444 a 10 000 muertos (Terremoto de Ansei Edo).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+      "popularityScore": 14018
+    }
+  ]
+}
