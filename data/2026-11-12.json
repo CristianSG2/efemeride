@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-12",
+  "events": [
+    {
+      "id": "antartida-1912",
+      "year": 1912,
+      "texto": "en la Antártida descubren el cadáver congelado del explorador británico Robert Scott (1868-1912).",
+      "textoPista": "en la Antártida descubren el cadáver congelado del explorador británico Robert Scott (▪▪▪▪-▪▪▪▪).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Antarctica_on_the_globe_%28red%29.svg/langes-330px-Antarctica_on_the_globe_%28red%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ant%C3%A1rtida",
+      "popularityScore": 20020
+    },
+    {
+      "id": "tokio-1948",
+      "year": 1948,
+      "texto": "en Tokio se celebra el juicio internacional por los crímenes de guerra a siete militares japoneses, incluido el general Hideki Tōjō.",
+      "textoPista": "en Tokio se celebra el juicio internacional por los crímenes de guerra a siete militares japoneses, incluido el general Hideki Tōjō.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Shinjuku_central_park_southwest.jpg/330px-Shinjuku_central_park_southwest.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Tokio",
+      "popularityScore": 13681
+    },
+    {
+      "id": "nueva-york-2001",
+      "year": 2001,
+      "texto": "en Nueva York se reúnen por última vez los tres ex-Beatles sobrevivientes, Paul McCartney, Ringo Starr y George Harrison, a petición expresa de este último, quien fallecería 17 días después, el 29 de noviembre.",
+      "textoPista": "en Nueva York se reúnen por última vez los tres ex-Beatles sobrevivientes, Paul McCartney, Ringo Starr y George Harrison, a petición expresa de este último, quien fallecería 17 días después, el 29 de noviembre.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 30158
+    },
+    {
+      "id": "asuncion-1864",
+      "year": 1864,
+      "texto": "en Asunción, el presidente Francisco Solano López ordena la captura del buque brasileño Marqués de Olinda. Esta acción desencadena el inicio de la guerra de la Triple Alianza.",
+      "textoPista": "en Asunción, el presidente Francisco Solano López ordena la captura del buque brasileño Marqués de Olinda. Esta acción desencadena el inicio de la guerra de la Triple Alianza.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_de_Gobierno2.jpg/330px-Palacio_de_Gobierno2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
+      "popularityScore": 8754
+    },
+    {
+      "id": "terremoto-2017",
+      "year": 2017,
+      "texto": "en Costa Rica, un terremoto de 6,9 grados sacude a la región, matando a 3 personas.",
+      "textoPista": "en Costa Rica, un terremoto de 6,9 grados sacude a la región, matando a 3 personas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Haiti_earthquake_damage.jpg/330px-Haiti_earthquake_damage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Terremoto",
+      "popularityScore": 22072
+    }
+  ]
+}
