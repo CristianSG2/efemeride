@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-13",
+  "events": [
+    {
+      "id": "washington-d-c-1969",
+      "year": 1969,
+      "texto": "en Washington (DC), capital de Estados Unidos ―en el marco de la guerra de Vietnam (1955-1975)― los manifestantes contra la guerra organizan una marcha simbólica contra la muerte.",
+      "textoPista": "en Washington (DC), capital de Estados Unidos ―en el marco de la guerra de Vietnam (▪▪▪▪-▪▪▪▪)― los manifestantes contra la guerra organizan una marcha simbólica contra la muerte.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/LincolnParkDC-8063-101922_%28cropped%29.jpg/330px-LincolnParkDC-8063-101922_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Washington_D._C.",
+      "popularityScore": 15364
+    },
+    {
+      "id": "charles-de-gaulle-1945",
+      "year": 1945,
+      "texto": "en Francia, la Asamblea Constituyente proclama unánimemente a Charles De Gaulle como jefe del Gobierno provisional francés.",
+      "textoPista": "en Francia, la Asamblea Constituyente proclama unánimemente a Charles De Gaulle como jefe del Gobierno provisional francés.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/De_Gaulle-OWI_%28cropped%29-%28d%29.jpg/330px-De_Gaulle-OWI_%28cropped%29-%28d%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Charles_de_Gaulle",
+      "popularityScore": 16623
+    },
+    {
+      "id": "galicia-2002",
+      "year": 2002,
+      "texto": "ante las costas de Galicia (España) comienza el hundimiento del petrolero Prestige, que terminará de hundirse seis días después.",
+      "textoPista": "ante las costas de Galicia (España) comienza el hundimiento del petrolero Prestige, que terminará de hundirse seis días después.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Galicia_in_Spain_%28including_Canarias%29.svg/langes-330px-Galicia_in_Spain_%28including_Canarias%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Galicia",
+      "popularityScore": 19824
+    },
+    {
+      "id": "buenos-aires-1962",
+      "year": 1962,
+      "texto": "en Buenos Aires (Argentina) sale el primer número de la revista Primera Plana, dirigida por Jacobo Tímerman.",
+      "textoPista": "en Buenos Aires (Argentina) sale el primer número de la revista Primera Plana, dirigida por Jacobo Tímerman.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/CABA_-_Avenida_9_de_Julio.jpg/330px-CABA_-_Avenida_9_de_Julio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Buenos_Aires",
+      "popularityScore": 32496
+    },
+    {
+      "id": "chicago-1887",
+      "year": 1887,
+      "texto": "en la ciudad de Chicago (Estados Unidos) el patriota cubano José Martí escribe la crónica Un drama terrible, que resume el juicio espurio y la ejecución de los obreros anarquistas (que generará la celebración mundial del Día del Trabajador).",
+      "textoPista": "en la ciudad de Chicago (Estados Unidos) el patriota cubano José Martí escribe la crónica Un drama terrible, que resume el juicio espurio y la ejecución de los obreros anarquistas (que generará la celebración mundial del Día del Trabajador).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/330px-Chicago_River_ferry_b.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Chicago",
+      "popularityScore": 11449
+    }
+  ]
+}
