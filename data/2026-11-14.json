@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-14",
+  "events": [
+    {
+      "id": "guayana-francesa-2007",
+      "year": 2007,
+      "texto": "desde la Guayana Francesa, Francia lanza al espacio el cohete Ariane-5.",
+      "textoPista": "desde la Guayana Francesa, Francia lanza al espacio el cohete Ariane-5.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/183_Rivi%C3%A8re_de_La_Comt%C3%A9_Guyane_Fran%C3%A7aise.jpg/330px-183_Rivi%C3%A8re_de_La_Comt%C3%A9_Guyane_Fran%C3%A7aise.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guayana_Francesa",
+      "popularityScore": 11159
+    },
+    {
+      "id": "moby-dick-1851",
+      "year": 1851,
+      "texto": "en los Estados Unidos se publica por primera vez la novela Moby-Dick, de Herman Melville.",
+      "textoPista": "en los Estados Unidos se publica por primera vez la novela Moby-Dick, de Herman Melville.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Moby-Dick_FE_title_page.jpg/330px-Moby-Dick_FE_title_page.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Moby_Dick",
+      "popularityScore": 11475
+    },
+    {
+      "id": "santiago-de-chile-1883",
+      "year": 1883,
+      "texto": "en Santiago de Chile se funda la Biblioteca del Congreso Nacional.",
+      "textoPista": "en Santiago de Chile se funda la Biblioteca del Congreso Nacional.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 18750
+    },
+    {
+      "id": "luisiana-1960",
+      "year": 1960,
+      "texto": "en Luisiana (Estados Unidos) ―en el marco del racismo en Estados Unidos que asoló el país hasta 1967― la niña Ruby Bridges se convierte en el primer alumno afroestadounidense en asistir a una escuela exclusiva para blancos.",
+      "textoPista": "en Luisiana (Estados Unidos) ―en el marco del racismo en Estados Unidos que asoló el país hasta ▪▪▪▪― la niña Ruby Bridges se convierte en el primer alumno afroestadounidense en asistir a una escuela exclusiva para blancos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Louisiana_in_United_States.svg/langes-330px-Louisiana_in_United_States.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Luisiana",
+      "popularityScore": 6437
+    },
+    {
+      "id": "bogota-1967",
+      "year": 1967,
+      "texto": "en Bogotá (Colombia), el Congreso, en conmemoración de los 150 años de la muerte de Policarpa Salavarrieta, declara esta fecha como «Día de la Mujer Colombiana».",
+      "textoPista": "en Bogotá (Colombia), el Congreso, en conmemoración de los 150 años de la muerte de Policarpa Salavarrieta, declara esta fecha como «Día de la Mujer Colombiana».",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "popularityScore": 22406
+    }
+  ]
+}
