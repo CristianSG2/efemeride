@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-15",
+  "events": [
+    {
+      "id": "al-jazeera-2006",
+      "year": 2006,
+      "texto": "se lanza el canal de televisión mundial Al Jazeera.",
+      "textoPista": "se lanza el canal de televisión mundial Al Jazeera.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Al_Jazeera_Offices%2C_Kuala_Lumpur.jpg/330px-Al_Jazeera_Offices%2C_Kuala_Lumpur.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Al_Jazeera",
+      "popularityScore": 9075
+    },
+    {
+      "id": "holocausto-1943",
+      "year": 1943,
+      "texto": "en el marco del Holocausto nazi, Heinrich Himmler ordena que los gitanos sean puestos al mismo nivel que los judíos y deportados a campos de concentración.",
+      "textoPista": "en el marco del Holocausto nazi, Heinrich Himmler ordena que los gitanos sean puestos al mismo nivel que los judíos y deportados a campos de concentración.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mass_Grave_at_Bergen-Belsen_concentration_camp_-_Fritz_Klein_-_IWM_BU4260.jpg/330px-Mass_Grave_at_Bergen-Belsen_concentration_camp_-_Fritz_Klein_-_IWM_BU4260.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Holocausto",
+      "popularityScore": 16499
+    },
+    {
+      "id": "xi-jinping-2012",
+      "year": 2012,
+      "texto": "en China, Xi Jinping se convierte en el secretario general del Partido Comunista de China, y se crea un nuevo Comité Politburó de siete miembros.",
+      "textoPista": "en China, Xi Jinping se convierte en el secretario general del Partido Comunista de China, y se crea un nuevo Comité Politburó de siete miembros.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/330px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Xi_Jinping",
+      "popularityScore": 31100
+    },
+    {
+      "id": "guayaquil-1922",
+      "year": 1922,
+      "texto": "en Guayaquil (Ecuador) se produce la Masacre de obreros del 15 de noviembre de 1922, en que centenares de trabajadores son asesinados por militares.",
+      "textoPista": "en Guayaquil (Ecuador) se produce la Masacre de obreros del 15 de noviembre de ▪▪▪▪, en que centenares de trabajadores son asesinados por militares.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Gye13.jpg/330px-Gye13.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guayaquil",
+      "popularityScore": 8751
+    },
+    {
+      "id": "santiago-de-chile-1984",
+      "year": 1984,
+      "texto": "en las afueras de Santiago de Chile se funda oficialmente la comuna de Peñalolén.",
+      "textoPista": "en las afueras de Santiago de Chile se funda oficialmente la comuna de Peñalolén.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/330px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "popularityScore": 18750
+    }
+  ]
+}
