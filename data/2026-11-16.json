@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-16",
+  "events": [
+    {
+      "id": "oporto-2003",
+      "year": 2003,
+      "texto": "en Oporto, Portugal, se inaugura el Estádio do Dragão.",
+      "textoPista": "en Oporto, Portugal, se inaugura el Estádio do Dragão.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/O_Porto_%28visto_da_Ponte_Dom_Luis_I%29.jpg/330px-O_Porto_%28visto_da_Ponte_Dom_Luis_I%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Oporto",
+      "popularityScore": 10116
+    },
+    {
+      "id": "amadeo-i-de-espana-1870",
+      "year": 1870,
+      "texto": "en el Reino de España, las Cortes eligen a Amadeo de Saboya para ocupar el trono de ese país.",
+      "textoPista": "en el Reino de España, las Cortes eligen a Amadeo de Saboya para ocupar el trono de ese país.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Retrato-de-Amadeo-I-M-Hebert-Fot-Madrid_%281%29.jpg/330px-Retrato-de-Amadeo-I-M-Hebert-Fot-Madrid_%281%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Amadeo_I_de_Espa%C3%B1a",
+      "popularityScore": 9257
+    },
+    {
+      "id": "canal-de-panama-1904",
+      "year": 1904,
+      "texto": "Estados Unidos compra a Panamá, por 40 millones de dólares, todos los derechos sobre el Canal de Panamá.",
+      "textoPista": "Estados Unidos compra a Panamá, por 40 millones de dólares, todos los derechos sobre el Canal de Panamá.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vessels_locking_into_the_Panama_Canal.jpg/330px-Vessels_locking_into_the_Panama_Canal.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Canal_de_Panam%C3%A1",
+      "popularityScore": 12183
+    },
+    {
+      "id": "la-habana-1999",
+      "year": 1999,
+      "texto": "en La Habana los presidentes Fidel Castro y Hugo Chávez inauguran un monumento ecuestre a Simón Bolívar.",
+      "textoPista": "en La Habana los presidentes Fidel Castro y Hugo Chávez inauguran un monumento ecuestre a Simón Bolívar.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/HavanaMontage.png/330px-HavanaMontage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/La_Habana",
+      "popularityScore": 6609
+    },
+    {
+      "id": "patrimonio-de-la-humanidad-1979",
+      "year": 1979,
+      "texto": "la Unesco proclama Patrimonio de la Humanidad a la Habana Vieja y las fortalezas circundantes, al celebrar la ciudad el 460.º aniversario de su fundación.",
+      "textoPista": "la Unesco proclama Patrimonio de la Humanidad a la Habana Vieja y las fortalezas circundantes, al celebrar la ciudad el 460.º aniversario de su fundación.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/World_Heritage_Logo_global.svg/langes-330px-World_Heritage_Logo_global.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Patrimonio_de_la_Humanidad",
+      "popularityScore": 9240
+    }
+  ]
+}
