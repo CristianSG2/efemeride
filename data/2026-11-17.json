@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-17",
+  "events": [
+    {
+      "id": "ejercito-zapatista-de-liberacion-nacional-1983",
+      "year": 1983,
+      "texto": "en México se forma en la clandestinidad el EZLN (Ejército Zapatista de Liberación Nacional).",
+      "textoPista": "en México se forma en la clandestinidad el EZLN (Ejército Zapatista de Liberación Nacional).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional%2C_Flag.svg/langes-330px-Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional%2C_Flag.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional",
+      "popularityScore": 9061
+    },
+    {
+      "id": "guerra-de-vietnam-1967",
+      "year": 1967,
+      "texto": "en Washington D. C. ―en el marco de la guerra de Vietnam― el presidente Lyndon B. Johnson dice a la nación que, a pesar de que falta mucho por hacer, «estamos infligiendo daños muchos más grandes que los que nos están haciendo a nosotros: ¡estamos progresando!».",
+      "textoPista": "en Washington D. C. ―en el marco de la guerra de Vietnam― el presidente Lyndon B. Johnson dice a la nación que, a pesar de que falta mucho por hacer, «estamos infligiendo daños muchos más grandes que los que nos están haciendo a nosotros: ¡estamos progresando!».",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/VietnamMural.jpg/330px-VietnamMural.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Vietnam",
+      "popularityScore": 17687
+    },
+    {
+      "id": "nueva-york-1950",
+      "year": 1950,
+      "texto": "en Nueva York la ONU reconoce la independencia de Libia.",
+      "textoPista": "en Nueva York la ONU reconoce la independencia de Libia.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 30158
+    },
+    {
+      "id": "washington-d-c-1962",
+      "year": 1962,
+      "texto": "en Washington, D. C. (capital de Estados Unidos), el presidente John F. Kennedy inaugura el Aeropuerto Internacional Dulles.",
+      "textoPista": "en Washington, D. C. (capital de Estados Unidos), el presidente John F. Kennedy inaugura el Aeropuerto Internacional Dulles.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/LincolnParkDC-8063-101922_%28cropped%29.jpg/330px-LincolnParkDC-8063-101922_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Washington_D._C.",
+      "popularityScore": 15364
+    },
+    {
+      "id": "nicki-minaj-2018",
+      "year": 2018,
+      "texto": "la cantante y rapera Nicki Minaj iba a presentarse en un festival musical en Shanghái, China, sin embargo el festival resultó ser falso.",
+      "textoPista": "la cantante y rapera Nicki Minaj iba a presentarse en un festival musical en Shanghái, China, sin embargo el festival resultó ser falso.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Nicki_Minaj_%2855022752134%29_%28cropped%29.jpg/330px-Nicki_Minaj_%2855022752134%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nicki_Minaj",
+      "popularityScore": 26602
+    }
+  ]
+}
