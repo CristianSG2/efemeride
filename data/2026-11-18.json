@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-18",
+  "events": [
+    {
+      "id": "gabriela-sabatini-1996",
+      "year": 1996,
+      "texto": "se despide del tenis la argentina Gabriela Sabatini.",
+      "textoPista": "se despide del tenis la argentina Gabriela Sabatini.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Gabriela_Sabatini_US_Embassy_in_Argentina_cropped.jpg/330px-Gabriela_Sabatini_US_Embassy_in_Argentina_cropped.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Gabriela_Sabatini",
+      "popularityScore": 9841
+    },
+    {
+      "id": "wikipedia-en-espanol-2007",
+      "year": 2007,
+      "texto": "la Wikipedia en español publica su artículo número 300 000.",
+      "textoPista": "la Wikipedia en español publica su artículo número 300 000.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wikipedia-logo-v2-es.svg/langes-330px-Wikipedia-logo-v2-es.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Wikipedia_en_espa%C3%B1ol",
+      "popularityScore": 35862
+    },
+    {
+      "id": "club-alianza-lima-1934",
+      "year": 1934,
+      "texto": "Alianza Lima se corona campeón de la Primera división del Perú por cuarta vez consecutiva. Luego de derrotar por 2-1 a Universitario de Deportes.",
+      "textoPista": "Alianza Lima se corona campeón de la Primera división del Perú por cuarta vez consecutiva. Luego de derrotar por 2-1 a Universitario de Deportes.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_Alianza_Lima.svg/langes-330px-Escudo_Alianza_Lima.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Alianza_Lima",
+      "popularityScore": 6695
+    },
+    {
+      "id": "rosario-argentina-1964",
+      "year": 1964,
+      "texto": "en Rosario (Argentina) se inaugura el Canal 5",
+      "textoPista": "en Rosario (Argentina) se inaugura el Canal 5",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg/330px-Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rosario_(Argentina)",
+      "popularityScore": 9127
+    },
+    {
+      "id": "cortes-generales-1982",
+      "year": 1982,
+      "texto": "en España se constituyen las nuevas Cortes Generales.",
+      "textoPista": "en España se constituyen las nuevas Cortes Generales.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Senado_fachada_Madrid.jpg/330px-Senado_fachada_Madrid.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Cortes_Generales",
+      "popularityScore": 8881
+    }
+  ]
+}
