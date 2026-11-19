@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-19",
+  "events": [
+    {
+      "id": "hong-kong-1967",
+      "year": 1967,
+      "texto": "en Hong Kong se inaugura TVB, el primer canal comercial de televisión inalámbrica.",
+      "textoPista": "en Hong Kong se inaugura TVB, el primer canal comercial de televisión inalámbrica.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/HongKongCollage1.jpg/330px-HongKongCollage1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Hong_Kong",
+      "popularityScore": 19450
+    },
+    {
+      "id": "luis-miguel-1991",
+      "year": 1991,
+      "texto": "el cantante mexicano Luis Miguel, lanza al mercado su octavo álbum de estudio y primer álbum grabado en boleros titulado Romance.",
+      "textoPista": "el cantante mexicano Luis Miguel, lanza al mercado su octavo álbum de estudio y primer álbum grabado en boleros titulado Romance.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Luis_miguel_328_%28cropped%29_%282%29.jpg/330px-Luis_miguel_328_%28cropped%29_%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Luis_Miguel",
+      "popularityScore": 51858
+    },
+    {
+      "id": "julio-iglesias-1996",
+      "year": 1996,
+      "texto": "el cantante español Julio Iglesias, lanza al mercado su nuevo álbum, titulado Tango.",
+      "textoPista": "el cantante español Julio Iglesias, lanza al mercado su nuevo álbum, titulado Tango.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Julio_Iglesias09.jpg/330px-Julio_Iglesias09.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Julio_Iglesias",
+      "popularityScore": 52102
+    },
+    {
+      "id": "alfonso-xii-de-espana-1879",
+      "year": 1879,
+      "texto": "en Madrid, Alfonso XII contrae segundas nupcias con la aristócrata austriaca María Cristina de Habsburgo-Lorena.",
+      "textoPista": "en Madrid, Alfonso XII contrae segundas nupcias con la aristócrata austriaca María Cristina de Habsburgo-Lorena.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Alfons_XII_%28cropped%29.JPG/330px-Alfons_XII_%28cropped%29.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Alfonso_XII_de_Espa%C3%B1a",
+      "popularityScore": 19996
+    },
+    {
+      "id": "vincent-van-gogh-1998",
+      "year": 1998,
+      "texto": "el cuadro de Vincent van Gogh Portrait de l'artistae sans barbe (‘retrato del artista sin barba’) se vende en una subasta por 71.5 millones de dólares estadounidenses.",
+      "textoPista": "el cuadro de Vincent van Gogh Portrait de l'artistae sans barbe (‘retrato del artista sin barba’) se vende en una subasta por 71.5 millones de dólares estadounidenses.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/330px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Vincent_van_Gogh",
+      "popularityScore": 30289
+    }
+  ]
+}
