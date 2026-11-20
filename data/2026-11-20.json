@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-20",
+  "events": [
+    {
+      "id": "francisco-i-madero-1910",
+      "year": 1910,
+      "texto": "En México, Francisco I. Madero publica el Plan de San Luis Potosí, donde denuncia al presidente Porfirio Díaz, y se proclama presidente. Empieza la Revolución mexicana que intenta derrocar el gobierno.",
+      "textoPista": "En México, Francisco I. Madero publica el Plan de San Luis Potosí, donde denuncia al presidente Porfirio Díaz, y se proclama presidente. Empieza la Revolución mexicana que intenta derrocar el gobierno.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Presidente_Francisco_I._Madero.jpg/330px-Presidente_Francisco_I._Madero.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Francisco_I._Madero",
+      "popularityScore": 19000
+    },
+    {
+      "id": "revolucion-mexicana-1970",
+      "year": 1970,
+      "texto": "En México, en el marco de la celebraciones del 60 aniversario de la Revolución Mexicana, se pone en servicio el tercer tramo de la Línea 1 del Metro de la Ciudad de México que ahora va hacia la estación Tacubaya y el primer tramo Tlatelolco-Hospital General de la Línea 3 del Metro de la Ciudad de México.",
+      "textoPista": "En México, en el marco de la celebraciones del 60 aniversario de la Revolución Mexicana, se pone en servicio el tercer tramo de la Línea 1 del Metro de la Ciudad de México que ahora va hacia la estación Tacubaya y el primer tramo Tlatelolco-Hospital General de la Línea 3 del Metro de la Ciudad de México.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_revoluci%C3%B3n_mexicana.jpg/330px-Collage_revoluci%C3%B3n_mexicana.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_mexicana",
+      "popularityScore": 25735
+    },
+    {
+      "id": "republica-1917",
+      "year": 1917,
+      "texto": "Ucrania se convierte en una república.",
+      "textoPista": "Ucrania se convierte en una república.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Forms_of_government.svg/langes-330px-Forms_of_government.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rep%C3%BAblica",
+      "popularityScore": 7780
+    },
+    {
+      "id": "primera-guerra-mundial-1917",
+      "year": 1917,
+      "texto": "En el marco de la Primera Guerra Mundial comienza la batalla de Cambrai: Reino Unido hace replegar a las posiciones alemanas, que posteriormente contraatacan.",
+      "textoPista": "En el marco de la Primera Guerra Mundial comienza la batalla de Cambrai: Reino Unido hace replegar a las posiciones alemanas, que posteriormente contraatacan.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/PrimeraGuerraMundial-collague.jpg/330px-PrimeraGuerraMundial-collague.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
+      "popularityScore": 52808
+    },
+    {
+      "id": "enrique-pena-nieto-2014",
+      "year": 2014,
+      "texto": "En México y otros lugares del mundo se celebra el primer día de la «Acción Global por Ayotzinapa», en el que miles de mexicanos exigen la renuncia del presidente Enrique Peña Nieto debido a su responsabilidad en el asesinato de los estudiantes de Ayotzinapa.",
+      "textoPista": "En México y otros lugares del mundo se celebra el primer día de la «Acción Global por Ayotzinapa», en el que miles de mexicanos exigen la renuncia del presidente Enrique Peña Nieto debido a su responsabilidad en el asesinato de los estudiantes de Ayotzinapa.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Enrique_Pena_Nieto.jpg/330px-Enrique_Pena_Nieto.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto",
+      "popularityScore": 18814
+    }
+  ]
+}
