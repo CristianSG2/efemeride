@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-21",
+  "events": [
+    {
+      "id": "concilio-vaticano-ii-1964",
+      "year": 1964,
+      "texto": "en la Ciudad del Vaticano finaliza la tercera sesión del Concilio Vaticano II de la Iglesia católica.",
+      "textoPista": "en la Ciudad del Vaticano finaliza la tercera sesión del Concilio Vaticano II de la Iglesia católica.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Konzilseroeffnung_1.jpg/330px-Konzilseroeffnung_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Concilio_Vaticano_II",
+      "popularityScore": 5595
+    },
+    {
+      "id": "one-direction-2011",
+      "year": 2011,
+      "texto": "One Direction lanzó al mercado de Reino Unido su primer álbum de estudio, titulado Up All Night.",
+      "textoPista": "One Direction lanzó al mercado de Reino Unido su primer álbum de estudio, titulado Up All Night.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/330px-One_Direction_Sydney_4.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/One_Direction",
+      "popularityScore": 10405
+    },
+    {
+      "id": "guerra-de-secesion-1861",
+      "year": 1861,
+      "texto": "en la guerra civil estadounidense, el presidente confederado Jefferson Davis nombra a Judah Philip Benjamin como Secretario de Guerra.",
+      "textoPista": "en la guerra civil estadounidense, el presidente confederado Jefferson Davis nombra a Judah Philip Benjamin como Secretario de Guerra.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/CivilWarUSAColl.png/330px-CivilWarUSAColl.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Guerra_de_Secesi%C3%B3n",
+      "popularityScore": 17379
+    },
+    {
+      "id": "nueva-york-1959",
+      "year": 1959,
+      "texto": "en Nueva York, la radio WABC-AM echa al disyóquey Alan Freed (37) ―quien popularizó el término «rock and roll»― por haber participado en el escándalo de la payola (haber aceptado sobornos para difundir a un músico en particular).",
+      "textoPista": "en Nueva York, la radio WABC-AM echa al disyóquey Alan Freed (37) ―quien popularizó el término «rock and roll»― por haber participado en el escándalo de la payola (haber aceptado sobornos para difundir a un músico en particular).",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "popularityScore": 31646
+    },
+    {
+      "id": "carlos-menem-2000",
+      "year": 2000,
+      "texto": "en Buenos Aires (Argentina), queda en libertad el expresidente Carlos Menem, preso por cargos de asociación ilícita.",
+      "textoPista": "en Buenos Aires (Argentina), queda en libertad el expresidente Carlos Menem, preso por cargos de asociación ilícita.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Menem_con_banda_presidencial.jpg/330px-Menem_con_banda_presidencial.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Carlos_Menem",
+      "popularityScore": 20457
+    }
+  ]
+}
