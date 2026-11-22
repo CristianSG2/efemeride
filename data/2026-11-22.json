@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-22",
+  "events": [
+    {
+      "id": "rosario-argentina-1861",
+      "year": 1861,
+      "texto": "a 80 km al oeste de Rosario (Argentina), poco antes de la medianoche, las tropas porteñas unitarias del militar uruguayo Venancio Flores, enviadas por el general Bartolomé Mitre, asesinan a 300 soldados federales argentinos en la matanza de Cañada de Gómez. Entre los sobrevivientes se encuentran José Hernández, Rafael Hérnández y Leandro N. Alem.",
+      "textoPista": "a 80 km al oeste de Rosario (Argentina), poco antes de la medianoche, las tropas porteñas unitarias del militar uruguayo Venancio Flores, enviadas por el general Bartolomé Mitre, asesinan a 300 soldados federales argentinos en la matanza de Cañada de Gómez. Entre los sobrevivientes se encuentran José Hernández, Rafael Hérnández y Leandro N. Alem.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg/330px-Acto_del_bicentenario_de_la_creaci%C3%B3n_de_la_bandera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Rosario_(Argentina)",
+      "popularityScore": 9589
+    },
+    {
+      "id": "isaac-rabin-1995",
+      "year": 1995,
+      "texto": "en Israel, Simón Peres asume la jefatura del Gobierno y el cargo de ministro de Defensa, tras el asesinato de Isaac Rabin por parte de un ultrasionista de extrema derecha",
+      "textoPista": "en Israel, Simón Peres asume la jefatura del Gobierno y el cargo de ministro de Defensa, tras el asesinato de Isaac Rabin por parte de un ultrasionista de extrema derecha",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Flickr_-_Israel_Defense_Forces_-_Life_of_Lt._Gen._Yitzhak_Rabin%2C_7th_IDF_Chief_of_Staff_in_photos_%2811%29.jpg/330px-Flickr_-_Israel_Defense_Forces_-_Life_of_Lt._Gen._Yitzhak_Rabin%2C_7th_IDF_Chief_of_Staff_in_photos_%2811%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Isaac_Rabin",
+      "popularityScore": 7164
+    },
+    {
+      "id": "jose-lopez-portillo-1982",
+      "year": 1982,
+      "texto": "en la Ciudad de México. el presidente José López Portillo y el regente de la ciudad Carlos Hank González, inauguran al público la Central de Abastos de la Ciudad de México.",
+      "textoPista": "en la Ciudad de México. el presidente José López Portillo y el regente de la ciudad Carlos Hank González, inauguran al público la Central de Abastos de la Ciudad de México.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Jose_Lopez_Portillo_new.jpg/330px-Jose_Lopez_Portillo_new.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Jos%C3%A9_L%C3%B3pez_Portillo",
+      "popularityScore": 13407
+    },
+    {
+      "id": "pancho-villa-1912",
+      "year": 1912,
+      "texto": "en México, Pancho Villa es encarcelado en la prisión militar de Santiago Tlatelolco.",
+      "textoPista": "en México, Pancho Villa es encarcelado en la prisión militar de Santiago Tlatelolco.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/General_Francisco_Villa_%28cropped%29.jpg/330px-General_Francisco_Villa_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pancho_Villa",
+      "popularityScore": 23384
+    },
+    {
+      "id": "mauricio-macri-2015",
+      "year": 2015,
+      "texto": "en Argentina se realiza por primera vez una segunda vuelta electoral para la presidencia, en la que Mauricio Macri resulta ganador con el 51,45 %, con una participación del 80,92 % del padrón electoral y un número altísimo de abstencionismo.",
+      "textoPista": "en Argentina se realiza por primera vez una segunda vuelta electoral para la presidencia, en la que Mauricio Macri resulta ganador con el 51,45 %, con una participación del 80,92 % del padrón electoral y un número altísimo de abstencionismo.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Retrato_oficial_del_Presidente_Mauricio_Macri.jpg/330px-Retrato_oficial_del_Presidente_Mauricio_Macri.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Mauricio_Macri",
+      "popularityScore": 16978
+    }
+  ]
+}
