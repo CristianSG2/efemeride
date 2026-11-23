@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-23",
+  "events": [
+    {
+      "id": "venus-planeta-1965",
+      "year": 1965,
+      "texto": "la Unión Soviética lanza la sonda Cosmos 96 a Venus, que fracasa al no lograr abandonar la órbita terrestre.",
+      "textoPista": "la Unión Soviética lanza la sonda Cosmos 96 a Venus, que fracasa al no lograr abandonar la órbita terrestre.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/330px-Venus_from_Mariner_10.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Venus_(planeta)",
+      "popularityScore": 14418
+    },
+    {
+      "id": "asuncion-2024",
+      "year": 2024,
+      "texto": "en Asunción (Paraguay), Racing Club de Argentina vence 3–1 a Cruzeiro de Brasil en el Estadio General Pablo Rojas, y se consagra campeón de la Copa Sudamericana 2024.",
+      "textoPista": "en Asunción (Paraguay), Racing Club de Argentina vence 3–1 a Cruzeiro de Brasil en el Estadio General Pablo Rojas, y se consagra campeón de la Copa Sudamericana ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_de_Gobierno2.jpg/330px-Palacio_de_Gobierno2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
+      "popularityScore": 9208
+    },
+    {
+      "id": "estrasburgo-1944",
+      "year": 1944,
+      "texto": "liberación de Estrasburgo en el decurso de la Segunda Guerra Mundial.",
+      "textoPista": "liberación de Estrasburgo en el decurso de la Segunda Guerra Mundial.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Strasbourg_Cathedral_%28cropped%29.jpg/330px-Strasbourg_Cathedral_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Estrasburgo",
+      "popularityScore": 8252
+    },
+    {
+      "id": "copa-libertadores-de-america-2019",
+      "year": 2019,
+      "texto": "En la final de la Conmebol Libertadores, el Flamengo derrota a River Plate por 2 - 1 en el Estadio Monumental de Lima, Perú, tras una remontada histórica en 3 minutos con 2 goles de Gabriel Barbosa - Gabigol -, consagrándose como el campeón de América tras 38 años.",
+      "textoPista": "En la final de la Conmebol Libertadores, el Flamengo derrota a River Plate por 2 - 1 en el Estadio Monumental de Lima, Perú, tras una remontada histórica en 3 minutos con 2 goles de Gabriel Barbosa - Gabigol -, consagrándose como el campeón de América tras 38 años.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png/330px-328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica",
+      "popularityScore": 109140
+    },
+    {
+      "id": "club-atletico-rosario-central-1997",
+      "year": 1997,
+      "texto": "el equipo de fútbol argentino Newell's Old Boys abandona frente a su clásico rival, Rosario Central, después de que este último goleara 4 a 0 al conjunto rojinegro.",
+      "textoPista": "el equipo de fútbol argentino Newell's Old Boys abandona frente a su clásico rival, Rosario Central, después de que este último goleara 4 a 0 al conjunto rojinegro.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Escudo_Rosario_Central.png/330px-Escudo_Rosario_Central.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Rosario_Central",
+      "popularityScore": 9509
+    }
+  ]
+}
