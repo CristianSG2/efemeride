@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-24",
+  "events": [
+    {
+      "id": "golpe-de-estado-1948",
+      "year": 1948,
+      "texto": "en Venezuela, el presidente Rómulo Gallegos es derrocado por un golpe de Estado.",
+      "textoPista": "en Venezuela, el presidente Rómulo Gallegos es derrocado por un golpe de Estado.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/330px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Golpe_de_Estado",
+      "popularityScore": 5176
+    },
+    {
+      "id": "adolf-hitler-1932",
+      "year": 1932,
+      "texto": "en Alemania, Paul von Hindenburg (presidente de la República de Weimar) negocia con Adolf Hitler la formación de un nuevo gobierno.",
+      "textoPista": "en Alemania, Paul von Hindenburg (presidente de la República de Weimar) negocia con Adolf Hitler la formación de un nuevo gobierno.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/330px-Hitler_portrait_crop.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Adolf_Hitler",
+      "popularityScore": 80209
+    },
+    {
+      "id": "juan-pablo-ii-1985",
+      "year": 1985,
+      "texto": "el papa Juan Pablo II inaugura el sínodo extraordinario de obispos.",
+      "textoPista": "el papa Juan Pablo II inaugura el sínodo extraordinario de obispos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/330px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Juan_Pablo_II",
+      "popularityScore": 69808
+    },
+    {
+      "id": "los-angeles-2019",
+      "year": 2019,
+      "texto": "en Los Ángeles (California) se lleva a cabo la 47.ª edición de los American Music Awards.",
+      "textoPista": "en Los Ángeles (California) se lleva a cabo la 47.ª edición de los American Music Awards.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
+      "popularityScore": 20437
+    },
+    {
+      "id": "john-f-kennedy-1963",
+      "year": 1963,
+      "texto": "en Estados Unidos, Jack Ruby asesina a tiros a Lee Harvey Oswald, supuesto asesino del presidente estadounidense John F. Kennedy.",
+      "textoPista": "en Estados Unidos, Jack Ruby asesina a tiros a Lee Harvey Oswald, supuesto asesino del presidente estadounidense John F. Kennedy.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/John_F._Kennedy",
+      "popularityScore": 33231
+    }
+  ]
+}
