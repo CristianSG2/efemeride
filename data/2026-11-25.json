@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-25",
+  "events": [
+    {
+      "id": "estrasburgo-1918",
+      "year": 1918,
+      "texto": "en el marco de la Primera Guerra Mundial, entra en Estrasburgo el mariscal francés Philippe Pétain.",
+      "textoPista": "en el marco de la Primera Guerra Mundial, entra en Estrasburgo el mariscal francés Philippe Pétain.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Strasbourg_Cathedral_%28cropped%29.jpg/330px-Strasbourg_Cathedral_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Estrasburgo",
+      "popularityScore": 8252
+    },
+    {
+      "id": "che-guevara-1956",
+      "year": 1956,
+      "texto": "en México, Fidel Castro, su hermano Raúl, el Che Guevara y 79 expedicionarios más zarpan del puerto de Tuxpan en el yate Granma para iniciar la Revolución cubana.",
+      "textoPista": "en México, Fidel Castro, su hermano Raúl, el Che Guevara y 79 expedicionarios más zarpan del puerto de Tuxpan en el yate Granma para iniciar la Revolución cubana.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/330px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Che_Guevara",
+      "popularityScore": 79878
+    },
+    {
+      "id": "atlanta-1885",
+      "year": 1885,
+      "texto": "en Atlanta (Estados Unidos) se vota la «ley seca», que entrará en vigor en 1886.",
+      "textoPista": "en Atlanta (Estados Unidos) se vota la «ley seca», que entrará en vigor en ▪▪▪▪.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/A2ATL20250614-0721_%28cropped%29.jpg/330px-A2ATL20250614-0721_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Atlanta",
+      "popularityScore": 7317
+    },
+    {
+      "id": "albert-einstein-1915",
+      "year": 1915,
+      "texto": "en Berlín (Alemania), el físico Albert Einstein presenta ante la Academia Prusiana de las Ciencias su teoría de la relatividad general.",
+      "textoPista": "en Berlín (Alemania), el físico Albert Einstein presenta ante la Academia Prusiana de las Ciencias su teoría de la relatividad general.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/330px-Albert_Einstein_Head_cleaned.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Albert_Einstein",
+      "popularityScore": 65312
+    },
+    {
+      "id": "paises-bajos-1975",
+      "year": 1975,
+      "texto": "Surinam se independiza de Países Bajos.",
+      "textoPista": "Surinam se independiza de Países Bajos.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Netherlands_in_European_Union.svg/langes-330px-Netherlands_in_European_Union.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos",
+      "popularityScore": 39148
+    }
+  ]
+}
