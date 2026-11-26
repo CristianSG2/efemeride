@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-26",
+  "events": [
+    {
+      "id": "gustavo-cerati-2002",
+      "year": 2002,
+      "texto": "en Buenos Aires (Argentina), Gustavo Cerati lanza al mercado el álbum Siempre es Hoy.",
+      "textoPista": "en Buenos Aires (Argentina), Gustavo Cerati lanza al mercado el álbum Siempre es Hoy.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Gustavo_Cerati.jpg/330px-Gustavo_Cerati.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Gustavo_Cerati",
+      "popularityScore": 37565
+    },
+    {
+      "id": "nasa-1985",
+      "year": 1985,
+      "texto": "la NASA pone en órbita el satélite mexicano Morelos II.",
+      "textoPista": "la NASA pone en órbita el satélite mexicano Morelos II.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/langes-330px-NASA_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/NASA",
+      "popularityScore": 7456
+    },
+    {
+      "id": "la-habana-1871",
+      "year": 1871,
+      "texto": "en La Habana (capitanía general de Cuba, colonia del Reino de España), Federico Capdevilla pronuncia su célebre defensa de los ocho estudiantes de medicina, que sin embargo al día siguiente serán fusilados por el Gobierno español.",
+      "textoPista": "en La Habana (capitanía general de Cuba, colonia del Reino de España), Federico Capdevilla pronuncia su célebre defensa de los ocho estudiantes de medicina, que sin embargo al día siguiente serán fusilados por el Gobierno español.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/HavanaMontage.png/330px-HavanaMontage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/La_Habana",
+      "popularityScore": 6784
+    },
+    {
+      "id": "cataluna-2009",
+      "year": 2009,
+      "texto": "doce periódicos catalanes publican de manera conjunta el editorial La dignidad de Cataluña defendiendo el Estatuto de autonomía de Cataluña de 2006, en proceso de revisión por el Tribunal Constitucional de España.",
+      "textoPista": "doce periódicos catalanes publican de manera conjunta el editorial La dignidad de Cataluña defendiendo el Estatuto de autonomía de Cataluña de ▪▪▪▪, en proceso de revisión por el Tribunal Constitucional de España.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Cataluna_in_Spain_%28including_Canarias%29.svg/langes-330px-Cataluna_in_Spain_%28including_Canarias%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Catalu%C3%B1a",
+      "popularityScore": 21061
+    },
+    {
+      "id": "sahara-1965",
+      "year": 1965,
+      "texto": "desde las instalaciones de Hammaguir (en el desierto del Sáhara), el Gobierno de Francia lanza un cohete Diamant-A con el satélite Astérix-1 (o A-1) a bordo, convirtiéndose en el primer país, tras las dos superpotencias, en poner un satélite en órbita.",
+      "textoPista": "desde las instalaciones de Hammaguir (en el desierto del Sáhara), el Gobierno de Francia lanza un cohete Diamant-A con el satélite Astérix-1 (o A-1) a bordo, convirtiéndose en el primer país, tras las dos superpotencias, en poner un satélite en órbita.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sahara_satellite_hires.jpg/330px-Sahara_satellite_hires.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Sahara",
+      "popularityScore": 6666
+    }
+  ]
+}
