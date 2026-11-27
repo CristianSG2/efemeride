@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-27",
+  "events": [
+    {
+      "id": "club-alianza-lima-1938",
+      "year": 1938,
+      "texto": "El Club Alianza Lima desciende a Segunda División del Perú tras perder ante el Club Mariscal Sucre.",
+      "textoPista": "El Club Alianza Lima desciende a Segunda División del Perú tras perder ante el Club Mariscal Sucre.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_Alianza_Lima.svg/langes-330px-Escudo_Alianza_Lima.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Alianza_Lima",
+      "popularityScore": 7171
+    },
+    {
+      "id": "george-harrison-1970",
+      "year": 1970,
+      "texto": "El músico británico George Harrison saca a la venta su primer álbum de estudio posterior a la separación de The Beatles, llamado All Things Must Pass.",
+      "textoPista": "El músico británico George Harrison saca a la venta su primer álbum de estudio posterior a la separación de The Beatles, llamado All Things Must Pass.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/George-wa-portrait.jpg/330px-George-wa-portrait.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/George_Harrison",
+      "popularityScore": 18709
+    },
+    {
+      "id": "categoria-primera-a-2016",
+      "year": 2016,
+      "texto": "América de Cali derrota 2-1 a Deportes Quindío y vuelve a la Primera División del Fútbol Profesional Colombiano después de 5 años.",
+      "textoPista": "América de Cali derrota 2-1 a Deportes Quindío y vuelve a la Primera División del Fútbol Profesional Colombiano después de 5 años.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/BetPlay-Dimayor_logo.svg/langes-330px-BetPlay-Dimayor_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Categor%C3%ADa_Primera_A",
+      "popularityScore": 18775
+    },
+    {
+      "id": "alfred-nobel-1895",
+      "year": 1895,
+      "texto": "Alfred Nobel dispone en su testamento que las rentas de su fortuna se distribuyan en los cinco premios Nobel.",
+      "textoPista": "Alfred Nobel dispone en su testamento que las rentas de su fortuna se distribuyan en los cinco premios Nobel.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/330px-Alfred_Nobel3.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Alfred_Nobel",
+      "popularityScore": 9413
+    },
+    {
+      "id": "liga-deportiva-universitaria-de-quito-2020",
+      "year": 2020,
+      "texto": "En Ecuador, en el encuentro entre Liga de Quito y Centro Deportivo Olmedo, el árbitro Gabriel Ismael González Cordero paró el juego a los diez minutos exactos del primer tiempo, en plena jugada, para homenajear a Diego Armando Maradona, a los tres días de su fallecimiento.",
+      "textoPista": "En Ecuador, en el encuentro entre Liga de Quito y Centro Deportivo Olmedo, el árbitro Gabriel Ismael González Cordero paró el juego a los diez minutos exactos del primer tiempo, en plena jugada, para homenajear a Diego Armando Maradona, a los tres días de su fallecimiento.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg/langes-330px-Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito",
+      "popularityScore": 7315
+    }
+  ]
+}
