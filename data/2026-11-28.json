@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-28",
+  "events": [
+    {
+      "id": "lyndon-b-johnson-1965",
+      "year": 1965,
+      "texto": "el presidente estadounidense Lyndon B. Johnson designa esta jornada \"Día de la Oración Nacional\", en memoria de las víctimas estadounidenses de la guerra de Vietnam.",
+      "textoPista": "el presidente estadounidense Lyndon B. Johnson designa esta jornada \"Día de la Oración Nacional\", en memoria de las víctimas estadounidenses de la guerra de Vietnam.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/LBJ_photo_portrait_leaning_on_chair_color_%28cropped%29.jpg/330px-LBJ_photo_portrait_leaning_on_chair_color_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Lyndon_B._Johnson",
+      "popularityScore": 11322
+    },
+    {
+      "id": "barcelona-sporting-club-2012",
+      "year": 2012,
+      "texto": "en Ecuador el equipo de fútbol Barcelona SC se consagra campeón de la temporada 2012 tras 15 años.",
+      "textoPista": "en Ecuador el equipo de fútbol Barcelona SC se consagra campeón de la temporada ▪▪▪▪ tras 15 años.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Barcelona_Sporting_Club_%28Guayaquil%2C_Ecuador%29_logo.svg/langes-330px-Barcelona_Sporting_Club_%28Guayaquil%2C_Ecuador%29_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Barcelona_Sporting_Club",
+      "popularityScore": 9410
+    },
+    {
+      "id": "club-alianza-lima-2021",
+      "year": 2021,
+      "texto": "Alianza Lima logra campeonar en la Primera División del Perú ante Sporting Cristal en el estadio nacional,consiguiendo así su estrella número 25",
+      "textoPista": "Alianza Lima logra campeonar en la Primera División del Perú ante Sporting Cristal en el estadio nacional,consiguiendo así su estrella número 25",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_Alianza_Lima.svg/langes-330px-Escudo_Alianza_Lima.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Club_Alianza_Lima",
+      "popularityScore": 7171
+    },
+    {
+      "id": "pedro-munoz-seca-1936",
+      "year": 1936,
+      "texto": "en Paracuellos de Jarama (cerca de Madrid, España), el dramaturgo Pedro Muñoz Seca es fusilado. (Matanzas de Paracuellos).",
+      "textoPista": "en Paracuellos de Jarama (cerca de Madrid, España), el dramaturgo Pedro Muñoz Seca es fusilado. (Matanzas de Paracuellos).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pedro_Mu%C3%B1oz_Seca.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Pedro_Mu%C3%B1oz_Seca",
+      "popularityScore": 7908
+    },
+    {
+      "id": "vuelo-2933-de-lamia-2016",
+      "year": 2016,
+      "texto": "en el municipio de La Unión, Antioquia, (Colombia) se estrella el Vuelo 2933 de LaMia, que transportaba al equipo brasileño de fútbol Chapecoense; mueren 71 personas y quedan 6 heridas.",
+      "textoPista": "en el municipio de La Unión, Antioquia, (Colombia) se estrella el Vuelo 2933 de LaMia, que transportaba al equipo brasileño de fútbol Chapecoense; mueren 71 personas y quedan 6 heridas.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg/330px-Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipediaUrl": "https://es.wikipedia.org/wiki/Vuelo_2933_de_LaMia",
+      "popularityScore": 6031
+    }
+  ]
+}
